@@ -1,6 +1,6 @@
 Connected!
-Custom propagation turned on.
-Strong propagation (branch-based) turned on.
+Bitsliced propagation turned on.
+Wordwise propagation (branch-based) turned on.
 c --- [ banner ] -------------------------------------------------------------
 c 
 c CaDiCaL SAT Solver
@@ -3675,7 +3675,7 @@ c total prop. time:                              678.25    seconds
 c total 2-bit derive time:                         0.00    seconds
 c total 2-bit check time:                          0.00    seconds
 c total mendel branch time:                        0.00    seconds
-c total strong propagation time:                 532.77    seconds
+c total wordwise propagation time:               532.77    seconds
 c total callback time:                          1528.14    seconds
 c discounted time:                              1098.90    seconds
 c 
