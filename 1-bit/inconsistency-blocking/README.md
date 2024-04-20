@@ -1,1 +1,0 @@
-Solved with inconstency blocking every 20 skips
