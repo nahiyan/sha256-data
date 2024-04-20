@@ -1,7 +1,7 @@
 # SHA-256 Collisions
 
 This repository contains files related to the step-reduced SHA-256 collision
-attack, specifically the SAT solver log files, encodings, and list of
+attack, specifically the SAT solver log files, encodings, and lists of
 collisions.
 
 The `sfs` directory houses the files related to SFS collisions. Inside, the
