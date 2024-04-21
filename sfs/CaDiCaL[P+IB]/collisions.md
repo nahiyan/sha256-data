@@ -1,1262 +1,992 @@
 # 20 steps with seed 0
 
-$h_0 = $  `e540217f 17fd9476 9dcc1cfe b16a65d8 fd493435 dd00454f 627ef0ff a0b8c185`
-
-$h_0' = $ `e540217f 17fd9476 9dcc1cfe b16a65d8 fd493435 dd00454f 627ef0ff a0b8c185`
-
-$M = $ `3c03fb6c 81c2c0ff be862baf 553c5e58 85cdd755 d3d793e5 5ffcd66b 2180ef2d 5a83c07f 75e22ffe b7f6b849 22ec3321 0000000e 00020100 66004010 84060502`
-
-$M' = $ `3c03fb6c 81c2c0ff be862baf 553c5e58 85cdd755 c95793e5 2f86b66e 00cad9d5 5df3407d 75e22ffe b7f6b849 22ec3321 0000000e 0a820100 66004010 84060502`
-
-$h_1 = $  `22ea5ca3 8c23a97d 58182a7c 5b191ead 6836e2e3 b4816803 823bde24 2fae1753`
-
-$h_1' = $ `22ea5ca3 8c23a97d 58182a7c 5b191ead 6836e2e3 b4816803 823bde24 2fae1753`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `e540217f 17fd9476 9dcc1cfe b16a65d8 fd493435 dd00454f 627ef0ff a0b8c185` |
+| $h'_0$ | `e540217f 17fd9476 9dcc1cfe b16a65d8 fd493435 dd00454f 627ef0ff a0b8c185` |
+| $M$ | `3c03fb6c 81c2c0ff be862baf 553c5e58 85cdd755 d3d793e5 5ffcd66b 2180ef2d 5a83c07f 75e22ffe b7f6b849 22ec3321 0000000e 00020100 66004010 84060502` |
+| $M'$ | `3c03fb6c 81c2c0ff be862baf 553c5e58 85cdd755 c95793e5 2f86b66e 00cad9d5 5df3407d 75e22ffe b7f6b849 22ec3321 0000000e 0a820100 66004010 84060502` |
+| $h_1$ | `22ea5ca3 8c23a97d 58182a7c 5b191ead 6836e2e3 b4816803 823bde24 2fae1753` |
+| $h'_1$ | `22ea5ca3 8c23a97d 58182a7c 5b191ead 6836e2e3 b4816803 823bde24 2fae1753` |
 
 # 20 steps with seed 1
 
-$h_0 = $  `40cd20a3 40d66ce2 b1d2c973 6970b202 8a311974 87d02012 93ac8abd 10`
-
-$h_0' = $ `40cd20a3 40d66ce2 b1d2c973 6970b202 8a311974 87d02012 93ac8abd 10`
-
-$M = $ `00b54900 11004013 0fd076a7 682aa0d7 527e2940 bdeff2bc cf0996fc c9b50576 f6e27eb9 594bcefb 99702aa1 29898ad1 00000000 00000000 00000000 00000000`
-
-$M' = $ `00b54900 11004013 0fd076a7 682aa0d7 527e2940 606ff2bc 5aeb5724 1c69120f 5d62ef5b 594bcefb 99702aa1 29898ad1 00000000 5d800000 00000000 00000000`
-
-$h_1 = $  `329ae18b 76d6a5c1 4cb44c76 52ee98c5 3e05fbe5 ae72c5e6 fa207f47 02ed4d5d`
-
-$h_1' = $ `329ae18b 76d6a5c1 4cb44c76 52ee98c5 3e05fbe5 ae72c5e6 fa207f47 02ed4d5d`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `40cd20a3 40d66ce2 b1d2c973 6970b202 8a311974 87d02012 93ac8abd 10` |
+| $h'_0$ | `40cd20a3 40d66ce2 b1d2c973 6970b202 8a311974 87d02012 93ac8abd 10` |
+| $M$ | `00b54900 11004013 0fd076a7 682aa0d7 527e2940 bdeff2bc cf0996fc c9b50576 f6e27eb9 594bcefb 99702aa1 29898ad1 00000000 00000000 00000000 00000000` |
+| $M'$ | `00b54900 11004013 0fd076a7 682aa0d7 527e2940 606ff2bc 5aeb5724 1c69120f 5d62ef5b 594bcefb 99702aa1 29898ad1 00000000 5d800000 00000000 00000000` |
+| $h_1$ | `329ae18b 76d6a5c1 4cb44c76 52ee98c5 3e05fbe5 ae72c5e6 fa207f47 02ed4d5d` |
+| $h'_1$ | `329ae18b 76d6a5c1 4cb44c76 52ee98c5 3e05fbe5 ae72c5e6 fa207f47 02ed4d5d` |
 
 # 20 steps with seed 2
 
-$h_0 = $  `2c82240d c3cf4753 c35e8250 8b384288 726c302b 95496561 372a257d ca43`
-
-$h_0' = $ `2c82240d c3cf4753 c35e8250 8b384288 726c302b 95496561 372a257d ca43`
-
-$M = $ `79cb8e10 00000000 801c8108 00010000 6b258202 0a741c00 26efc74b 5a4d0c97 1c91c899 86f6928f bd988fdf f140fba5 0014bc30 00000000 e0f19b80 f80900b8`
-
-$M' = $ `79cb8e10 00000000 801c8108 00010000 6b258202 0df41c00 ff05a757 41affbf3 f8f1b89b 86f6928f bd988fdf f140fba5 0014bc30 fc800000 e0f19b80 f80900b8`
-
-$h_1 = $  `890a7c56 acad721d 6beed9a4 12645ecc 244b6a31 458782d5 0eac0a9b c78fabff`
-
-$h_1' = $ `890a7c56 acad721d 6beed9a4 12645ecc 244b6a31 458782d5 0eac0a9b c78fabff`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `2c82240d c3cf4753 c35e8250 8b384288 726c302b 95496561 372a257d ca43` |
+| $h'_0$ | `2c82240d c3cf4753 c35e8250 8b384288 726c302b 95496561 372a257d ca43` |
+| $M$ | `79cb8e10 00000000 801c8108 00010000 6b258202 0a741c00 26efc74b 5a4d0c97 1c91c899 86f6928f bd988fdf f140fba5 0014bc30 00000000 e0f19b80 f80900b8` |
+| $M'$ | `79cb8e10 00000000 801c8108 00010000 6b258202 0df41c00 ff05a757 41affbf3 f8f1b89b 86f6928f bd988fdf f140fba5 0014bc30 fc800000 e0f19b80 f80900b8` |
+| $h_1$ | `890a7c56 acad721d 6beed9a4 12645ecc 244b6a31 458782d5 0eac0a9b c78fabff` |
+| $h'_1$ | `890a7c56 acad721d 6beed9a4 12645ecc 244b6a31 458782d5 0eac0a9b c78fabff` |
 
 # 20 steps with seed 3
 
-$h_0 = $  `8d017024 6550fd64 e050020a 7482d02a 535d1409 ca1d0282 5f446121 9a67cf12`
-
-$h_0' = $ `8d017024 6550fd64 e050020a 7482d02a 535d1409 ca1d0282 5f446121 9a67cf12`
-
-$M = $ `0e7404ed 44824008 8606d44a fd84252d 7639a042 91431d01 0ee8b47b 1117fbd0 5039573f c8bed42e 2c6b4943 0cb8428b 00000010 00800000 ba0c0098 00006320`
-
-$M' = $ `0e7404ed 44824008 8606d44a fd84252d 7639a042 24c31d01 d587b46f a7037051 e4d9473d c8bed42e 2c6b4943 0cb8428b 00000010 6d000000 ba0c0098 00006320`
-
-$h_1 = $  `9f44b7f2 826b9917 28bfdb2a c032464b 2664d5ec b81c7229 41cb0f8c 07344b4e`
-
-$h_1' = $ `9f44b7f2 826b9917 28bfdb2a c032464b 2664d5ec b81c7229 41cb0f8c 07344b4e`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `8d017024 6550fd64 e050020a 7482d02a 535d1409 ca1d0282 5f446121 9a67cf12` |
+| $h'_0$ | `8d017024 6550fd64 e050020a 7482d02a 535d1409 ca1d0282 5f446121 9a67cf12` |
+| $M$ | `0e7404ed 44824008 8606d44a fd84252d 7639a042 91431d01 0ee8b47b 1117fbd0 5039573f c8bed42e 2c6b4943 0cb8428b 00000010 00800000 ba0c0098 00006320` |
+| $M'$ | `0e7404ed 44824008 8606d44a fd84252d 7639a042 24c31d01 d587b46f a7037051 e4d9473d c8bed42e 2c6b4943 0cb8428b 00000010 6d000000 ba0c0098 00006320` |
+| $h_1$ | `9f44b7f2 826b9917 28bfdb2a c032464b 2664d5ec b81c7229 41cb0f8c 07344b4e` |
+| $h'_1$ | `9f44b7f2 826b9917 28bfdb2a c032464b 2664d5ec b81c7229 41cb0f8c 07344b4e` |
 
 # 20 steps with seed 4
 
-$h_0 = $  `7a2d608a 15f9d7d8 d77c3101 99794322 009b9283 76bd00aa 1bebaab2 97ddaae`
-
-$h_0' = $ `7a2d608a 15f9d7d8 d77c3101 99794322 009b9283 76bd00aa 1bebaab2 97ddaae`
-
-$M = $ `c05d4a2e 523ee27b 5e51d020 ca07bfd0 bef63ebb 9af0d43f cc74cac7 4920b3ff 2db2a9f5 2ee4cbb6 46dd79c4 888a9080 00c00000 0800080a 42b84000 00485e04`
-
-$M' = $ `c05d4a2e 523ee27b 5e51d020 ca07bfd0 bef63ebb db120c7f ba81eb64 f3045ae7 bd918fb5 2ee4cbb6 46dd79c4 888a9080 00c00000 c7decfca 42b84000 00485e04`
-
-$h_1 = $  `77bbc042 855bb4fd 9328bed4 312630a3 8c12cb6f b0581397 2280ccc5 534629d4`
-
-$h_1' = $ `77bbc042 855bb4fd 9328bed4 312630a3 8c12cb6f b0581397 2280ccc5 534629d4`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `7a2d608a 15f9d7d8 d77c3101 99794322 009b9283 76bd00aa 1bebaab2 97ddaae` |
+| $h'_0$ | `7a2d608a 15f9d7d8 d77c3101 99794322 009b9283 76bd00aa 1bebaab2 97ddaae` |
+| $M$ | `c05d4a2e 523ee27b 5e51d020 ca07bfd0 bef63ebb 9af0d43f cc74cac7 4920b3ff 2db2a9f5 2ee4cbb6 46dd79c4 888a9080 00c00000 0800080a 42b84000 00485e04` |
+| $M'$ | `c05d4a2e 523ee27b 5e51d020 ca07bfd0 bef63ebb db120c7f ba81eb64 f3045ae7 bd918fb5 2ee4cbb6 46dd79c4 888a9080 00c00000 c7decfca 42b84000 00485e04` |
+| $h_1$ | `77bbc042 855bb4fd 9328bed4 312630a3 8c12cb6f b0581397 2280ccc5 534629d4` |
+| $h'_1$ | `77bbc042 855bb4fd 9328bed4 312630a3 8c12cb6f b0581397 2280ccc5 534629d4` |
 
 # 20 steps with seed 5
 
-$h_0 = $  `f484cc91 bf47e08f 154adc27 469ecc7f 80028068 88243101 47847088 9fd3eaff`
-
-$h_0' = $ `f484cc91 bf47e08f 154adc27 469ecc7f 80028068 88243101 47847088 9fd3eaff`
-
-$M = $ `069f40c5 058958a4 3140750b 92a2e746 42fd8754 078fd9f8 e9e31981 fa878857 bbda698c 76004161 441ced49 504001c1 00000001 00000000 00000000 00000000`
-
-$M' = $ `069f40c5 058958a4 3140750b 92a2e746 42fd8754 d30fd9f8 570dd979 00380de9 f03e6992 76004161 441ced49 504001c1 00000001 34800000 00000000 00000000`
-
-$h_1 = $  `0defa33e 86143390 cfc2766d edc12b69 2aaae02a aa4d9f0b 04acc119 3e74a85a`
-
-$h_1' = $ `0defa33e 86143390 cfc2766d edc12b69 2aaae02a aa4d9f0b 04acc119 3e74a85a`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `f484cc91 bf47e08f 154adc27 469ecc7f 80028068 88243101 47847088 9fd3eaff` |
+| $h'_0$ | `f484cc91 bf47e08f 154adc27 469ecc7f 80028068 88243101 47847088 9fd3eaff` |
+| $M$ | `069f40c5 058958a4 3140750b 92a2e746 42fd8754 078fd9f8 e9e31981 fa878857 bbda698c 76004161 441ced49 504001c1 00000001 00000000 00000000 00000000` |
+| $M'$ | `069f40c5 058958a4 3140750b 92a2e746 42fd8754 d30fd9f8 570dd979 00380de9 f03e6992 76004161 441ced49 504001c1 00000001 34800000 00000000 00000000` |
+| $h_1$ | `0defa33e 86143390 cfc2766d edc12b69 2aaae02a aa4d9f0b 04acc119 3e74a85a` |
+| $h'_1$ | `0defa33e 86143390 cfc2766d edc12b69 2aaae02a aa4d9f0b 04acc119 3e74a85a` |
 
 # 20 steps with seed 6
 
-$h_0 = $  `31e1d3b0 c94e0a02 c0f0d006 3de70f9b e133db60 430d593d 9fa21784 5b9f4d3e`
-
-$h_0' = $ `31e1d3b0 c94e0a02 c0f0d006 3de70f9b e133db60 430d593d 9fa21784 5b9f4d3e`
-
-$M = $ `51e10b2e 4221f57e ab5c0a0c f2581f40 0754648f d68618bf 027f1b13 4070d190 e042298d 68adb8e0 a082effe a6dc103f 22cb9da8 2c0024b8 50166e1d 725ccd59`
-
-$M' = $ `51e10b2e 4221f57e ab5c0a0c f2581f40 0754648f 2da9b8bf 64ce65e2 12dee26f 396f898d 68adb8e0 a082effe a6dc103f 22cb9da8 d4dc84b8 50166e1d 725ccd59`
-
-$h_1 = $  `524b0d07 3172010e dd52a949 d26e1e17 b44540f5 a0244e58 9bc9ef14 fd053921`
-
-$h_1' = $ `524b0d07 3172010e dd52a949 d26e1e17 b44540f5 a0244e58 9bc9ef14 fd053921`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `31e1d3b0 c94e0a02 c0f0d006 3de70f9b e133db60 430d593d 9fa21784 5b9f4d3e` |
+| $h'_0$ | `31e1d3b0 c94e0a02 c0f0d006 3de70f9b e133db60 430d593d 9fa21784 5b9f4d3e` |
+| $M$ | `51e10b2e 4221f57e ab5c0a0c f2581f40 0754648f d68618bf 027f1b13 4070d190 e042298d 68adb8e0 a082effe a6dc103f 22cb9da8 2c0024b8 50166e1d 725ccd59` |
+| $M'$ | `51e10b2e 4221f57e ab5c0a0c f2581f40 0754648f 2da9b8bf 64ce65e2 12dee26f 396f898d 68adb8e0 a082effe a6dc103f 22cb9da8 d4dc84b8 50166e1d 725ccd59` |
+| $h_1$ | `524b0d07 3172010e dd52a949 d26e1e17 b44540f5 a0244e58 9bc9ef14 fd053921` |
+| $h'_1$ | `524b0d07 3172010e dd52a949 d26e1e17 b44540f5 a0244e58 9bc9ef14 fd053921` |
 
 # 20 steps with seed 7
 
-$h_0 = $  `320166a2 20410316 4f58740f c44b3a45 9261800d e015c916 d4fa010e aad0e23`
-
-$h_0' = $ `320166a2 20410316 4f58740f c44b3a45 9261800d e015c916 d4fa010e aad0e23`
-
-$M = $ `04000004 8c4b9222 00a10009 00080202 00008800 1e004048 50000084 07269737 0fb8793d 37f59d41 1a84acb7 d5d1309b f0ac0000 00000002 2601b000 d487ccc8`
-
-$M' = $ `04000004 8c4b9222 00a10009 00080202 00008800 8b804048 fdc9407f 70a9d421 6217cb3d 37f59d41 1a84acb7 d5d1309b f0ac0000 92800002 2601b000 d487ccc8`
-
-$h_1 = $  `da66f135 3621f483 8f3334ff a6530d05 daa891a6 2dd31b1e 6f941082 8399035a`
-
-$h_1' = $ `da66f135 3621f483 8f3334ff a6530d05 daa891a6 2dd31b1e 6f941082 8399035a`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `320166a2 20410316 4f58740f c44b3a45 9261800d e015c916 d4fa010e aad0e23` |
+| $h'_0$ | `320166a2 20410316 4f58740f c44b3a45 9261800d e015c916 d4fa010e aad0e23` |
+| $M$ | `04000004 8c4b9222 00a10009 00080202 00008800 1e004048 50000084 07269737 0fb8793d 37f59d41 1a84acb7 d5d1309b f0ac0000 00000002 2601b000 d487ccc8` |
+| $M'$ | `04000004 8c4b9222 00a10009 00080202 00008800 8b804048 fdc9407f 70a9d421 6217cb3d 37f59d41 1a84acb7 d5d1309b f0ac0000 92800002 2601b000 d487ccc8` |
+| $h_1$ | `da66f135 3621f483 8f3334ff a6530d05 daa891a6 2dd31b1e 6f941082 8399035a` |
+| $h'_1$ | `da66f135 3621f483 8f3334ff a6530d05 daa891a6 2dd31b1e 6f941082 8399035a` |
 
 # 20 steps with seed 8
 
-$h_0 = $  `5bd0c474 58ba20ab 7b0b7836 7b2ee03f 8e410401 220b062a 628876c3 98089eb5`
-
-$h_0' = $ `5bd0c474 58ba20ab 7b0b7836 7b2ee03f 8e410401 220b062a 628876c3 98089eb5`
-
-$M = $ `bc27eded 9a8c19b0 cfa1f93e 24737794 4acd4b0f ac20355f fbe883da 89968299 07cd71a3 64acadba 198a09df 0613efd6 4b579cea 00000000 ec511a4c 0d04db52`
-
-$M' = $ `bc27eded 9a8c19b0 cfa1f93e 24737794 4acd4b0f f026055f b9539182 4110e25a 789ad1ad 64acadba 198a09df 0613efd6 4b579cea bbfa3000 ec511a4c 0d04db52`
-
-$h_1 = $  `f1415532 b02545a6 099967df 86343d36 f852eb32 2b489581 b4c02ecf 6c29077f`
-
-$h_1' = $ `f1415532 b02545a6 099967df 86343d36 f852eb32 2b489581 b4c02ecf 6c29077f`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `5bd0c474 58ba20ab 7b0b7836 7b2ee03f 8e410401 220b062a 628876c3 98089eb5` |
+| $h'_0$ | `5bd0c474 58ba20ab 7b0b7836 7b2ee03f 8e410401 220b062a 628876c3 98089eb5` |
+| $M$ | `bc27eded 9a8c19b0 cfa1f93e 24737794 4acd4b0f ac20355f fbe883da 89968299 07cd71a3 64acadba 198a09df 0613efd6 4b579cea 00000000 ec511a4c 0d04db52` |
+| $M'$ | `bc27eded 9a8c19b0 cfa1f93e 24737794 4acd4b0f f026055f b9539182 4110e25a 789ad1ad 64acadba 198a09df 0613efd6 4b579cea bbfa3000 ec511a4c 0d04db52` |
+| $h_1$ | `f1415532 b02545a6 099967df 86343d36 f852eb32 2b489581 b4c02ecf 6c29077f` |
+| $h'_1$ | `f1415532 b02545a6 099967df 86343d36 f852eb32 2b489581 b4c02ecf 6c29077f` |
 
 # 20 steps with seed 9
 
-$h_0 = $  `2a91f92d b1f516b4 3fed5f09 5454b52e bbfd9f81 2bfa0b42 15a3090d 844156dc`
-
-$h_0' = $ `2a91f92d b1f516b4 3fed5f09 5454b52e bbfd9f81 2bfa0b42 15a3090d 844156dc`
-
-$M = $ `17c7e382 bb83ac88 516e0284 007ffb1e 46fbaa90 0840007f 4e20e6f7 922cea0b 3a00626b ca386e12 d59b6e8c 4a8b8461 296c00c5 39e86068 d0894269 c5e355d2`
-
-$M' = $ `17c7e382 bb83ac88 516e0284 007ffb1e 46fbaa90 0cc0007f f9ba26ef 30058349 36bfc251 ca386e12 d59b6e8c 4a8b8461 296c00c5 35686068 d0894269 c5e355d2`
-
-$h_1 = $  `f3198674 f86bf9e0 60aea806 6ba70a82 78c3986b 9a37c4a0 ef9851b6 eea8f491`
-
-$h_1' = $ `f3198674 f86bf9e0 60aea806 6ba70a82 78c3986b 9a37c4a0 ef9851b6 eea8f491`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `2a91f92d b1f516b4 3fed5f09 5454b52e bbfd9f81 2bfa0b42 15a3090d 844156dc` |
+| $h'_0$ | `2a91f92d b1f516b4 3fed5f09 5454b52e bbfd9f81 2bfa0b42 15a3090d 844156dc` |
+| $M$ | `17c7e382 bb83ac88 516e0284 007ffb1e 46fbaa90 0840007f 4e20e6f7 922cea0b 3a00626b ca386e12 d59b6e8c 4a8b8461 296c00c5 39e86068 d0894269 c5e355d2` |
+| $M'$ | `17c7e382 bb83ac88 516e0284 007ffb1e 46fbaa90 0cc0007f f9ba26ef 30058349 36bfc251 ca386e12 d59b6e8c 4a8b8461 296c00c5 35686068 d0894269 c5e355d2` |
+| $h_1$ | `f3198674 f86bf9e0 60aea806 6ba70a82 78c3986b 9a37c4a0 ef9851b6 eea8f491` |
+| $h'_1$ | `f3198674 f86bf9e0 60aea806 6ba70a82 78c3986b 9a37c4a0 ef9851b6 eea8f491` |
 
 # 21 steps with seed 0
 
-$h_0 = $  `52ce7912 82ac4f0a 6624eb04 cf981481 415a9d75 56d6bb25 6cf70942 501a195`
-
-$h_0' = $ `52ce7912 82ac4f0a 6624eb04 cf981481 415a9d75 56d6bb25 6cf70942 501a195`
-
-$M = $ `00803101 0476e092 015c8012 04018060 842a0094 b413d027 e1bcb331 a5ccdebe 63c57ced 13ed7009 98cdf9d4 c83d84ca 8a9146b4 bc1fd0f3 01620150 00001b74`
-
-$M' = $ `00803101 0476e092 015c8012 04018060 842a0094 4a101027 acbc7288 44581f78 ed9a3ced 13ed7009 98cdf9d4 c83d84ca 8a9146b4 262390f3 01620150 00001b74`
-
-$h_1 = $  `be345e98 705d5bfa c1f775eb b81b665b 9c7ed319 7ff429d7 6e18e410 378c2fea`
-
-$h_1' = $ `be345e98 705d5bfa c1f775eb b81b665b 9c7ed319 7ff429d7 6e18e410 378c2fea`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `52ce7912 82ac4f0a 6624eb04 cf981481 415a9d75 56d6bb25 6cf70942 501a195` |
+| $h'_0$ | `52ce7912 82ac4f0a 6624eb04 cf981481 415a9d75 56d6bb25 6cf70942 501a195` |
+| $M$ | `00803101 0476e092 015c8012 04018060 842a0094 b413d027 e1bcb331 a5ccdebe 63c57ced 13ed7009 98cdf9d4 c83d84ca 8a9146b4 bc1fd0f3 01620150 00001b74` |
+| $M'$ | `00803101 0476e092 015c8012 04018060 842a0094 4a101027 acbc7288 44581f78 ed9a3ced 13ed7009 98cdf9d4 c83d84ca 8a9146b4 262390f3 01620150 00001b74` |
+| $h_1$ | `be345e98 705d5bfa c1f775eb b81b665b 9c7ed319 7ff429d7 6e18e410 378c2fea` |
+| $h'_1$ | `be345e98 705d5bfa c1f775eb b81b665b 9c7ed319 7ff429d7 6e18e410 378c2fea` |
 
 # 21 steps with seed 1
 
-$h_0 = $  `5f8fd221 2663b1eb 12f52009 ba933496 8046d981 8f2f9541 17ed09ea b6aa485e`
-
-$h_0' = $ `5f8fd221 2663b1eb 12f52009 ba933496 8046d981 8f2f9541 17ed09ea b6aa485e`
-
-$M = $ `b009a754 18967758 43495642 b70e4e39 0e8daffe 95abd9fc eb092ad0 9b9727d6 c5d50f5a 9c0a4bac 1034fa31 3cb59ab7 0befe33f 18b3c3a2 e924a40b 29be6d60`
-
-$M' = $ `b009a754 18967758 43495642 b70e4e39 0e8daffe 6ba819fc 0cc01d23 3980d072 f450c974 9c0a4bac 1034fa31 3cb59ab7 0befe33f 42b783a2 e924a40b 29be6d60`
-
-$h_1 = $  `615e0f48 9b6c02d7 f03be327 f61ad79a 757c66a6 1dc5fbd8 ede8a7d9 953b0e34`
-
-$h_1' = $ `615e0f48 9b6c02d7 f03be327 f61ad79a 757c66a6 1dc5fbd8 ede8a7d9 953b0e34`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `5f8fd221 2663b1eb 12f52009 ba933496 8046d981 8f2f9541 17ed09ea b6aa485e` |
+| $h'_0$ | `5f8fd221 2663b1eb 12f52009 ba933496 8046d981 8f2f9541 17ed09ea b6aa485e` |
+| $M$ | `b009a754 18967758 43495642 b70e4e39 0e8daffe 95abd9fc eb092ad0 9b9727d6 c5d50f5a 9c0a4bac 1034fa31 3cb59ab7 0befe33f 18b3c3a2 e924a40b 29be6d60` |
+| $M'$ | `b009a754 18967758 43495642 b70e4e39 0e8daffe 6ba819fc 0cc01d23 3980d072 f450c974 9c0a4bac 1034fa31 3cb59ab7 0befe33f 42b783a2 e924a40b 29be6d60` |
+| $h_1$ | `615e0f48 9b6c02d7 f03be327 f61ad79a 757c66a6 1dc5fbd8 ede8a7d9 953b0e34` |
+| $h'_1$ | `615e0f48 9b6c02d7 f03be327 f61ad79a 757c66a6 1dc5fbd8 ede8a7d9 953b0e34` |
 
 # 21 steps with seed 2
 
-$h_0 = $  `3979ef7f df43eff7 b7bda319 61de9e17 b9d1a6cb 6b40fc42 cd6d61f8 ccfa99fe`
-
-$h_0' = $ `3979ef7f df43eff7 b7bda319 61de9e17 b9d1a6cb 6b40fc42 cd6d61f8 ccfa99fe`
-
-$M = $ `76bde7ff 42ff9fec fbf9ccff 57fefbb7 f656fded 362816de 5fc4f2d8 b6edfefd fb9ffddd b85f5c38 f63d1521 2c96f57b a65e6f3c f1afdd04 57ff7fde 6efd659f`
-
-$M' = $ `76bde7ff 42ff9fec fbf9ccff 57fefbb7 f656fded c82bd6de e97b451f 4971ef37 6993bddf b85f5c38 f63d1521 2c96f57b a65e6f3c 5fac1d04 57ff7fde 6efd659f`
-
-$h_1 = $  `f2233d47 df873432 2ccb5d85 2f4cc93f 199e19ca d56b4580 eef1cadc bbf76934`
-
-$h_1' = $ `f2233d47 df873432 2ccb5d85 2f4cc93f 199e19ca d56b4580 eef1cadc bbf76934`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `3979ef7f df43eff7 b7bda319 61de9e17 b9d1a6cb 6b40fc42 cd6d61f8 ccfa99fe` |
+| $h'_0$ | `3979ef7f df43eff7 b7bda319 61de9e17 b9d1a6cb 6b40fc42 cd6d61f8 ccfa99fe` |
+| $M$ | `76bde7ff 42ff9fec fbf9ccff 57fefbb7 f656fded 362816de 5fc4f2d8 b6edfefd fb9ffddd b85f5c38 f63d1521 2c96f57b a65e6f3c f1afdd04 57ff7fde 6efd659f` |
+| $M'$ | `76bde7ff 42ff9fec fbf9ccff 57fefbb7 f656fded c82bd6de e97b451f 4971ef37 6993bddf b85f5c38 f63d1521 2c96f57b a65e6f3c 5fac1d04 57ff7fde 6efd659f` |
+| $h_1$ | `f2233d47 df873432 2ccb5d85 2f4cc93f 199e19ca d56b4580 eef1cadc bbf76934` |
+| $h'_1$ | `f2233d47 df873432 2ccb5d85 2f4cc93f 199e19ca d56b4580 eef1cadc bbf76934` |
 
 # 21 steps with seed 3
 
-$h_0 = $  `96d94605 1c989042 b58a8a5f 28373e20 f1e1b12d a94fce21 61d8b468 85705b86`
-
-$h_0' = $ `96d94605 1c989042 b58a8a5f 28373e20 f1e1b12d a94fce21 61d8b468 85705b86`
-
-$M = $ `d710f1bd 0763338e 74a746ed aadeef7b 86cff84c d21428e5 cd236d9d 5161fef9 c4f99110 4f8852e0 0a4e1075 2ad47802 4388ed32 9210c0c1 18c49e19 afac56d8`
-
-$M' = $ `d710f1bd 0763338e 74a746ed aadeef7b 86cff84c 2c17e8e5 5b6ff6d1 7b05d137 598650e6 4f8852e0 0a4e1075 2ad47802 4388ed32 380d00c1 18c49e19 afac56d8`
-
-$h_1 = $  `b06368de 818d210e eb4392cc 0e261a45 67437ec1 71c81501 8a9a71cd 9631193b`
-
-$h_1' = $ `b06368de 818d210e eb4392cc 0e261a45 67437ec1 71c81501 8a9a71cd 9631193b`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `96d94605 1c989042 b58a8a5f 28373e20 f1e1b12d a94fce21 61d8b468 85705b86` |
+| $h'_0$ | `96d94605 1c989042 b58a8a5f 28373e20 f1e1b12d a94fce21 61d8b468 85705b86` |
+| $M$ | `d710f1bd 0763338e 74a746ed aadeef7b 86cff84c d21428e5 cd236d9d 5161fef9 c4f99110 4f8852e0 0a4e1075 2ad47802 4388ed32 9210c0c1 18c49e19 afac56d8` |
+| $M'$ | `d710f1bd 0763338e 74a746ed aadeef7b 86cff84c 2c17e8e5 5b6ff6d1 7b05d137 598650e6 4f8852e0 0a4e1075 2ad47802 4388ed32 380d00c1 18c49e19 afac56d8` |
+| $h_1$ | `b06368de 818d210e eb4392cc 0e261a45 67437ec1 71c81501 8a9a71cd 9631193b` |
+| $h'_1$ | `b06368de 818d210e eb4392cc 0e261a45 67437ec1 71c81501 8a9a71cd 9631193b` |
 
 # 21 steps with seed 4
 
-$h_0 = $  `d9967008 626045b7 a82f29ba 61715c5e 5e79e352 32826251 d48a4dc4 b968c41`
-
-$h_0' = $ `d9967008 626045b7 a82f29ba 61715c5e 5e79e352 32826251 d48a4dc4 b968c41`
-
-$M = $ `745c0415 751500bf b4a22d6c 01a5288a c72dffbd ed5bdf47 8f9005da 55cc9a88 3fd25fa7 9e7f95ff c8e73051 61e96a69 21faaf0f befcc9aa a7ce58dd 09f904cc`
-
-$M' = $ `745c0415 751500bf b4a22d6c 01a5288a c72dffbd 13581f47 7659b577 a8860fb8 58f4cfa3 9e7f95ff c8e73051 61e96a69 21faaf0f 990089aa a7ce58dd 09f904cc`
-
-$h_1 = $  `fba4d4ad 83bb01e2 24704cf2 f53b1979 e7319db0 5a9927b1 56b0be94 e3bc6863`
-
-$h_1' = $ `fba4d4ad 83bb01e2 24704cf2 f53b1979 e7319db0 5a9927b1 56b0be94 e3bc6863`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `d9967008 626045b7 a82f29ba 61715c5e 5e79e352 32826251 d48a4dc4 b968c41` |
+| $h'_0$ | `d9967008 626045b7 a82f29ba 61715c5e 5e79e352 32826251 d48a4dc4 b968c41` |
+| $M$ | `745c0415 751500bf b4a22d6c 01a5288a c72dffbd ed5bdf47 8f9005da 55cc9a88 3fd25fa7 9e7f95ff c8e73051 61e96a69 21faaf0f befcc9aa a7ce58dd 09f904cc` |
+| $M'$ | `745c0415 751500bf b4a22d6c 01a5288a c72dffbd 13581f47 7659b577 a8860fb8 58f4cfa3 9e7f95ff c8e73051 61e96a69 21faaf0f 990089aa a7ce58dd 09f904cc` |
+| $h_1$ | `fba4d4ad 83bb01e2 24704cf2 f53b1979 e7319db0 5a9927b1 56b0be94 e3bc6863` |
+| $h'_1$ | `fba4d4ad 83bb01e2 24704cf2 f53b1979 e7319db0 5a9927b1 56b0be94 e3bc6863` |
 
 # 21 steps with seed 5
 
-$h_0 = $  `d368ffc1 c93abf45 5f56360f 3cb26b03 b5cffa0a 3a25d35a 5bc1fe8f effe3fe3`
-
-$h_0' = $ `d368ffc1 c93abf45 5f56360f 3cb26b03 b5cffa0a 3a25d35a 5bc1fe8f effe3fe3`
-
-$M = $ `7c6ff41e 2ce9e310 ba9a59ee e5289ea8 50ff6204 6a340836 dc9b893a bd54ac56 c6577234 181b308f 852942ef 7b58a083 313e185d fd02439c f7d6578d 88146cc7`
-
-$M' = $ `7c6ff41e 2ce9e310 ba9a59ee e5289ea8 50ff6204 9437c836 229f9231 e08483ba 99a5b1de 181b308f 852942ef 7b58a083 313e185d d2fe839c f7d6578d 88146cc7`
-
-$h_1 = $  `a23ec048 4f7689f7 7335af69 19225af7 9f4402b4 06a84ec3 0c393cd6 e12d0f35`
-
-$h_1' = $ `a23ec048 4f7689f7 7335af69 19225af7 9f4402b4 06a84ec3 0c393cd6 e12d0f35`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `d368ffc1 c93abf45 5f56360f 3cb26b03 b5cffa0a 3a25d35a 5bc1fe8f effe3fe3` |
+| $h'_0$ | `d368ffc1 c93abf45 5f56360f 3cb26b03 b5cffa0a 3a25d35a 5bc1fe8f effe3fe3` |
+| $M$ | `7c6ff41e 2ce9e310 ba9a59ee e5289ea8 50ff6204 6a340836 dc9b893a bd54ac56 c6577234 181b308f 852942ef 7b58a083 313e185d fd02439c f7d6578d 88146cc7` |
+| $M'$ | `7c6ff41e 2ce9e310 ba9a59ee e5289ea8 50ff6204 9437c836 229f9231 e08483ba 99a5b1de 181b308f 852942ef 7b58a083 313e185d d2fe839c f7d6578d 88146cc7` |
+| $h_1$ | `a23ec048 4f7689f7 7335af69 19225af7 9f4402b4 06a84ec3 0c393cd6 e12d0f35` |
+| $h'_1$ | `a23ec048 4f7689f7 7335af69 19225af7 9f4402b4 06a84ec3 0c393cd6 e12d0f35` |
 
 # 21 steps with seed 6
 
-$h_0 = $  `8f8c46f6 3d7081c4 e6295699 11fec368 96c7c951 6d18e890 b94fd796 a21cbc66`
-
-$h_0' = $ `8f8c46f6 3d7081c4 e6295699 11fec368 96c7c951 6d18e890 b94fd796 a21cbc66`
-
-$M = $ `89b31b54 181a4211 bbb9f0c5 1cb6c80a b52b2a74 7443e70d 7117e77f 5da0821c c5946e4e c71710a3 e7bf5a77 a75d9719 0fc0f0ef c77ab92c bc9e49fd f2fdffd3`
-
-$M' = $ `89b31b54 181a4211 bbb9f0c5 1cb6c80a b52b2a74 8a40270d 399c62c6 93a031a6 ab182e44 c71710a3 e7bf5a77 a75d9719 0fc0f0ef b17e792c bc9e49fd f2fdffd3`
-
-$h_1 = $  `814ff629 e327e171 ddbc9489 c7da9900 dd3e26b8 1d234b87 61eb734c 141deaa5`
-
-$h_1' = $ `814ff629 e327e171 ddbc9489 c7da9900 dd3e26b8 1d234b87 61eb734c 141deaa5`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `8f8c46f6 3d7081c4 e6295699 11fec368 96c7c951 6d18e890 b94fd796 a21cbc66` |
+| $h'_0$ | `8f8c46f6 3d7081c4 e6295699 11fec368 96c7c951 6d18e890 b94fd796 a21cbc66` |
+| $M$ | `89b31b54 181a4211 bbb9f0c5 1cb6c80a b52b2a74 7443e70d 7117e77f 5da0821c c5946e4e c71710a3 e7bf5a77 a75d9719 0fc0f0ef c77ab92c bc9e49fd f2fdffd3` |
+| $M'$ | `89b31b54 181a4211 bbb9f0c5 1cb6c80a b52b2a74 8a40270d 399c62c6 93a031a6 ab182e44 c71710a3 e7bf5a77 a75d9719 0fc0f0ef b17e792c bc9e49fd f2fdffd3` |
+| $h_1$ | `814ff629 e327e171 ddbc9489 c7da9900 dd3e26b8 1d234b87 61eb734c 141deaa5` |
+| $h'_1$ | `814ff629 e327e171 ddbc9489 c7da9900 dd3e26b8 1d234b87 61eb734c 141deaa5` |
 
 # 21 steps with seed 7
 
-$h_0 = $  `add12957 f11f6723 8ebc3253 12e6ce45 d8c6bbe2 aede25fc 5a4afc3c 345f123`
-
-$h_0' = $ `add12957 f11f6723 8ebc3253 12e6ce45 d8c6bbe2 aede25fc 5a4afc3c 345f123`
-
-$M = $ `984801b8 50805000 47814001 16000c42 e830c518 97800907 5533c0ab dd05c990 b2fdf30b 71cbbb35 87aa8be4 788b7015 15c7073c d8029bfa 3718f780 64acd9b5`
-
-$M' = $ `984801b8 50805000 47814001 16000c42 e830c518 6983c907 bb456fc8 01276d17 d9013b5b 71cbbb35 87aa8be4 788b7015 15c7073c 05fedbfa 3718f780 64acd9b5`
-
-$h_1 = $  `1cfac434 f6e811d2 a8290e56 01c701f5 e6323727 5dc06cdf 8124ea39 1b751b71`
-
-$h_1' = $ `1cfac434 f6e811d2 a8290e56 01c701f5 e6323727 5dc06cdf 8124ea39 1b751b71`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `add12957 f11f6723 8ebc3253 12e6ce45 d8c6bbe2 aede25fc 5a4afc3c 345f123` |
+| $h'_0$ | `add12957 f11f6723 8ebc3253 12e6ce45 d8c6bbe2 aede25fc 5a4afc3c 345f123` |
+| $M$ | `984801b8 50805000 47814001 16000c42 e830c518 97800907 5533c0ab dd05c990 b2fdf30b 71cbbb35 87aa8be4 788b7015 15c7073c d8029bfa 3718f780 64acd9b5` |
+| $M'$ | `984801b8 50805000 47814001 16000c42 e830c518 6983c907 bb456fc8 01276d17 d9013b5b 71cbbb35 87aa8be4 788b7015 15c7073c 05fedbfa 3718f780 64acd9b5` |
+| $h_1$ | `1cfac434 f6e811d2 a8290e56 01c701f5 e6323727 5dc06cdf 8124ea39 1b751b71` |
+| $h'_1$ | `1cfac434 f6e811d2 a8290e56 01c701f5 e6323727 5dc06cdf 8124ea39 1b751b71` |
 
 # 21 steps with seed 8
 
-$h_0 = $  `264f1f48 6d9cb47d 36c93041 e9928719 1538b081 11ceb4c7 ee07835f f7d2ce8`
-
-$h_0' = $ `264f1f48 6d9cb47d 36c93041 e9928719 1538b081 11ceb4c7 ee07835f f7d2ce8`
-
-$M = $ `99cfba7c d16097dc 78e1d458 06db3b05 554befe5 4f5817a5 a76020b7 259d7a95 13f68366 5129fecc 1277cda1 50d63212 0c31bdc3 d16a4806 61fc8921 68cf13ad`
-
-$M' = $ `99cfba7c d16097dc 78e1d458 06db3b05 554befe5 b15bd7a5 4fe3b46c 6ac9cd09 6efac2aa 5129fecc 1277cda1 50d63212 0c31bdc3 6f668806 61fc8921 68cf13ad`
-
-$h_1 = $  `210747b8 d6e4bc4e 888adbc4 42d65608 ea742cb8 17ad22ab 67709bfa b972018f`
-
-$h_1' = $ `210747b8 d6e4bc4e 888adbc4 42d65608 ea742cb8 17ad22ab 67709bfa b972018f`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `264f1f48 6d9cb47d 36c93041 e9928719 1538b081 11ceb4c7 ee07835f f7d2ce8` |
+| $h'_0$ | `264f1f48 6d9cb47d 36c93041 e9928719 1538b081 11ceb4c7 ee07835f f7d2ce8` |
+| $M$ | `99cfba7c d16097dc 78e1d458 06db3b05 554befe5 4f5817a5 a76020b7 259d7a95 13f68366 5129fecc 1277cda1 50d63212 0c31bdc3 d16a4806 61fc8921 68cf13ad` |
+| $M'$ | `99cfba7c d16097dc 78e1d458 06db3b05 554befe5 b15bd7a5 4fe3b46c 6ac9cd09 6efac2aa 5129fecc 1277cda1 50d63212 0c31bdc3 6f668806 61fc8921 68cf13ad` |
+| $h_1$ | `210747b8 d6e4bc4e 888adbc4 42d65608 ea742cb8 17ad22ab 67709bfa b972018f` |
+| $h'_1$ | `210747b8 d6e4bc4e 888adbc4 42d65608 ea742cb8 17ad22ab 67709bfa b972018f` |
 
 # 21 steps with seed 9
 
-$h_0 = $  `564492d1 5e807564 519eb808 82c2157a 7c50a26b 188ba49a 6449998a 58acf148`
-
-$h_0' = $ `564492d1 5e807564 519eb808 82c2157a 7c50a26b 188ba49a 6449998a 58acf148`
-
-$M = $ `1a1ae220 50418ff8 101289f9 b2262960 c2ca04e0 f44be10d 2c7dccb8 b6147eba 432d6d05 d09375fe 37d85b6f 5fcdf91d c8b226ee 334e480b 24cb7179 00000000`
-
-$M' = $ `1a1ae220 50418ff8 101289f9 b2262960 c2ca04e0 0a48210d 1dce920f 09e13907 2930ad11 d09375fe 37d85b6f 5fcdf91d c8b226ee 1d52080b 24cb7179 00000000`
-
-$h_1 = $  `9e6826df a06dfc48 dad5d291 da069da6 84c36b02 938d21e0 2e2bbc27 d8acc1fc`
-
-$h_1' = $ `9e6826df a06dfc48 dad5d291 da069da6 84c36b02 938d21e0 2e2bbc27 d8acc1fc`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `564492d1 5e807564 519eb808 82c2157a 7c50a26b 188ba49a 6449998a 58acf148` |
+| $h'_0$ | `564492d1 5e807564 519eb808 82c2157a 7c50a26b 188ba49a 6449998a 58acf148` |
+| $M$ | `1a1ae220 50418ff8 101289f9 b2262960 c2ca04e0 f44be10d 2c7dccb8 b6147eba 432d6d05 d09375fe 37d85b6f 5fcdf91d c8b226ee 334e480b 24cb7179 00000000` |
+| $M'$ | `1a1ae220 50418ff8 101289f9 b2262960 c2ca04e0 0a48210d 1dce920f 09e13907 2930ad11 d09375fe 37d85b6f 5fcdf91d c8b226ee 1d52080b 24cb7179 00000000` |
+| $h_1$ | `9e6826df a06dfc48 dad5d291 da069da6 84c36b02 938d21e0 2e2bbc27 d8acc1fc` |
+| $h'_1$ | `9e6826df a06dfc48 dad5d291 da069da6 84c36b02 938d21e0 2e2bbc27 d8acc1fc` |
 
 # 22 steps with seed 0
 
-$h_0 = $  `fe870fe0 c179a9b9 38fe9b28 793498e8 d1cc466e 33834af3 77410981 4a8755`
-
-$h_0' = $ `fe870fe0 c179a9b9 38fe9b28 793498e8 d1cc466e 33834af3 77410981 4a8755`
-
-$M = $ `10808e16 089d3800 b96d6a0d 06e27e10 996e0450 32a5c0b0 801c0290 0106800c 8cd00000 70263b5a cfe887a3 50e01da5 057b3c9a 17efc02e f9720068 120a8217`
-
-$M' = $ `10808e16 089d3800 b96d6a0d 06e27e10 996e0450 32a5c0b0 801c0290 0106800c 0d900000 ef663b5a cfe887a3 50c01d1d 057b3c9a 17efc02e f9720068 120a8217`
-
-$h_1 = $  `1458dc65 f7bfef75 ea400aa9 92b0c2ad 8eddacdb 9f674ab3 25f38516 a906d8dd`
-
-$h_1' = $ `1458dc65 f7bfef75 ea400aa9 92b0c2ad 8eddacdb 9f674ab3 25f38516 a906d8dd`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `fe870fe0 c179a9b9 38fe9b28 793498e8 d1cc466e 33834af3 77410981 4a8755` |
+| $h'_0$ | `fe870fe0 c179a9b9 38fe9b28 793498e8 d1cc466e 33834af3 77410981 4a8755` |
+| $M$ | `10808e16 089d3800 b96d6a0d 06e27e10 996e0450 32a5c0b0 801c0290 0106800c 8cd00000 70263b5a cfe887a3 50e01da5 057b3c9a 17efc02e f9720068 120a8217` |
+| $M'$ | `10808e16 089d3800 b96d6a0d 06e27e10 996e0450 32a5c0b0 801c0290 0106800c 0d900000 ef663b5a cfe887a3 50c01d1d 057b3c9a 17efc02e f9720068 120a8217` |
+| $h_1$ | `1458dc65 f7bfef75 ea400aa9 92b0c2ad 8eddacdb 9f674ab3 25f38516 a906d8dd` |
+| $h'_1$ | `1458dc65 f7bfef75 ea400aa9 92b0c2ad 8eddacdb 9f674ab3 25f38516 a906d8dd` |
 
 # 22 steps with seed 1
 
-$h_0 = $  `d3af86e5 73e6fb46 efc9fe55 e09dca0a 1ab3edc8 8d7fef78 ded1ebf2 03f7f24`
-
-$h_0' = $ `d3af86e5 73e6fb46 efc9fe55 e09dca0a 1ab3edc8 8d7fef78 ded1ebf2 03f7f24`
-
-$M = $ `dd38ff10 37e77ea7 64fd56bc bbd98bd3 2afd719d fe60d05b 86cb7b9c 91415674 8d1d8153 8c0fec19 3840c2e6 ae9a41ab 4cf6a4f4 5bf7dcc2 92d40128 1c683a5a`
-
-$M' = $ `dd38ff10 37e77ea7 64fd56bc bbd98bd3 2afd719d fe60d05b 86cb7b9c 91415674 4f9d8153 c98fec19 3840c2e6 ae8da99b 4cf6a4f4 5bf7dcc2 92d40128 1c683a5a`
-
-$h_1 = $  `22c573ee 5f63c86d 1d9a4ecf cd138af3 719b5200 015ae281 549866fd 73d1f17a`
-
-$h_1' = $ `22c573ee 5f63c86d 1d9a4ecf cd138af3 719b5200 015ae281 549866fd 73d1f17a`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `d3af86e5 73e6fb46 efc9fe55 e09dca0a 1ab3edc8 8d7fef78 ded1ebf2 03f7f24` |
+| $h'_0$ | `d3af86e5 73e6fb46 efc9fe55 e09dca0a 1ab3edc8 8d7fef78 ded1ebf2 03f7f24` |
+| $M$ | `dd38ff10 37e77ea7 64fd56bc bbd98bd3 2afd719d fe60d05b 86cb7b9c 91415674 8d1d8153 8c0fec19 3840c2e6 ae9a41ab 4cf6a4f4 5bf7dcc2 92d40128 1c683a5a` |
+| $M'$ | `dd38ff10 37e77ea7 64fd56bc bbd98bd3 2afd719d fe60d05b 86cb7b9c 91415674 4f9d8153 c98fec19 3840c2e6 ae8da99b 4cf6a4f4 5bf7dcc2 92d40128 1c683a5a` |
+| $h_1$ | `22c573ee 5f63c86d 1d9a4ecf cd138af3 719b5200 015ae281 549866fd 73d1f17a` |
+| $h'_1$ | `22c573ee 5f63c86d 1d9a4ecf cd138af3 719b5200 015ae281 549866fd 73d1f17a` |
 
 # 22 steps with seed 2
 
-$h_0 = $  `9b271830 423c9a82 215bc543 2da0094e e7bf8dc5 c1ee76c0 71882b7c ba021422`
-
-$h_0' = $ `9b271830 423c9a82 215bc543 2da0094e e7bf8dc5 c1ee76c0 71882b7c ba021422`
-
-$M = $ `8a94e9cd 74124680 d21d93b5 4ce62460 fba00530 9c926ae8 b3c3b171 2b527d17 a10a9fab 8a54cb57 43d23d94 90187fc1 437ec28a a3ff10a6 daa1a131 53ca9e93`
-
-$M' = $ `8a94e9cd 74124680 d21d93b5 4ce62460 fba00530 9c926ae8 b3c3b171 2b527d17 d38a9fab 57d4cb57 43d23d94 8ff7ffb1 437ec28a a3ff10a6 daa1a131 53ca9e93`
-
-$h_1 = $  `29be5139 765caa56 7ece8ef4 e7b5f358 6944c71d 056a10db bf1f0dc3 8a19df27`
-
-$h_1' = $ `29be5139 765caa56 7ece8ef4 e7b5f358 6944c71d 056a10db bf1f0dc3 8a19df27`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `9b271830 423c9a82 215bc543 2da0094e e7bf8dc5 c1ee76c0 71882b7c ba021422` |
+| $h'_0$ | `9b271830 423c9a82 215bc543 2da0094e e7bf8dc5 c1ee76c0 71882b7c ba021422` |
+| $M$ | `8a94e9cd 74124680 d21d93b5 4ce62460 fba00530 9c926ae8 b3c3b171 2b527d17 a10a9fab 8a54cb57 43d23d94 90187fc1 437ec28a a3ff10a6 daa1a131 53ca9e93` |
+| $M'$ | `8a94e9cd 74124680 d21d93b5 4ce62460 fba00530 9c926ae8 b3c3b171 2b527d17 d38a9fab 57d4cb57 43d23d94 8ff7ffb1 437ec28a a3ff10a6 daa1a131 53ca9e93` |
+| $h_1$ | `29be5139 765caa56 7ece8ef4 e7b5f358 6944c71d 056a10db bf1f0dc3 8a19df27` |
+| $h'_1$ | `29be5139 765caa56 7ece8ef4 e7b5f358 6944c71d 056a10db bf1f0dc3 8a19df27` |
 
 # 22 steps with seed 3
 
-$h_0 = $  `71812467 f9aadf35 6f5325e5 a54e6fa7 2b4a35e1 b4df9545 9ef39611 15f4e2d`
-
-$h_0' = $ `71812467 f9aadf35 6f5325e5 a54e6fa7 2b4a35e1 b4df9545 9ef39611 15f4e2d`
-
-$M = $ `ef47cae7 3fe807b9 cb0b2e45 a048bd68 fde93472 8cb537fa ef757c53 d5c088ad 3bfeb0e3 71e0ccd4 6b48fe34 8e0e357a b5b6a1aa c7b6a9db b6fadf39 82ceaa9f`
-
-$M' = $ `ef47cae7 3fe807b9 cb0b2e45 a048bd68 fde93472 8cb537fa ef757c53 d5c088ad 4f7eb0e3 5e60ccd4 6b48fe34 8df0b58a b5b6a1aa c7b6a9db b6fadf39 82ceaa9f`
-
-$h_1 = $  `9ca3d763 042ad0a6 8d7028a3 8ddb3961 0b521e63 79a91a3e d1b43b33 47813c5f`
-
-$h_1' = $ `9ca3d763 042ad0a6 8d7028a3 8ddb3961 0b521e63 79a91a3e d1b43b33 47813c5f`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `71812467 f9aadf35 6f5325e5 a54e6fa7 2b4a35e1 b4df9545 9ef39611 15f4e2d` |
+| $h'_0$ | `71812467 f9aadf35 6f5325e5 a54e6fa7 2b4a35e1 b4df9545 9ef39611 15f4e2d` |
+| $M$ | `ef47cae7 3fe807b9 cb0b2e45 a048bd68 fde93472 8cb537fa ef757c53 d5c088ad 3bfeb0e3 71e0ccd4 6b48fe34 8e0e357a b5b6a1aa c7b6a9db b6fadf39 82ceaa9f` |
+| $M'$ | `ef47cae7 3fe807b9 cb0b2e45 a048bd68 fde93472 8cb537fa ef757c53 d5c088ad 4f7eb0e3 5e60ccd4 6b48fe34 8df0b58a b5b6a1aa c7b6a9db b6fadf39 82ceaa9f` |
+| $h_1$ | `9ca3d763 042ad0a6 8d7028a3 8ddb3961 0b521e63 79a91a3e d1b43b33 47813c5f` |
+| $h'_1$ | `9ca3d763 042ad0a6 8d7028a3 8ddb3961 0b521e63 79a91a3e d1b43b33 47813c5f` |
 
 # 22 steps with seed 4
 
-$h_0 = $  `70cade46 d7fa857e d7dda74d a304d23a 575a633e 4edefae6 db00477d 6877abcf`
-
-$h_0' = $ `70cade46 d7fa857e d7dda74d a304d23a 575a633e 4edefae6 db00477d 6877abcf`
-
-$M = $ `2bf3f7a7 1d28fe01 b0c99b37 21ca1f95 8ebf2a13 a40954d1 ba66a0d0 7398c7c6 9b442b5f 0485cd4e 21b9d610 c1f538e0 5bbc1226 54f84afe 6e50198a b09db9f8`
-
-$M' = $ `2bf3f7a7 1d28fe01 b0c99b37 21ca1f95 8ebf2a13 a40954d1 ba66a0d0 7398c7c6 98c42b5f 0705cd4e 21b9d610 c1d8b910 5bbc1226 54f84afe 6e50198a b09db9f8`
-
-$h_1 = $  `fde9faea fd58ea9d 7ccb6dfc 14203d11 66d158c9 d5f0f1e2 caec8e67 9059e8ff`
-
-$h_1' = $ `fde9faea fd58ea9d 7ccb6dfc 14203d11 66d158c9 d5f0f1e2 caec8e67 9059e8ff`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `70cade46 d7fa857e d7dda74d a304d23a 575a633e 4edefae6 db00477d 6877abcf` |
+| $h'_0$ | `70cade46 d7fa857e d7dda74d a304d23a 575a633e 4edefae6 db00477d 6877abcf` |
+| $M$ | `2bf3f7a7 1d28fe01 b0c99b37 21ca1f95 8ebf2a13 a40954d1 ba66a0d0 7398c7c6 9b442b5f 0485cd4e 21b9d610 c1f538e0 5bbc1226 54f84afe 6e50198a b09db9f8` |
+| $M'$ | `2bf3f7a7 1d28fe01 b0c99b37 21ca1f95 8ebf2a13 a40954d1 ba66a0d0 7398c7c6 98c42b5f 0705cd4e 21b9d610 c1d8b910 5bbc1226 54f84afe 6e50198a b09db9f8` |
+| $h_1$ | `fde9faea fd58ea9d 7ccb6dfc 14203d11 66d158c9 d5f0f1e2 caec8e67 9059e8ff` |
+| $h'_1$ | `fde9faea fd58ea9d 7ccb6dfc 14203d11 66d158c9 d5f0f1e2 caec8e67 9059e8ff` |
 
 # 22 steps with seed 5
 
-$h_0 = $  `877404bb db6fffe8 e3d481f0 14e80753 b2b6f203 9f945466 c9ff1fb8 7457e413`
-
-$h_0' = $ `877404bb db6fffe8 e3d481f0 14e80753 b2b6f203 9f945466 c9ff1fb8 7457e413`
-
-$M = $ `6e130bea a35045f8 3780d6ec b24e019e e3b7b5e9 88a7aa9b dfd3c580 c41a7f15 caeecf23 c6ff9cde 882351a6 260f00ec dd4decf3 1d3a7a6d 3ba4016f 3ec5ce9a`
-
-$M' = $ `6e130bea a35045f8 3780d6ec b24e019e e3b7b5e9 88a7aa9b dfd3c580 c41a7f15 a66ecf23 eb7f9cde 882351a6 25f6dffc dd4decf3 1d3a7a6d 3ba4016f 3ec5ce9a`
-
-$h_1 = $  `d9509010 5e91c6dd da1c2326 1cada0e7 216710ce d434c627 00be819e 41ea8200`
-
-$h_1' = $ `d9509010 5e91c6dd da1c2326 1cada0e7 216710ce d434c627 00be819e 41ea8200`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `877404bb db6fffe8 e3d481f0 14e80753 b2b6f203 9f945466 c9ff1fb8 7457e413` |
+| $h'_0$ | `877404bb db6fffe8 e3d481f0 14e80753 b2b6f203 9f945466 c9ff1fb8 7457e413` |
+| $M$ | `6e130bea a35045f8 3780d6ec b24e019e e3b7b5e9 88a7aa9b dfd3c580 c41a7f15 caeecf23 c6ff9cde 882351a6 260f00ec dd4decf3 1d3a7a6d 3ba4016f 3ec5ce9a` |
+| $M'$ | `6e130bea a35045f8 3780d6ec b24e019e e3b7b5e9 88a7aa9b dfd3c580 c41a7f15 a66ecf23 eb7f9cde 882351a6 25f6dffc dd4decf3 1d3a7a6d 3ba4016f 3ec5ce9a` |
+| $h_1$ | `d9509010 5e91c6dd da1c2326 1cada0e7 216710ce d434c627 00be819e 41ea8200` |
+| $h'_1$ | `d9509010 5e91c6dd da1c2326 1cada0e7 216710ce d434c627 00be819e 41ea8200` |
 
 # 22 steps with seed 6
 
-$h_0 = $  `74cfcf7d a3b5f913 a240ba3e a9f7a4f1 54990bcc 94ea33ec 1cfde6a9 a24e3f7a`
-
-$h_0' = $ `74cfcf7d a3b5f913 a240ba3e a9f7a4f1 54990bcc 94ea33ec 1cfde6a9 a24e3f7a`
-
-$M = $ `e492db7e 75e7ed77 fb9d4a3f ab25fb0f 7b5eebfb fd7effff fffff7fd bf7dc672 efffd0ee ca7824f6 9a1bd06e 801f640c dc0e1ff5 0cfe3787 dbd2eff7 762e0d05`
-
-$M' = $ `e492db7e 75e7ed77 fb9d4a3f ab25fb0f 7b5eebfb fd7effff fffff7fd bf7dc672 6c7fd0ee 4df824f6 9a1bd06e 7fffd37c dc0e1ff5 0cfe3787 dbd2eff7 762e0d05`
-
-$h_1 = $  `922b41c4 c7723ae9 a22d8fb5 f1f4369e 74bd07b4 5b353b3e 73796342 24dd8934`
-
-$h_1' = $ `922b41c4 c7723ae9 a22d8fb5 f1f4369e 74bd07b4 5b353b3e 73796342 24dd8934`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `74cfcf7d a3b5f913 a240ba3e a9f7a4f1 54990bcc 94ea33ec 1cfde6a9 a24e3f7a` |
+| $h'_0$ | `74cfcf7d a3b5f913 a240ba3e a9f7a4f1 54990bcc 94ea33ec 1cfde6a9 a24e3f7a` |
+| $M$ | `e492db7e 75e7ed77 fb9d4a3f ab25fb0f 7b5eebfb fd7effff fffff7fd bf7dc672 efffd0ee ca7824f6 9a1bd06e 801f640c dc0e1ff5 0cfe3787 dbd2eff7 762e0d05` |
+| $M'$ | `e492db7e 75e7ed77 fb9d4a3f ab25fb0f 7b5eebfb fd7effff fffff7fd bf7dc672 6c7fd0ee 4df824f6 9a1bd06e 7fffd37c dc0e1ff5 0cfe3787 dbd2eff7 762e0d05` |
+| $h_1$ | `922b41c4 c7723ae9 a22d8fb5 f1f4369e 74bd07b4 5b353b3e 73796342 24dd8934` |
+| $h'_1$ | `922b41c4 c7723ae9 a22d8fb5 f1f4369e 74bd07b4 5b353b3e 73796342 24dd8934` |
 
 # 22 steps with seed 7
 
-$h_0 = $  `e61f3b5a 8b799d35 3aa95ef8 ef02989e 35329a99 2da5452d b645381f fc51d2`
-
-$h_0' = $ `e61f3b5a 8b799d35 3aa95ef8 ef02989e 35329a99 2da5452d b645381f fc51d2`
-
-$M = $ `dfa91e6b 5fedb3fd 5f6ecf8e 1ba6388d 89403dbb 32d32cf9 0bdb0c03 b59a9919 b63ac767 fa84d77e 55a00359 ca1050b4 077c829f 8ef85349 e0060eca aaaa7ebf`
-
-$M' = $ `dfa91e6b 5fedb3fd 5f6ecf8e 1ba6388d 89403dbb 32d32cf9 0bdb0c03 b59a9919 b1bac767 ff04d77e 55a00359 c9f140e4 077c829f 8ef85349 e0060eca aaaa7ebf`
-
-$h_1 = $  `e8ab0795 6b1f6169 c7cfc55c 5c9c4d22 4220c4e1 1b49e6b6 0dad8c58 20e49b5b`
-
-$h_1' = $ `e8ab0795 6b1f6169 c7cfc55c 5c9c4d22 4220c4e1 1b49e6b6 0dad8c58 20e49b5b`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `e61f3b5a 8b799d35 3aa95ef8 ef02989e 35329a99 2da5452d b645381f fc51d2` |
+| $h'_0$ | `e61f3b5a 8b799d35 3aa95ef8 ef02989e 35329a99 2da5452d b645381f fc51d2` |
+| $M$ | `dfa91e6b 5fedb3fd 5f6ecf8e 1ba6388d 89403dbb 32d32cf9 0bdb0c03 b59a9919 b63ac767 fa84d77e 55a00359 ca1050b4 077c829f 8ef85349 e0060eca aaaa7ebf` |
+| $M'$ | `dfa91e6b 5fedb3fd 5f6ecf8e 1ba6388d 89403dbb 32d32cf9 0bdb0c03 b59a9919 b1bac767 ff04d77e 55a00359 c9f140e4 077c829f 8ef85349 e0060eca aaaa7ebf` |
+| $h_1$ | `e8ab0795 6b1f6169 c7cfc55c 5c9c4d22 4220c4e1 1b49e6b6 0dad8c58 20e49b5b` |
+| $h'_1$ | `e8ab0795 6b1f6169 c7cfc55c 5c9c4d22 4220c4e1 1b49e6b6 0dad8c58 20e49b5b` |
 
 # 22 steps with seed 8
 
-$h_0 = $  `4a479450 a831bc87 a3771ae7 ebf1f8e8 b4438101 4b55c3b0 8a308b4a c5a121`
-
-$h_0' = $ `4a479450 a831bc87 a3771ae7 ebf1f8e8 b4438101 4b55c3b0 8a308b4a c5a121`
-
-$M = $ `54180281 1124c009 19660a63 72db7401 57085426 c08001c1 80c00001 0c742300 20a00042 206e03a5 7f9e4afc 080081b1 d776cdc0 965520de c125104c 10000005`
-
-$M' = $ `54180281 1124c009 19660a63 72db7401 57085426 c08001c1 80c00001 0c742300 1e200042 22ee03a5 7f9e4afc 07e831a1 d776cdc0 965520de c125104c 10000005`
-
-$h_1 = $  `2a097051 fd65c6c3 eecabf30 021cd07e 9ef40fc7 aca68815 8bc02060 4025b2b5`
-
-$h_1' = $ `2a097051 fd65c6c3 eecabf30 021cd07e 9ef40fc7 aca68815 8bc02060 4025b2b5`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `4a479450 a831bc87 a3771ae7 ebf1f8e8 b4438101 4b55c3b0 8a308b4a c5a121` |
+| $h'_0$ | `4a479450 a831bc87 a3771ae7 ebf1f8e8 b4438101 4b55c3b0 8a308b4a c5a121` |
+| $M$ | `54180281 1124c009 19660a63 72db7401 57085426 c08001c1 80c00001 0c742300 20a00042 206e03a5 7f9e4afc 080081b1 d776cdc0 965520de c125104c 10000005` |
+| $M'$ | `54180281 1124c009 19660a63 72db7401 57085426 c08001c1 80c00001 0c742300 1e200042 22ee03a5 7f9e4afc 07e831a1 d776cdc0 965520de c125104c 10000005` |
+| $h_1$ | `2a097051 fd65c6c3 eecabf30 021cd07e 9ef40fc7 aca68815 8bc02060 4025b2b5` |
+| $h'_1$ | `2a097051 fd65c6c3 eecabf30 021cd07e 9ef40fc7 aca68815 8bc02060 4025b2b5` |
 
 # 22 steps with seed 9
 
-$h_0 = $  `9df6780b 1fabea36 a6adfc50 a5a71985 2dc9732f dea41e7c 5ef080dc 8af3418`
-
-$h_0' = $ `9df6780b 1fabea36 a6adfc50 a5a71985 2dc9732f dea41e7c 5ef080dc 8af3418`
-
-$M = $ `42ba0109 55811250 1a93ff82 02495e38 39c30471 24e86007 3717589c b84034a7 748bf7d2 ca345528 95cb0176 8008e00e a7c90983 901a6cad 87cd5145 3e0a4004`
-
-$M' = $ `42ba0109 55811250 1a93ff82 02495e38 39c30471 24e86007 3717589c b84034a7 710bf7d2 cdb45528 95cb0176 7fe05ffe a7c90983 901a6cad 87cd5145 3e0a4004`
-
-$h_1 = $  `121a715f 5e20bfaa 39df9574 e70f2722 7c999458 4750ceb4 0a01c9d8 add54d21`
-
-$h_1' = $ `121a715f 5e20bfaa 39df9574 e70f2722 7c999458 4750ceb4 0a01c9d8 add54d21`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `9df6780b 1fabea36 a6adfc50 a5a71985 2dc9732f dea41e7c 5ef080dc 8af3418` |
+| $h'_0$ | `9df6780b 1fabea36 a6adfc50 a5a71985 2dc9732f dea41e7c 5ef080dc 8af3418` |
+| $M$ | `42ba0109 55811250 1a93ff82 02495e38 39c30471 24e86007 3717589c b84034a7 748bf7d2 ca345528 95cb0176 8008e00e a7c90983 901a6cad 87cd5145 3e0a4004` |
+| $M'$ | `42ba0109 55811250 1a93ff82 02495e38 39c30471 24e86007 3717589c b84034a7 710bf7d2 cdb45528 95cb0176 7fe05ffe a7c90983 901a6cad 87cd5145 3e0a4004` |
+| $h_1$ | `121a715f 5e20bfaa 39df9574 e70f2722 7c999458 4750ceb4 0a01c9d8 add54d21` |
+| $h'_1$ | `121a715f 5e20bfaa 39df9574 e70f2722 7c999458 4750ceb4 0a01c9d8 add54d21` |
 
 # 23 steps with seed 0
 
-$h_0 = $  `addf5dd7 3da715c7 94000ff2 de089345 561fab51 9aac03a6 e48d799a a197c4c`
-
-$h_0' = $ `addf5dd7 3da715c7 94000ff2 de089345 561fab51 9aac03a6 e48d799a a197c4c`
-
-$M = $ `f5360be9 ba0bf73d d3fffdeb 81b7d67f ffffffff fffff9cb ffff1fff ffdbfffb 1d8f9786 a6b0c1c2 9f107bef d015f044 110280b3 92758b40 c2f881ce a25854f7`
-
-$M' = $ `f5360be9 ba0bf73d d3fffdeb 81b7d67f ffffffff fffff9cb ffff1fff ffdbfffb 1b0f9786 a930c1c2 9f107bef cfde7014 110280b3 92758b40 c2f881ce a25854f7`
-
-$h_1 = $  `4664fae3 7e800bc9 3a785291 d957d892 2a31e309 a4e6327a 64d68398 46a3001c`
-
-$h_1' = $ `4664fae3 7e800bc9 3a785291 d957d892 2a31e309 a4e6327a 64d68398 46a3001c`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `addf5dd7 3da715c7 94000ff2 de089345 561fab51 9aac03a6 e48d799a a197c4c` |
+| $h'_0$ | `addf5dd7 3da715c7 94000ff2 de089345 561fab51 9aac03a6 e48d799a a197c4c` |
+| $M$ | `f5360be9 ba0bf73d d3fffdeb 81b7d67f ffffffff fffff9cb ffff1fff ffdbfffb 1d8f9786 a6b0c1c2 9f107bef d015f044 110280b3 92758b40 c2f881ce a25854f7` |
+| $M'$ | `f5360be9 ba0bf73d d3fffdeb 81b7d67f ffffffff fffff9cb ffff1fff ffdbfffb 1b0f9786 a930c1c2 9f107bef cfde7014 110280b3 92758b40 c2f881ce a25854f7` |
+| $h_1$ | `4664fae3 7e800bc9 3a785291 d957d892 2a31e309 a4e6327a 64d68398 46a3001c` |
+| $h'_1$ | `4664fae3 7e800bc9 3a785291 d957d892 2a31e309 a4e6327a 64d68398 46a3001c` |
 
 # 23 steps with seed 1
 
-$h_0 = $  `e2ab4e74 f8799cb6 92844263 f3389a36 f1aa4269 c03e836b ae25b432 b682a655`
-
-$h_0' = $ `e2ab4e74 f8799cb6 92844263 f3389a36 f1aa4269 c03e836b ae25b432 b682a655`
-
-$M = $ `66fb4be9 ee62f0e5 5d01d09c 8ecdab57 ff8904ee 42f5020c 21453221 425c8032 b8da4657 6403f5c0 cde0b7f3 fff85e70 d7a2edf1 77463980 24c7b65b 18a75698`
-
-$M' = $ `66fb4be9 ee62f0e5 5d01d09c 8ecdab57 ff8904ee 42f5020c 21453221 425c8032 7c5a4657 a083f5c0 cde0b7f3 0015a040 d7a2edf1 77463980 24c7b65b 18a75698`
-
-$h_1 = $  `bc3a4a62 30612ea7 5981c3cf 25a1c688 71848569 33d4c3a0 2dd6970c 30b21659`
-
-$h_1' = $ `bc3a4a62 30612ea7 5981c3cf 25a1c688 71848569 33d4c3a0 2dd6970c 30b21659`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `e2ab4e74 f8799cb6 92844263 f3389a36 f1aa4269 c03e836b ae25b432 b682a655` |
+| $h'_0$ | `e2ab4e74 f8799cb6 92844263 f3389a36 f1aa4269 c03e836b ae25b432 b682a655` |
+| $M$ | `66fb4be9 ee62f0e5 5d01d09c 8ecdab57 ff8904ee 42f5020c 21453221 425c8032 b8da4657 6403f5c0 cde0b7f3 fff85e70 d7a2edf1 77463980 24c7b65b 18a75698` |
+| $M'$ | `66fb4be9 ee62f0e5 5d01d09c 8ecdab57 ff8904ee 42f5020c 21453221 425c8032 7c5a4657 a083f5c0 cde0b7f3 0015a040 d7a2edf1 77463980 24c7b65b 18a75698` |
+| $h_1$ | `bc3a4a62 30612ea7 5981c3cf 25a1c688 71848569 33d4c3a0 2dd6970c 30b21659` |
+| $h'_1$ | `bc3a4a62 30612ea7 5981c3cf 25a1c688 71848569 33d4c3a0 2dd6970c 30b21659` |
 
 # 23 steps with seed 2
 
-$h_0 = $  `ac561fdc a4a5ee9a cef84e0c b9c33d13 ead11533 d5b1732f 04d8f9e6 c2ddee3`
-
-$h_0' = $ `ac561fdc a4a5ee9a cef84e0c b9c33d13 ead11533 d5b1732f 04d8f9e6 c2ddee3`
-
-$M = $ `be3906a2 cdc2fc90 f8e29f3e 408c68cd cae26516 ae75b165 be93ba14 65739356 a0294c00 9bdfdda8 ee406bf5 98121672 df7a4822 81731a8f 03d9cb0d 23e5292c`
-
-$M' = $ `be3906a2 cdc2fc90 f8e29f3e 408c68cd cae26516 ae75b165 be93ba14 65739356 9ca94c00 9f5fdda8 ee406bf5 97f94682 df7a4822 81731a8f 03d9cb0d 23e5292c`
-
-$h_1 = $  `93f33714 65f2e73a 049acbaf 99708263 da8a29d2 bc30b57f c15dac9c 71ff1feb`
-
-$h_1' = $ `93f33714 65f2e73a 049acbaf 99708263 da8a29d2 bc30b57f c15dac9c 71ff1feb`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `ac561fdc a4a5ee9a cef84e0c b9c33d13 ead11533 d5b1732f 04d8f9e6 c2ddee3` |
+| $h'_0$ | `ac561fdc a4a5ee9a cef84e0c b9c33d13 ead11533 d5b1732f 04d8f9e6 c2ddee3` |
+| $M$ | `be3906a2 cdc2fc90 f8e29f3e 408c68cd cae26516 ae75b165 be93ba14 65739356 a0294c00 9bdfdda8 ee406bf5 98121672 df7a4822 81731a8f 03d9cb0d 23e5292c` |
+| $M'$ | `be3906a2 cdc2fc90 f8e29f3e 408c68cd cae26516 ae75b165 be93ba14 65739356 9ca94c00 9f5fdda8 ee406bf5 97f94682 df7a4822 81731a8f 03d9cb0d 23e5292c` |
+| $h_1$ | `93f33714 65f2e73a 049acbaf 99708263 da8a29d2 bc30b57f c15dac9c 71ff1feb` |
+| $h'_1$ | `93f33714 65f2e73a 049acbaf 99708263 da8a29d2 bc30b57f c15dac9c 71ff1feb` |
 
 # 23 steps with seed 3
 
-$h_0 = $  `d0654ecc aeea7f32 3161e685 de3eb142 2d998c43 bb3fb7de a59cc8d5 3e58a1de`
-
-$h_0' = $ `d0654ecc aeea7f32 3161e685 de3eb142 2d998c43 bb3fb7de a59cc8d5 3e58a1de`
-
-$M = $ `23dc78fc df4c57f5 592c6673 a7c2d17b 5412c8c0 60088280 a2280080 000aa010 00001000 518f0d9d aedeac3f 33d5dfdf 0f23b7e6 c8e04659 19d7a1ff 849d1978`
-
-$M' = $ `23dc78fc df4c57f5 592c6673 a7c2d17b 5412c8c0 60088280 a2280080 000aa010 fd801000 540f0d9d aedeac3f 3414e08f 0f23b7e6 c8e04659 19d7a1ff 849d1978`
-
-$h_1 = $  `9dc7874c 44a6d3e9 ec3538c3 53aac7d4 7c92ca86 5e326f9f b68f7d8f 367926e4`
-
-$h_1' = $ `9dc7874c 44a6d3e9 ec3538c3 53aac7d4 7c92ca86 5e326f9f b68f7d8f 367926e4`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `d0654ecc aeea7f32 3161e685 de3eb142 2d998c43 bb3fb7de a59cc8d5 3e58a1de` |
+| $h'_0$ | `d0654ecc aeea7f32 3161e685 de3eb142 2d998c43 bb3fb7de a59cc8d5 3e58a1de` |
+| $M$ | `23dc78fc df4c57f5 592c6673 a7c2d17b 5412c8c0 60088280 a2280080 000aa010 00001000 518f0d9d aedeac3f 33d5dfdf 0f23b7e6 c8e04659 19d7a1ff 849d1978` |
+| $M'$ | `23dc78fc df4c57f5 592c6673 a7c2d17b 5412c8c0 60088280 a2280080 000aa010 fd801000 540f0d9d aedeac3f 3414e08f 0f23b7e6 c8e04659 19d7a1ff 849d1978` |
+| $h_1$ | `9dc7874c 44a6d3e9 ec3538c3 53aac7d4 7c92ca86 5e326f9f b68f7d8f 367926e4` |
+| $h'_1$ | `9dc7874c 44a6d3e9 ec3538c3 53aac7d4 7c92ca86 5e326f9f b68f7d8f 367926e4` |
 
 # 23 steps with seed 4
 
-$h_0 = $  `f12ed621 4a5b02ca 2138dded 5e50a202 4f6edcbb 82f30eae 97188444 f60f2599`
-
-$h_0' = $ `f12ed621 4a5b02ca 2138dded 5e50a202 4f6edcbb 82f30eae 97188444 f60f2599`
-
-$M = $ `8204d467 d97ba809 53f66f70 22a44b03 d0009007 c4002f98 06001158 113f1a9e 2790219a 4f041050 8fa4e76f 70d9408f 49bd7b3a 5711e024 605f92db 50900440`
-
-$M' = $ `8204d467 d97ba809 53f66f70 22a44b03 d0009007 c4002f98 06001158 113f1a9e 2510219a 51841050 8fa4e76f 70d16c7f 49bd7b3a 5711e024 605f92db 50900440`
-
-$h_1 = $  `2cab1cb6 6ec7b2e5 489205ed 9bb89670 65627a3a 8951d0ca c985a178 d9cfb36d`
-
-$h_1' = $ `2cab1cb6 6ec7b2e5 489205ed 9bb89670 65627a3a 8951d0ca c985a178 d9cfb36d`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `f12ed621 4a5b02ca 2138dded 5e50a202 4f6edcbb 82f30eae 97188444 f60f2599` |
+| $h'_0$ | `f12ed621 4a5b02ca 2138dded 5e50a202 4f6edcbb 82f30eae 97188444 f60f2599` |
+| $M$ | `8204d467 d97ba809 53f66f70 22a44b03 d0009007 c4002f98 06001158 113f1a9e 2790219a 4f041050 8fa4e76f 70d9408f 49bd7b3a 5711e024 605f92db 50900440` |
+| $M'$ | `8204d467 d97ba809 53f66f70 22a44b03 d0009007 c4002f98 06001158 113f1a9e 2510219a 51841050 8fa4e76f 70d16c7f 49bd7b3a 5711e024 605f92db 50900440` |
+| $h_1$ | `2cab1cb6 6ec7b2e5 489205ed 9bb89670 65627a3a 8951d0ca c985a178 d9cfb36d` |
+| $h'_1$ | `2cab1cb6 6ec7b2e5 489205ed 9bb89670 65627a3a 8951d0ca c985a178 d9cfb36d` |
 
 # 23 steps with seed 5
 
-$h_0 = $  `f87e0ef2 a703bd21 ee865d04 864e6c26 ead4b550 910664ef c63ab7f4 dca41b9d`
-
-$h_0' = $ `f87e0ef2 a703bd21 ee865d04 864e6c26 ead4b550 910664ef c63ab7f4 dca41b9d`
-
-$M = $ `b8fd6d86 d9f51dc0 e79ed45c b315b37f ffffffff edfffbfd fe579f7f dfffffff fffffbff 59b1f8c4 e4d96f20 aa958d79 de041978 5d480441 a5b310cf d2bffffe`
-
-$M' = $ `b8fd6d86 d9f51dc0 e79ed45c b315b37f ffffffff edfffbfd fe579f7f dfffffff 727ffbff e731f8c4 e4d96f20 aa68ed09 de041978 5d480441 a5b310cf d2bffffe`
-
-$h_1 = $  `6f129fc6 fb6cecd8 0c2fb8e8 b2f31d9e 3eed890a d3189804 6cca20f7 d46dd344`
-
-$h_1' = $ `6f129fc6 fb6cecd8 0c2fb8e8 b2f31d9e 3eed890a d3189804 6cca20f7 d46dd344`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `f87e0ef2 a703bd21 ee865d04 864e6c26 ead4b550 910664ef c63ab7f4 dca41b9d` |
+| $h'_0$ | `f87e0ef2 a703bd21 ee865d04 864e6c26 ead4b550 910664ef c63ab7f4 dca41b9d` |
+| $M$ | `b8fd6d86 d9f51dc0 e79ed45c b315b37f ffffffff edfffbfd fe579f7f dfffffff fffffbff 59b1f8c4 e4d96f20 aa958d79 de041978 5d480441 a5b310cf d2bffffe` |
+| $M'$ | `b8fd6d86 d9f51dc0 e79ed45c b315b37f ffffffff edfffbfd fe579f7f dfffffff 727ffbff e731f8c4 e4d96f20 aa68ed09 de041978 5d480441 a5b310cf d2bffffe` |
+| $h_1$ | `6f129fc6 fb6cecd8 0c2fb8e8 b2f31d9e 3eed890a d3189804 6cca20f7 d46dd344` |
+| $h'_1$ | `6f129fc6 fb6cecd8 0c2fb8e8 b2f31d9e 3eed890a d3189804 6cca20f7 d46dd344` |
 
 # 23 steps with seed 6
 
-$h_0 = $  `1b921f35 cb241702 b9fcd9bb 73c5b95b aaacf36e 741cf719 1018110d f11c53d`
-
-$h_0' = $ `1b921f35 cb241702 b9fcd9bb 73c5b95b aaacf36e 741cf719 1018110d f11c53d`
-
-$M = $ `66f3a4a5 b847081d 9634ff35 b4879092 a1d75d11 365e6459 9b0fd31a 0f4d6bb2 402e0008 c8fe08f0 7b4038df 64cf05d1 7e5252cc 58f181c0 dc49052d ba5ac787`
-
-$M' = $ `66f3a4a5 b847081d 9634ff35 b4879092 a1d75d11 365e6459 9b0fd31a 0f4d6bb2 43ae0008 c57e08f0 7b4038df 64b1f601 7e5252cc 58f181c0 dc49052d ba5ac787`
-
-$h_1 = $  `1a9f1722 9af7133d c8d2bd6b ddf48fda 4eca010b 9eab83d3 8472dfa5 fccb8016`
-
-$h_1' = $ `1a9f1722 9af7133d c8d2bd6b ddf48fda 4eca010b 9eab83d3 8472dfa5 fccb8016`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `1b921f35 cb241702 b9fcd9bb 73c5b95b aaacf36e 741cf719 1018110d f11c53d` |
+| $h'_0$ | `1b921f35 cb241702 b9fcd9bb 73c5b95b aaacf36e 741cf719 1018110d f11c53d` |
+| $M$ | `66f3a4a5 b847081d 9634ff35 b4879092 a1d75d11 365e6459 9b0fd31a 0f4d6bb2 402e0008 c8fe08f0 7b4038df 64cf05d1 7e5252cc 58f181c0 dc49052d ba5ac787` |
+| $M'$ | `66f3a4a5 b847081d 9634ff35 b4879092 a1d75d11 365e6459 9b0fd31a 0f4d6bb2 43ae0008 c57e08f0 7b4038df 64b1f601 7e5252cc 58f181c0 dc49052d ba5ac787` |
+| $h_1$ | `1a9f1722 9af7133d c8d2bd6b ddf48fda 4eca010b 9eab83d3 8472dfa5 fccb8016` |
+| $h'_1$ | `1a9f1722 9af7133d c8d2bd6b ddf48fda 4eca010b 9eab83d3 8472dfa5 fccb8016` |
 
 # 23 steps with seed 7
 
-$h_0 = $  `e01d88a7 612e12fe 9d539b96 254aad9c 5349bdeb d05649eb a5e7cb41 250586e`
-
-$h_0' = $ `e01d88a7 612e12fe 9d539b96 254aad9c 5349bdeb d05649eb a5e7cb41 250586e`
-
-$M = $ `2f0925d3 fcd8edab 2dd4ffec 7932a780 117fa32f 3b6d8d3f 0a5d75ae aae51baa 590b6734 cd99652e 44340202 a9c7c013 b87cef27 8717de04 80bbe78c 94bb9bcc`
-
-$M' = $ `2f0925d3 fcd8edab 2dd4ffec 7932a780 117fa32f 3b6d8d3f 0a5d75ae aae51baa 568b6734 d019652e 44340202 a9b83fe3 b87cef27 8717de04 80bbe78c 94bb9bcc`
-
-$h_1 = $  `77eca8f4 76df70e5 cd2108e8 5356e115 71232ab4 7def10f0 c8894a2a 63b15a61`
-
-$h_1' = $ `77eca8f4 76df70e5 cd2108e8 5356e115 71232ab4 7def10f0 c8894a2a 63b15a61`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `e01d88a7 612e12fe 9d539b96 254aad9c 5349bdeb d05649eb a5e7cb41 250586e` |
+| $h'_0$ | `e01d88a7 612e12fe 9d539b96 254aad9c 5349bdeb d05649eb a5e7cb41 250586e` |
+| $M$ | `2f0925d3 fcd8edab 2dd4ffec 7932a780 117fa32f 3b6d8d3f 0a5d75ae aae51baa 590b6734 cd99652e 44340202 a9c7c013 b87cef27 8717de04 80bbe78c 94bb9bcc` |
+| $M'$ | `2f0925d3 fcd8edab 2dd4ffec 7932a780 117fa32f 3b6d8d3f 0a5d75ae aae51baa 568b6734 d019652e 44340202 a9b83fe3 b87cef27 8717de04 80bbe78c 94bb9bcc` |
+| $h_1$ | `77eca8f4 76df70e5 cd2108e8 5356e115 71232ab4 7def10f0 c8894a2a 63b15a61` |
+| $h'_1$ | `77eca8f4 76df70e5 cd2108e8 5356e115 71232ab4 7def10f0 c8894a2a 63b15a61` |
 
 # 23 steps with seed 8
 
-$h_0 = $  `f2417e0d 5e80a259 b6146eec c1180cac afc8067a e9e9a1e3 ac2caf9d 67c90cc3`
-
-$h_0' = $ `f2417e0d 5e80a259 b6146eec c1180cac afc8067a e9e9a1e3 ac2caf9d 67c90cc3`
-
-$M = $ `a5e11781 8c44e560 9b86ec2f f8cd14f6 4d506510 7756a6ab 0feb0c53 bbadbf2b b67b23c4 e0f00921 f402cc79 cc18efae 5a443770 378f2961 72f00aeb e8ab054f`
-
-$M' = $ `a5e11781 8c44e560 9b86ec2f f8cd14f6 4d506510 7756a6ab 0feb0c53 bbadbf2b a1fb23c4 f5700921 f402cc79 cbe1f03e 5a443770 378f2961 72f00aeb e8ab054f`
-
-$h_1 = $  `528d380c 635f49ee f05dbd3d 4eca6991 cf216ccc 8714a336 dfa43e12 dc1434c2`
-
-$h_1' = $ `528d380c 635f49ee f05dbd3d 4eca6991 cf216ccc 8714a336 dfa43e12 dc1434c2`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `f2417e0d 5e80a259 b6146eec c1180cac afc8067a e9e9a1e3 ac2caf9d 67c90cc3` |
+| $h'_0$ | `f2417e0d 5e80a259 b6146eec c1180cac afc8067a e9e9a1e3 ac2caf9d 67c90cc3` |
+| $M$ | `a5e11781 8c44e560 9b86ec2f f8cd14f6 4d506510 7756a6ab 0feb0c53 bbadbf2b b67b23c4 e0f00921 f402cc79 cc18efae 5a443770 378f2961 72f00aeb e8ab054f` |
+| $M'$ | `a5e11781 8c44e560 9b86ec2f f8cd14f6 4d506510 7756a6ab 0feb0c53 bbadbf2b a1fb23c4 f5700921 f402cc79 cbe1f03e 5a443770 378f2961 72f00aeb e8ab054f` |
+| $h_1$ | `528d380c 635f49ee f05dbd3d 4eca6991 cf216ccc 8714a336 dfa43e12 dc1434c2` |
+| $h'_1$ | `528d380c 635f49ee f05dbd3d 4eca6991 cf216ccc 8714a336 dfa43e12 dc1434c2` |
 
 # 23 steps with seed 9
 
-$h_0 = $  `5cfa9724 73380adf 14712b8f cd3e02f4 ba0a6eb2 795eb747 7aa77ac0 31ab5069`
-
-$h_0' = $ `5cfa9724 73380adf 14712b8f cd3e02f4 ba0a6eb2 795eb747 7aa77ac0 31ab5069`
-
-$M = $ `874f9e5c 6bf3cf52 50c773fc d7a37adf a2494939 f9d0513a bac5c676 7205570d d2c595f6 9ad01158 4464fdfc ed97ef2c e3891052 0b055a79 bee809e5 0b7feb20`
-
-$M' = $ `874f9e5c 6bf3cf52 50c773fc d7a37adf a2494939 f9d0513a bac5c676 7205570d d74595f6 96501158 4464fdfc ed776f1c e3891052 0b055a79 bee809e5 0b7feb20`
-
-$h_1 = $  `9735f0e7 721a02ca 14e1c1b5 49849cc6 4aec54ce f45d56ee 91024efd d8d66039`
-
-$h_1' = $ `9735f0e7 721a02ca 14e1c1b5 49849cc6 4aec54ce f45d56ee 91024efd d8d66039`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `5cfa9724 73380adf 14712b8f cd3e02f4 ba0a6eb2 795eb747 7aa77ac0 31ab5069` |
+| $h'_0$ | `5cfa9724 73380adf 14712b8f cd3e02f4 ba0a6eb2 795eb747 7aa77ac0 31ab5069` |
+| $M$ | `874f9e5c 6bf3cf52 50c773fc d7a37adf a2494939 f9d0513a bac5c676 7205570d d2c595f6 9ad01158 4464fdfc ed97ef2c e3891052 0b055a79 bee809e5 0b7feb20` |
+| $M'$ | `874f9e5c 6bf3cf52 50c773fc d7a37adf a2494939 f9d0513a bac5c676 7205570d d74595f6 96501158 4464fdfc ed776f1c e3891052 0b055a79 bee809e5 0b7feb20` |
+| $h_1$ | `9735f0e7 721a02ca 14e1c1b5 49849cc6 4aec54ce f45d56ee 91024efd d8d66039` |
+| $h'_1$ | `9735f0e7 721a02ca 14e1c1b5 49849cc6 4aec54ce f45d56ee 91024efd d8d66039` |
 
 # 24 steps with seed 0
 
-$h_0 = $  `352d85fa 25c5e815 ab55402b 2b9e44d0 bb737740 d558a211 fc328073 901fb0b5`
-
-$h_0' = $ `352d85fa 25c5e815 ab55402b 2b9e44d0 bb737740 d558a211 fc328073 901fb0b5`
-
-$M = $ `25331c42 5ee6584d 18eb975c 7e96d8d5 2fa7efa7 4b080e11 2d34378c b2f24983 b2f8009e df03bfb5 7bdc65c2 dffdaf90 b573f4bf ee45a1b2 c02ffd41 2f9e316d`
-
-$M' = $ `25331c42 5ee6584d 18eb975c 7e96d8d5 2fa7efa7 4b080e11 2d34378c b2f24983 4cfbc09e 44ffffb5 7bdc65c2 c7f96e68 b573f4bf ee45a1b2 c02ffd41 2f9e316d`
-
-$h_1 = $  `5b340859 bd4aa2fb 72668aa5 dfadbfce 48426780 5adfb843 5b65197e 3361f1da`
-
-$h_1' = $ `5b340859 bd4aa2fb 72668aa5 dfadbfce 48426780 5adfb843 5b65197e 3361f1da`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `352d85fa 25c5e815 ab55402b 2b9e44d0 bb737740 d558a211 fc328073 901fb0b5` |
+| $h'_0$ | `352d85fa 25c5e815 ab55402b 2b9e44d0 bb737740 d558a211 fc328073 901fb0b5` |
+| $M$ | `25331c42 5ee6584d 18eb975c 7e96d8d5 2fa7efa7 4b080e11 2d34378c b2f24983 b2f8009e df03bfb5 7bdc65c2 dffdaf90 b573f4bf ee45a1b2 c02ffd41 2f9e316d` |
+| $M'$ | `25331c42 5ee6584d 18eb975c 7e96d8d5 2fa7efa7 4b080e11 2d34378c b2f24983 4cfbc09e 44ffffb5 7bdc65c2 c7f96e68 b573f4bf ee45a1b2 c02ffd41 2f9e316d` |
+| $h_1$ | `5b340859 bd4aa2fb 72668aa5 dfadbfce 48426780 5adfb843 5b65197e 3361f1da` |
+| $h'_1$ | `5b340859 bd4aa2fb 72668aa5 dfadbfce 48426780 5adfb843 5b65197e 3361f1da` |
 
 # 24 steps with seed 1
 
-$h_0 = $  `40939859 d7903a34 f2560e9b 5e0938ac f44e1596 6198dd26 3c7b5238 a8f2763e`
-
-$h_0' = $ `40939859 d7903a34 f2560e9b 5e0938ac f44e1596 6198dd26 3c7b5238 a8f2763e`
-
-$M = $ `3ad6c217 6382a593 0f0c6594 d9a6f1de 8d901832 c8c30804 9c2c04e6 6050c363 cf4c26a3 6301b769 cf0cf346 74ecc7d1 74921ece a092a24f bc136620 0d627625`
-
-$M' = $ `3ad6c217 6382a593 0f0c6594 d9a6f1de 8d901832 c8c30804 9c2c04e6 6050c363 314fe6a3 00fdf769 cf0cf346 0cc5fc3f 74921ece a092a24f bc136620 0d627625`
-
-$h_1 = $  `8641d294 7525590f 07f394a8 19529297 b1c80de4 e9a80571 2f145b36 b4e79639`
-
-$h_1' = $ `8641d294 7525590f 07f394a8 19529297 b1c80de4 e9a80571 2f145b36 b4e79639`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `40939859 d7903a34 f2560e9b 5e0938ac f44e1596 6198dd26 3c7b5238 a8f2763e` |
+| $h'_0$ | `40939859 d7903a34 f2560e9b 5e0938ac f44e1596 6198dd26 3c7b5238 a8f2763e` |
+| $M$ | `3ad6c217 6382a593 0f0c6594 d9a6f1de 8d901832 c8c30804 9c2c04e6 6050c363 cf4c26a3 6301b769 cf0cf346 74ecc7d1 74921ece a092a24f bc136620 0d627625` |
+| $M'$ | `3ad6c217 6382a593 0f0c6594 d9a6f1de 8d901832 c8c30804 9c2c04e6 6050c363 314fe6a3 00fdf769 cf0cf346 0cc5fc3f 74921ece a092a24f bc136620 0d627625` |
+| $h_1$ | `8641d294 7525590f 07f394a8 19529297 b1c80de4 e9a80571 2f145b36 b4e79639` |
+| $h'_1$ | `8641d294 7525590f 07f394a8 19529297 b1c80de4 e9a80571 2f145b36 b4e79639` |
 
 # 24 steps with seed 2
 
-$h_0 = $  `c09eac62 89115c14 c10eb13d e800f2e0 b5a08ec8 addecd65 3cc596e5 387d824`
-
-$h_0' = $ `c09eac62 89115c14 c10eb13d e800f2e0 b5a08ec8 addecd65 3cc596e5 387d824`
-
-$M = $ `1f7fb947 0621ccee 078ef5a9 44014664 5a7e07f0 829863c1 7e08b030 3114198f d4fbeb56 01006065 c631735a 4ff3d2ae ef790fc9 74e5918a e2c3cef2 578c21a0`
-
-$M' = $ `1f7fb947 0621ccee 078ef5a9 44014664 5a7e07f0 829863c1 7e08b030 3114198f 2af82b56 ab042065 c631735a a80786c0 ef790fc9 74e5918a e2c3cef2 578c21a0`
-
-$h_1 = $  `f8439b50 d3eed7e5 0482b9ae fe6531e5 9c58b13d e3205807 4d47789a a2bcd9ef`
-
-$h_1' = $ `f8439b50 d3eed7e5 0482b9ae fe6531e5 9c58b13d e3205807 4d47789a a2bcd9ef`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `c09eac62 89115c14 c10eb13d e800f2e0 b5a08ec8 addecd65 3cc596e5 387d824` |
+| $h'_0$ | `c09eac62 89115c14 c10eb13d e800f2e0 b5a08ec8 addecd65 3cc596e5 387d824` |
+| $M$ | `1f7fb947 0621ccee 078ef5a9 44014664 5a7e07f0 829863c1 7e08b030 3114198f d4fbeb56 01006065 c631735a 4ff3d2ae ef790fc9 74e5918a e2c3cef2 578c21a0` |
+| $M'$ | `1f7fb947 0621ccee 078ef5a9 44014664 5a7e07f0 829863c1 7e08b030 3114198f 2af82b56 ab042065 c631735a a80786c0 ef790fc9 74e5918a e2c3cef2 578c21a0` |
+| $h_1$ | `f8439b50 d3eed7e5 0482b9ae fe6531e5 9c58b13d e3205807 4d47789a a2bcd9ef` |
+| $h'_1$ | `f8439b50 d3eed7e5 0482b9ae fe6531e5 9c58b13d e3205807 4d47789a a2bcd9ef` |
 
 # 24 steps with seed 3
 
-$h_0 = $  `9e642ec8 84138085 eb4bd070 58ba65df a746bf1a dc654bcb cdf343f6 37f32916`
-
-$h_0' = $ `9e642ec8 84138085 eb4bd070 58ba65df a746bf1a dc654bcb cdf343f6 37f32916`
-
-$M = $ `13301834 bfd43d7c 67d05103 b57a4917 c4e099ea 59445daa 24906607 a01bf814 f2a437bc 3536a0b6 1a076f1f 94016af8 1868a812 8a27ffe4 f8c5ad67 5acaccd7`
-
-$M' = $ `13301834 bfd43d7c 67d05103 b57a4917 c4e099ea 59445daa 24906607 a01bf814 0ca7f7bc 1b32e0b6 1a076f1f 8bdd5a10 1868a812 8a27ffe4 f8c5ad67 5acaccd7`
-
-$h_1 = $  `f3c4abf6 a67bbc5f 8966fb7b 51dad276 8b16aaac 37862647 c05fea98 b66f8e51`
-
-$h_1' = $ `f3c4abf6 a67bbc5f 8966fb7b 51dad276 8b16aaac 37862647 c05fea98 b66f8e51`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `9e642ec8 84138085 eb4bd070 58ba65df a746bf1a dc654bcb cdf343f6 37f32916` |
+| $h'_0$ | `9e642ec8 84138085 eb4bd070 58ba65df a746bf1a dc654bcb cdf343f6 37f32916` |
+| $M$ | `13301834 bfd43d7c 67d05103 b57a4917 c4e099ea 59445daa 24906607 a01bf814 f2a437bc 3536a0b6 1a076f1f 94016af8 1868a812 8a27ffe4 f8c5ad67 5acaccd7` |
+| $M'$ | `13301834 bfd43d7c 67d05103 b57a4917 c4e099ea 59445daa 24906607 a01bf814 0ca7f7bc 1b32e0b6 1a076f1f 8bdd5a10 1868a812 8a27ffe4 f8c5ad67 5acaccd7` |
+| $h_1$ | `f3c4abf6 a67bbc5f 8966fb7b 51dad276 8b16aaac 37862647 c05fea98 b66f8e51` |
+| $h'_1$ | `f3c4abf6 a67bbc5f 8966fb7b 51dad276 8b16aaac 37862647 c05fea98 b66f8e51` |
 
 # 24 steps with seed 4
 
-$h_0 = $  `c55549fe ac9043b1 f22a597b 778e3632 866357cd 57797950 f8ad0ed6 ec6b466d`
-
-$h_0' = $ `c55549fe ac9043b1 f22a597b 778e3632 866357cd 57797950 f8ad0ed6 ec6b466d`
-
-$M = $ `12cf8fd2 87917c3e 23f3075a 6502e408 2eada41a 46ff8326 ab8095de 33d81127 f3280272 8e71b899 a74f8780 50d62042 13dd518d 27e6888d ef3ee389 930ee95d`
-
-$M' = $ `12cf8fd2 87917c3e 23f3075a 6502e408 2eada41a 46ff8326 ab8095de 33d81127 0d2bc272 746df899 a74f8780 38cff042 13dd518d 27e6888d ef3ee389 930ee95d`
-
-$h_1 = $  `12d3ec0f be36e744 0ca3c953 f02926b6 af23a28a 3669a651 1bdcb6a7 6b891d14`
-
-$h_1' = $ `12d3ec0f be36e744 0ca3c953 f02926b6 af23a28a 3669a651 1bdcb6a7 6b891d14`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `c55549fe ac9043b1 f22a597b 778e3632 866357cd 57797950 f8ad0ed6 ec6b466d` |
+| $h'_0$ | `c55549fe ac9043b1 f22a597b 778e3632 866357cd 57797950 f8ad0ed6 ec6b466d` |
+| $M$ | `12cf8fd2 87917c3e 23f3075a 6502e408 2eada41a 46ff8326 ab8095de 33d81127 f3280272 8e71b899 a74f8780 50d62042 13dd518d 27e6888d ef3ee389 930ee95d` |
+| $M'$ | `12cf8fd2 87917c3e 23f3075a 6502e408 2eada41a 46ff8326 ab8095de 33d81127 0d2bc272 746df899 a74f8780 38cff042 13dd518d 27e6888d ef3ee389 930ee95d` |
+| $h_1$ | `12d3ec0f be36e744 0ca3c953 f02926b6 af23a28a 3669a651 1bdcb6a7 6b891d14` |
+| $h'_1$ | `12d3ec0f be36e744 0ca3c953 f02926b6 af23a28a 3669a651 1bdcb6a7 6b891d14` |
 
 # 24 steps with seed 5
 
-$h_0 = $  `45b7c584 6cf5cc6b fcd5b84a ba81e892 3f029d41 bdebf078 a5e2b4d3 ea66a6d`
-
-$h_0' = $ `45b7c584 6cf5cc6b fcd5b84a ba81e892 3f029d41 bdebf078 a5e2b4d3 ea66a6d`
-
-$M = $ `5c0b886f 0c0a98fd e57adbfa 4f379313 8a087c20 0ad91aa0 62fa5d4e e02df0b7 6ef01e76 338133bb c080ecf0 de952c7d 45359f97 5d2b5a94 ea42f923 08e5921d`
-
-$M' = $ `5c0b886f 0c0a98fd e57adbfa 4f379313 8a087c20 0ad91aa0 62fa5d4e e02df0b7 90f3de76 117d73bb c080ecf0 e683617d 45359f97 5d2b5a94 ea42f923 08e5921d`
-
-$h_1 = $  `daa8a507 f23dc050 d10b486b f9ee8ee4 f12164d2 6f96296c f7d290c4 016b6933`
-
-$h_1' = $ `daa8a507 f23dc050 d10b486b f9ee8ee4 f12164d2 6f96296c f7d290c4 016b6933`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `45b7c584 6cf5cc6b fcd5b84a ba81e892 3f029d41 bdebf078 a5e2b4d3 ea66a6d` |
+| $h'_0$ | `45b7c584 6cf5cc6b fcd5b84a ba81e892 3f029d41 bdebf078 a5e2b4d3 ea66a6d` |
+| $M$ | `5c0b886f 0c0a98fd e57adbfa 4f379313 8a087c20 0ad91aa0 62fa5d4e e02df0b7 6ef01e76 338133bb c080ecf0 de952c7d 45359f97 5d2b5a94 ea42f923 08e5921d` |
+| $M'$ | `5c0b886f 0c0a98fd e57adbfa 4f379313 8a087c20 0ad91aa0 62fa5d4e e02df0b7 90f3de76 117d73bb c080ecf0 e683617d 45359f97 5d2b5a94 ea42f923 08e5921d` |
+| $h_1$ | `daa8a507 f23dc050 d10b486b f9ee8ee4 f12164d2 6f96296c f7d290c4 016b6933` |
+| $h'_1$ | `daa8a507 f23dc050 d10b486b f9ee8ee4 f12164d2 6f96296c f7d290c4 016b6933` |
 
 # 24 steps with seed 6
 
-$h_0 = $  `f69c49e9 40533585 9bac5904 39ba21a7 cac488b2 2de2b258 a707a4ea 875a6e56`
-
-$h_0' = $ `f69c49e9 40533585 9bac5904 39ba21a7 cac488b2 2de2b258 a707a4ea 875a6e56`
-
-$M = $ `08fecec5 a0b55aa0 3e6f4ec7 255d2352 00000f72 43c08c13 68033211 00000bc4 4ecc206b 0220c440 1afdbb84 25a33592 b381d088 8e0ef6bd 2b8cbb60 2e1e25e9`
-
-$M' = $ `08fecec5 a0b55aa0 3e6f4ec7 255d2352 00000f72 43c08c13 68033211 00000bc4 b0cfe06b a01d0440 1afdbb84 0d8bf640 b381d088 8e0ef6bd 2b8cbb60 2e1e25e9`
-
-$h_1 = $  `33446958 5bfe49ed ec9fa47c 24082684 4ca26cf6 a058ae29 603fb576 3124bab7`
-
-$h_1' = $ `33446958 5bfe49ed ec9fa47c 24082684 4ca26cf6 a058ae29 603fb576 3124bab7`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `f69c49e9 40533585 9bac5904 39ba21a7 cac488b2 2de2b258 a707a4ea 875a6e56` |
+| $h'_0$ | `f69c49e9 40533585 9bac5904 39ba21a7 cac488b2 2de2b258 a707a4ea 875a6e56` |
+| $M$ | `08fecec5 a0b55aa0 3e6f4ec7 255d2352 00000f72 43c08c13 68033211 00000bc4 4ecc206b 0220c440 1afdbb84 25a33592 b381d088 8e0ef6bd 2b8cbb60 2e1e25e9` |
+| $M'$ | `08fecec5 a0b55aa0 3e6f4ec7 255d2352 00000f72 43c08c13 68033211 00000bc4 b0cfe06b a01d0440 1afdbb84 0d8bf640 b381d088 8e0ef6bd 2b8cbb60 2e1e25e9` |
+| $h_1$ | `33446958 5bfe49ed ec9fa47c 24082684 4ca26cf6 a058ae29 603fb576 3124bab7` |
+| $h'_1$ | `33446958 5bfe49ed ec9fa47c 24082684 4ca26cf6 a058ae29 603fb576 3124bab7` |
 
 # 24 steps with seed 7
 
-$h_0 = $  `5bf289a9 5eae1573 d7892ea4 ad274988 cb828a54 27e3677d fe84b5f9 94af97a`
-
-$h_0' = $ `5bf289a9 5eae1573 d7892ea4 ad274988 cb828a54 27e3677d fe84b5f9 94af97a`
-
-$M = $ `05a20056 a0015588 019dfa74 50646ce6 11026412 880c1140 88068885 00001283 4a040025 b52386b6 9782bc57 26d6c852 ff027462 119bf115 80e01c58 9990412c`
-
-$M' = $ `05a20056 a0015588 019dfa74 50646ce6 11026412 880c1140 88068885 00001283 b407c025 4b1fc6b6 9782bc57 df0204a0 ff027462 119bf115 80e01c58 9990412c`
-
-$h_1 = $  `7c8d1fe5 8ac441fc f9fa8c55 62a18283 e78b9485 bd9d17af bdbf6f95 fc8ff46e`
-
-$h_1' = $ `7c8d1fe5 8ac441fc f9fa8c55 62a18283 e78b9485 bd9d17af bdbf6f95 fc8ff46e`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `5bf289a9 5eae1573 d7892ea4 ad274988 cb828a54 27e3677d fe84b5f9 94af97a` |
+| $h'_0$ | `5bf289a9 5eae1573 d7892ea4 ad274988 cb828a54 27e3677d fe84b5f9 94af97a` |
+| $M$ | `05a20056 a0015588 019dfa74 50646ce6 11026412 880c1140 88068885 00001283 4a040025 b52386b6 9782bc57 26d6c852 ff027462 119bf115 80e01c58 9990412c` |
+| $M'$ | `05a20056 a0015588 019dfa74 50646ce6 11026412 880c1140 88068885 00001283 b407c025 4b1fc6b6 9782bc57 df0204a0 ff027462 119bf115 80e01c58 9990412c` |
+| $h_1$ | `7c8d1fe5 8ac441fc f9fa8c55 62a18283 e78b9485 bd9d17af bdbf6f95 fc8ff46e` |
+| $h'_1$ | `7c8d1fe5 8ac441fc f9fa8c55 62a18283 e78b9485 bd9d17af bdbf6f95 fc8ff46e` |
 
 # 24 steps with seed 8
 
-$h_0 = $  `51902a58 9eb41313 ee0a98c5 0ddef1d4 fb6e2e12 a71ab00f 9b20cedc c95bc63`
-
-$h_0' = $ `51902a58 9eb41313 ee0a98c5 0ddef1d4 fb6e2e12 a71ab00f 9b20cedc c95bc63`
-
-$M = $ `05f56557 6e777bbb 34f39eef ec3e0ea6 27d82873 a5787808 337457c0 1b6b1d42 0e1c0003 59a0f9f2 2e03cb56 27211bb8 df2b0008 56f2bbb7 2ff24af7 b852cccf`
-
-$M' = $ `05f56557 6e777bbb 34f39eef ec3e0ea6 27d82873 a5787808 337457c0 1b6b1d42 f01fc003 779d39f2 2e03cb56 3f1e68b8 df2b0008 56f2bbb7 2ff24af7 b852cccf`
-
-$h_1 = $  `01dc2055 dc3a604d 70046b2b 9a6025b2 bc545cda 4b7c23de 6c7dedad 7c84f608`
-
-$h_1' = $ `01dc2055 dc3a604d 70046b2b 9a6025b2 bc545cda 4b7c23de 6c7dedad 7c84f608`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `51902a58 9eb41313 ee0a98c5 0ddef1d4 fb6e2e12 a71ab00f 9b20cedc c95bc63` |
+| $h'_0$ | `51902a58 9eb41313 ee0a98c5 0ddef1d4 fb6e2e12 a71ab00f 9b20cedc c95bc63` |
+| $M$ | `05f56557 6e777bbb 34f39eef ec3e0ea6 27d82873 a5787808 337457c0 1b6b1d42 0e1c0003 59a0f9f2 2e03cb56 27211bb8 df2b0008 56f2bbb7 2ff24af7 b852cccf` |
+| $M'$ | `05f56557 6e777bbb 34f39eef ec3e0ea6 27d82873 a5787808 337457c0 1b6b1d42 f01fc003 779d39f2 2e03cb56 3f1e68b8 df2b0008 56f2bbb7 2ff24af7 b852cccf` |
+| $h_1$ | `01dc2055 dc3a604d 70046b2b 9a6025b2 bc545cda 4b7c23de 6c7dedad 7c84f608` |
+| $h'_1$ | `01dc2055 dc3a604d 70046b2b 9a6025b2 bc545cda 4b7c23de 6c7dedad 7c84f608` |
 
 # 24 steps with seed 9
 
-$h_0 = $  `76eb8412 dcb064c6 a60c55fd 2f758cf2 85e462de f3f04123 417fbd0a 517f1a3c`
-
-$h_0' = $ `76eb8412 dcb064c6 a60c55fd 2f758cf2 85e462de f3f04123 417fbd0a 517f1a3c`
-
-$M = $ `0191c160 6ac41823 4e23a5ab 720d5454 40500919 c90930b4 a2531907 b4cbe801 7330057a 85c3bf71 d02fd571 2f06ac3c 1d1a12ff d7acc346 3bdc1eea 9c28a401`
-
-$M' = $ `0191c160 6ac41823 4e23a5ab 720d5454 40500919 c90930b4 a2531907 b4cbe801 8d33c57a 6bbfff71 d02fd571 16ff13ec 1d1a12ff d7acc346 3bdc1eea 9c28a401`
-
-$h_1 = $  `5f213256 544b889b 66a4fc89 833b7ea9 94117f77 748568b9 53c49617 222d85d4`
-
-$h_1' = $ `5f213256 544b889b 66a4fc89 833b7ea9 94117f77 748568b9 53c49617 222d85d4`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `76eb8412 dcb064c6 a60c55fd 2f758cf2 85e462de f3f04123 417fbd0a 517f1a3c` |
+| $h'_0$ | `76eb8412 dcb064c6 a60c55fd 2f758cf2 85e462de f3f04123 417fbd0a 517f1a3c` |
+| $M$ | `0191c160 6ac41823 4e23a5ab 720d5454 40500919 c90930b4 a2531907 b4cbe801 7330057a 85c3bf71 d02fd571 2f06ac3c 1d1a12ff d7acc346 3bdc1eea 9c28a401` |
+| $M'$ | `0191c160 6ac41823 4e23a5ab 720d5454 40500919 c90930b4 a2531907 b4cbe801 8d33c57a 6bbfff71 d02fd571 16ff13ec 1d1a12ff d7acc346 3bdc1eea 9c28a401` |
+| $h_1$ | `5f213256 544b889b 66a4fc89 833b7ea9 94117f77 748568b9 53c49617 222d85d4` |
+| $h'_1$ | `5f213256 544b889b 66a4fc89 833b7ea9 94117f77 748568b9 53c49617 222d85d4` |
 
 # 25 steps with seed 0
 
-$h_0 = $  `449de466 db678c13 1950d8ab f52523f0 fe29828b 9204def6 2d7dc4c7 ca079591`
-
-$h_0' = $ `449de466 db678c13 1950d8ab f52523f0 fe29828b 9204def6 2d7dc4c7 ca079591`
-
-$M = $ `382900cc 80e0b674 39c071bb ae680447 cfe8c1c9 4f90aa1a 6f0823ee da023f36 53103967 2d0bfd6f e120e355 1bf53005 4728e8f1 def4452a 0b753544 d2a0d48e`
-
-$M' = $ `382900cc 80e0b674 39c071bb ae680447 cfe8c1c9 4f90aa1a 6f0823ee da023f36 ad13f967 d3083d6f e120e355 f3e0abf7 4728e8f1 def4452a 0b753544 d2a0d48e`
-
-$h_1 = $  `20e15a78 f80946cf d10c627c 92427228 cc8ce73d 46f269ba 0da1ea4b b3680bef`
-
-$h_1' = $ `20e15a78 f80946cf d10c627c 92427228 cc8ce73d 46f269ba 0da1ea4b b3680bef`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `449de466 db678c13 1950d8ab f52523f0 fe29828b 9204def6 2d7dc4c7 ca079591` |
+| $h'_0$ | `449de466 db678c13 1950d8ab f52523f0 fe29828b 9204def6 2d7dc4c7 ca079591` |
+| $M$ | `382900cc 80e0b674 39c071bb ae680447 cfe8c1c9 4f90aa1a 6f0823ee da023f36 53103967 2d0bfd6f e120e355 1bf53005 4728e8f1 def4452a 0b753544 d2a0d48e` |
+| $M'$ | `382900cc 80e0b674 39c071bb ae680447 cfe8c1c9 4f90aa1a 6f0823ee da023f36 ad13f967 d3083d6f e120e355 f3e0abf7 4728e8f1 def4452a 0b753544 d2a0d48e` |
+| $h_1$ | `20e15a78 f80946cf d10c627c 92427228 cc8ce73d 46f269ba 0da1ea4b b3680bef` |
+| $h'_1$ | `20e15a78 f80946cf d10c627c 92427228 cc8ce73d 46f269ba 0da1ea4b b3680bef` |
 
 # 25 steps with seed 1
 
-$h_0 = $  `dd7b6692 2845d40b b01d45fe cf786f1d 4d04a95c f241dd15 c90f00d4 5b44f17`
-
-$h_0' = $ `dd7b6692 2845d40b b01d45fe cf786f1d 4d04a95c f241dd15 c90f00d4 5b44f17`
-
-$M = $ `077e23ad 17860c72 e25bea6a 1f8d9c96 6074c695 be891091 fc9d735c 16f85d31 93c01b07 ecdfff8b 63d1ffb3 d103f7fb 4cf5a51b f254bc0e 87cd5ad6 b5a9504e`
-
-$M' = $ `077e23ad 17860c72 e25bea6a 1f8d9c96 6074c695 be891091 fc9d735c 16f85d31 6dc3db07 12dc3f8b 63d1ffb3 e8fc5017 4cf5a51b f254bc0e 87cd5ad6 b5a9504e`
-
-$h_1 = $  `558b5715 9a295a48 3a306df0 37feedde fea29043 3c09e613 153dba66 e163ebaf`
-
-$h_1' = $ `558b5715 9a295a48 3a306df0 37feedde fea29043 3c09e613 153dba66 e163ebaf`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `dd7b6692 2845d40b b01d45fe cf786f1d 4d04a95c f241dd15 c90f00d4 5b44f17` |
+| $h'_0$ | `dd7b6692 2845d40b b01d45fe cf786f1d 4d04a95c f241dd15 c90f00d4 5b44f17` |
+| $M$ | `077e23ad 17860c72 e25bea6a 1f8d9c96 6074c695 be891091 fc9d735c 16f85d31 93c01b07 ecdfff8b 63d1ffb3 d103f7fb 4cf5a51b f254bc0e 87cd5ad6 b5a9504e` |
+| $M'$ | `077e23ad 17860c72 e25bea6a 1f8d9c96 6074c695 be891091 fc9d735c 16f85d31 6dc3db07 12dc3f8b 63d1ffb3 e8fc5017 4cf5a51b f254bc0e 87cd5ad6 b5a9504e` |
+| $h_1$ | `558b5715 9a295a48 3a306df0 37feedde fea29043 3c09e613 153dba66 e163ebaf` |
+| $h'_1$ | `558b5715 9a295a48 3a306df0 37feedde fea29043 3c09e613 153dba66 e163ebaf` |
 
 # 25 steps with seed 2
 
-$h_0 = $  `983bf8b2 86b4fe68 f999e4a2 7065cc0f f57658a2 a6533fea 8d416131 1e50743`
-
-$h_0' = $ `983bf8b2 86b4fe68 f999e4a2 7065cc0f f57658a2 a6533fea 8d416131 1e50743`
-
-$M = $ `6e3372b4 41690080 18953a2a 22853ea0 00008084 01248020 c2000400 0810000d 125019cf ec4bdacf 37598223 8c80018f 7c40b107 6fd2c0c6 6bfab1bf 4d28ae5a`
-
-$M' = $ `6e3372b4 41690080 18953a2a 22853ea0 00008084 01248020 c2000400 0810000d ec53d9cf 12481acf 37598223 9479423f 7c40b107 6fd2c0c6 6bfab1bf 4d28ae5a`
-
-$h_1 = $  `979910f5 87fefea0 3635ab42 e6636184 52ecb442 bd39023c 7b545114 f7723a91`
-
-$h_1' = $ `979910f5 87fefea0 3635ab42 e6636184 52ecb442 bd39023c 7b545114 f7723a91`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `983bf8b2 86b4fe68 f999e4a2 7065cc0f f57658a2 a6533fea 8d416131 1e50743` |
+| $h'_0$ | `983bf8b2 86b4fe68 f999e4a2 7065cc0f f57658a2 a6533fea 8d416131 1e50743` |
+| $M$ | `6e3372b4 41690080 18953a2a 22853ea0 00008084 01248020 c2000400 0810000d 125019cf ec4bdacf 37598223 8c80018f 7c40b107 6fd2c0c6 6bfab1bf 4d28ae5a` |
+| $M'$ | `6e3372b4 41690080 18953a2a 22853ea0 00008084 01248020 c2000400 0810000d ec53d9cf 12481acf 37598223 9479423f 7c40b107 6fd2c0c6 6bfab1bf 4d28ae5a` |
+| $h_1$ | `979910f5 87fefea0 3635ab42 e6636184 52ecb442 bd39023c 7b545114 f7723a91` |
+| $h'_1$ | `979910f5 87fefea0 3635ab42 e6636184 52ecb442 bd39023c 7b545114 f7723a91` |
 
 # 25 steps with seed 3
 
-$h_0 = $  `362b1f27 80370fef 7779dced afa786cc bb18d0aa 58ae9c27 4cc683e8 54c8c4f9`
-
-$h_0' = $ `362b1f27 80370fef 7779dced afa786cc bb18d0aa 58ae9c27 4cc683e8 54c8c4f9`
-
-$M = $ `e38887eb 57f91b0d a90b1b96 b50c6281 02785317 8201b0a9 aa2f0441 27441280 6fec1efe 90fbd976 9427e484 8685864f 54fe3c71 9de21254 8505e938 110a8451`
-
-$M' = $ `e38887eb 57f91b0d a90b1b96 b50c6281 02785317 8201b0a9 aa2f0441 27441280 91efdefe 6ef81976 9427e484 6e7c5e73 54fe3c71 9de21254 8505e938 110a8451`
-
-$h_1 = $  `b2e35963 e9813d17 6f1dae3e 73482f9d e47ff2c3 d658216b 03293fa0 300cf7b0`
-
-$h_1' = $ `b2e35963 e9813d17 6f1dae3e 73482f9d e47ff2c3 d658216b 03293fa0 300cf7b0`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `362b1f27 80370fef 7779dced afa786cc bb18d0aa 58ae9c27 4cc683e8 54c8c4f9` |
+| $h'_0$ | `362b1f27 80370fef 7779dced afa786cc bb18d0aa 58ae9c27 4cc683e8 54c8c4f9` |
+| $M$ | `e38887eb 57f91b0d a90b1b96 b50c6281 02785317 8201b0a9 aa2f0441 27441280 6fec1efe 90fbd976 9427e484 8685864f 54fe3c71 9de21254 8505e938 110a8451` |
+| $M'$ | `e38887eb 57f91b0d a90b1b96 b50c6281 02785317 8201b0a9 aa2f0441 27441280 91efdefe 6ef81976 9427e484 6e7c5e73 54fe3c71 9de21254 8505e938 110a8451` |
+| $h_1$ | `b2e35963 e9813d17 6f1dae3e 73482f9d e47ff2c3 d658216b 03293fa0 300cf7b0` |
+| $h'_1$ | `b2e35963 e9813d17 6f1dae3e 73482f9d e47ff2c3 d658216b 03293fa0 300cf7b0` |
 
 # 25 steps with seed 4
 
-$h_0 = $  `16afd365 165eea0f 9a5c1f73 d79c9fb5 a2131d43 6b687ea7 4acc603a af9f3753`
-
-$h_0' = $ `16afd365 165eea0f 9a5c1f73 d79c9fb5 a2131d43 6b687ea7 4acc603a af9f3753`
-
-$M = $ `f7b381f8 84070c15 79a3cb4e 8999fbb2 64a18071 9056262f 15b78c08 c900a042 76ec07b8 09ebf136 7d34e4fc 1800627e 8f12826d daf9e7dd a8321c31 519b7eb9`
-
-$M' = $ `f7b381f8 84070c15 79a3cb4e 8999fbb2 64a18071 9056262f 15b78c08 c900a042 88efc7b8 f7e83136 7d34e4fc 0ffc0a16 8f12826d daf9e7dd a8321c31 519b7eb9`
-
-$h_1 = $  `5ed10c02 d106b683 861fbc8b b0675c2c ac1fa5fb ddd543c4 3a876643 29d5f26d`
-
-$h_1' = $ `5ed10c02 d106b683 861fbc8b b0675c2c ac1fa5fb ddd543c4 3a876643 29d5f26d`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `16afd365 165eea0f 9a5c1f73 d79c9fb5 a2131d43 6b687ea7 4acc603a af9f3753` |
+| $h'_0$ | `16afd365 165eea0f 9a5c1f73 d79c9fb5 a2131d43 6b687ea7 4acc603a af9f3753` |
+| $M$ | `f7b381f8 84070c15 79a3cb4e 8999fbb2 64a18071 9056262f 15b78c08 c900a042 76ec07b8 09ebf136 7d34e4fc 1800627e 8f12826d daf9e7dd a8321c31 519b7eb9` |
+| $M'$ | `f7b381f8 84070c15 79a3cb4e 8999fbb2 64a18071 9056262f 15b78c08 c900a042 88efc7b8 f7e83136 7d34e4fc 0ffc0a16 8f12826d daf9e7dd a8321c31 519b7eb9` |
+| $h_1$ | `5ed10c02 d106b683 861fbc8b b0675c2c ac1fa5fb ddd543c4 3a876643 29d5f26d` |
+| $h'_1$ | `5ed10c02 d106b683 861fbc8b b0675c2c ac1fa5fb ddd543c4 3a876643 29d5f26d` |
 
 # 25 steps with seed 5
 
-$h_0 = $  `39bf8347 96d5dbb1 650d02dd e0df485b aebffdd3 436ef65d 6c1930a9 e119782a`
-
-$h_0' = $ `39bf8347 96d5dbb1 650d02dd e0df485b aebffdd3 436ef65d 6c1930a9 e119782a`
-
-$M = $ `50e898c8 6c2887a6 200b66c7 9ac4498a 8cfba802 4abcc582 f00e238c 113a6800 d3881f2b ad1feb65 13b98b3f 907ec0aa bda10719 fc4ca3ac d0a1842c 80b12022`
-
-$M' = $ `50e898c8 6c2887a6 200b66c7 9ac4498a 8cfba802 4abcc582 f00e238c 113a6800 2d8bdf2b 531c2b65 13b98b3f 3867ff78 bda10719 fc4ca3ac d0a1842c 80b12022`
-
-$h_1 = $  `0b242c38 5518c518 2e2a1372 426015d8 c31005f6 01759a64 35459b79 507c098d`
-
-$h_1' = $ `0b242c38 5518c518 2e2a1372 426015d8 c31005f6 01759a64 35459b79 507c098d`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `39bf8347 96d5dbb1 650d02dd e0df485b aebffdd3 436ef65d 6c1930a9 e119782a` |
+| $h'_0$ | `39bf8347 96d5dbb1 650d02dd e0df485b aebffdd3 436ef65d 6c1930a9 e119782a` |
+| $M$ | `50e898c8 6c2887a6 200b66c7 9ac4498a 8cfba802 4abcc582 f00e238c 113a6800 d3881f2b ad1feb65 13b98b3f 907ec0aa bda10719 fc4ca3ac d0a1842c 80b12022` |
+| $M'$ | `50e898c8 6c2887a6 200b66c7 9ac4498a 8cfba802 4abcc582 f00e238c 113a6800 2d8bdf2b 531c2b65 13b98b3f 3867ff78 bda10719 fc4ca3ac d0a1842c 80b12022` |
+| $h_1$ | `0b242c38 5518c518 2e2a1372 426015d8 c31005f6 01759a64 35459b79 507c098d` |
+| $h'_1$ | `0b242c38 5518c518 2e2a1372 426015d8 c31005f6 01759a64 35459b79 507c098d` |
 
 # 25 steps with seed 6
 
-$h_0 = $  `351353f3 ac090af6 a51bcaff cd9c9bdb f655433b 13621e39 ca5d8065 f9a24a60`
-
-$h_0' = $ `351353f3 ac090af6 a51bcaff cd9c9bdb f655433b 13621e39 ca5d8065 f9a24a60`
-
-$M = $ `8b3f8dea 809f2049 87dc4a6c 80917fdc 259f12cc b3064a55 26d0752c f1feb414 53083c67 2d87da23 68f60451 878d3b01 257e3f34 fee05351 186b7ec2 737cf958`
-
-$M' = $ `8b3f8dea 809f2049 87dc4a6c 80917fdc 259f12cc b3064a55 26d0752c f1feb414 ad0bfc67 d3841a23 68f60451 2f71790f 257e3f34 fee05351 186b7ec2 737cf958`
-
-$h_1 = $  `e5071931 7fb0946e a1a1f999 54e7fa69 2c8da150 63def7df 63841f80 43fafe35`
-
-$h_1' = $ `e5071931 7fb0946e a1a1f999 54e7fa69 2c8da150 63def7df 63841f80 43fafe35`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `351353f3 ac090af6 a51bcaff cd9c9bdb f655433b 13621e39 ca5d8065 f9a24a60` |
+| $h'_0$ | `351353f3 ac090af6 a51bcaff cd9c9bdb f655433b 13621e39 ca5d8065 f9a24a60` |
+| $M$ | `8b3f8dea 809f2049 87dc4a6c 80917fdc 259f12cc b3064a55 26d0752c f1feb414 53083c67 2d87da23 68f60451 878d3b01 257e3f34 fee05351 186b7ec2 737cf958` |
+| $M'$ | `8b3f8dea 809f2049 87dc4a6c 80917fdc 259f12cc b3064a55 26d0752c f1feb414 ad0bfc67 d3841a23 68f60451 2f71790f 257e3f34 fee05351 186b7ec2 737cf958` |
+| $h_1$ | `e5071931 7fb0946e a1a1f999 54e7fa69 2c8da150 63def7df 63841f80 43fafe35` |
+| $h'_1$ | `e5071931 7fb0946e a1a1f999 54e7fa69 2c8da150 63def7df 63841f80 43fafe35` |
 
 # 25 steps with seed 7
 
-$h_0 = $  `63e7d164 eef5443d e3406830 7c126d8f 31e9dedf 94493e6c 67ae50f2 69922e`
-
-$h_0' = $ `63e7d164 eef5443d e3406830 7c126d8f 31e9dedf 94493e6c 67ae50f2 69922e`
-
-$M = $ `7075d4ca 6e7b3f9c 3844b755 384bb5f1 00a0008a 086eb0f6 ccd9a425 f0b45b23 d39c1e23 2d9bdd23 796dc6bf e72e3808 13b93dfd 41b0e054 98f18615 e755570a`
-
-$M' = $ `7075d4ca 6e7b3f9c 3844b755 384bb5f1 00a0008a 086eb0f6 ccd9a425 f0b45b23 2d9fde23 d3981d23 796dc6bf 4eff7ffa 13b93dfd 41b0e054 98f18615 e755570a`
-
-$h_1 = $  `93fb5f33 68a35885 634205d7 aa50a6c7 9a22182f 328ff267 d0100518 2552d56a`
-
-$h_1' = $ `93fb5f33 68a35885 634205d7 aa50a6c7 9a22182f 328ff267 d0100518 2552d56a`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `63e7d164 eef5443d e3406830 7c126d8f 31e9dedf 94493e6c 67ae50f2 69922e` |
+| $h'_0$ | `63e7d164 eef5443d e3406830 7c126d8f 31e9dedf 94493e6c 67ae50f2 69922e` |
+| $M$ | `7075d4ca 6e7b3f9c 3844b755 384bb5f1 00a0008a 086eb0f6 ccd9a425 f0b45b23 d39c1e23 2d9bdd23 796dc6bf e72e3808 13b93dfd 41b0e054 98f18615 e755570a` |
+| $M'$ | `7075d4ca 6e7b3f9c 3844b755 384bb5f1 00a0008a 086eb0f6 ccd9a425 f0b45b23 2d9fde23 d3981d23 796dc6bf 4eff7ffa 13b93dfd 41b0e054 98f18615 e755570a` |
+| $h_1$ | `93fb5f33 68a35885 634205d7 aa50a6c7 9a22182f 328ff267 d0100518 2552d56a` |
+| $h'_1$ | `93fb5f33 68a35885 634205d7 aa50a6c7 9a22182f 328ff267 d0100518 2552d56a` |
 
 # 25 steps with seed 8
 
-$h_0 = $  `d14dab3a 138689d9 28a5c172 8974ec84 1018c897 22a7c841 5d192c09 51004839`
-
-$h_0' = $ `d14dab3a 138689d9 28a5c172 8974ec84 1018c897 22a7c841 5d192c09 51004839`
-
-$M = $ `4ecc2066 f38b3fb5 6637b2ed 6957c0a8 24713092 042007ec 2da0ac45 0b221406 0e84354d 708bd241 a2565ce5 d7cba51d d99823ae eab8a1a2 b7346552 5dfa39db`
-
-$M' = $ `4ecc2066 f38b3fb5 6637b2ed 6957c0a8 24713092 042007ec 2da0ac45 0b221406 f087f54d 8e881241 a2565ce5 efe6e0cd d99823ae eab8a1a2 b7346552 5dfa39db`
-
-$h_1 = $  `8b879708 b35bdd80 ab7cbf48 026dc4d4 a43f7ea7 7e2b0706 be545b71 6e84d3c6`
-
-$h_1' = $ `8b879708 b35bdd80 ab7cbf48 026dc4d4 a43f7ea7 7e2b0706 be545b71 6e84d3c6`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `d14dab3a 138689d9 28a5c172 8974ec84 1018c897 22a7c841 5d192c09 51004839` |
+| $h'_0$ | `d14dab3a 138689d9 28a5c172 8974ec84 1018c897 22a7c841 5d192c09 51004839` |
+| $M$ | `4ecc2066 f38b3fb5 6637b2ed 6957c0a8 24713092 042007ec 2da0ac45 0b221406 0e84354d 708bd241 a2565ce5 d7cba51d d99823ae eab8a1a2 b7346552 5dfa39db` |
+| $M'$ | `4ecc2066 f38b3fb5 6637b2ed 6957c0a8 24713092 042007ec 2da0ac45 0b221406 f087f54d 8e881241 a2565ce5 efe6e0cd d99823ae eab8a1a2 b7346552 5dfa39db` |
+| $h_1$ | `8b879708 b35bdd80 ab7cbf48 026dc4d4 a43f7ea7 7e2b0706 be545b71 6e84d3c6` |
+| $h'_1$ | `8b879708 b35bdd80 ab7cbf48 026dc4d4 a43f7ea7 7e2b0706 be545b71 6e84d3c6` |
 
 # 25 steps with seed 9
 
-$h_0 = $  `7e4b9b74 84d68729 9442cf26 7f14e986 7b94cc3e 3290e22b 891b42d3 5249417`
-
-$h_0' = $ `7e4b9b74 84d68729 9442cf26 7f14e986 7b94cc3e 3290e22b 891b42d3 5249417`
-
-$M = $ `58031f60 c3fc5364 4d982aab 20c7d784 a5cc4929 c7dd0318 999dd67a 350fa783 cf5400a7 b1c3d1e5 e2aa7cce 04354a77 d47856fe b660c692 2b8079d2 481969bf`
-
-$M' = $ `58031f60 c3fc5364 4d982aab 20c7d784 a5cc4929 c7dd0318 999dd67a 350fa783 3157c0a7 4fc011e5 e2aa7cce fc0d8ff7 d47856fe b660c692 2b8079d2 481969bf`
-
-$h_1 = $  `7ac4891c 0e436f79 38abadae 8500ddc7 3525fbd2 fcfc0059 a47dc811 1b9a0e2b`
-
-$h_1' = $ `7ac4891c 0e436f79 38abadae 8500ddc7 3525fbd2 fcfc0059 a47dc811 1b9a0e2b`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `7e4b9b74 84d68729 9442cf26 7f14e986 7b94cc3e 3290e22b 891b42d3 5249417` |
+| $h'_0$ | `7e4b9b74 84d68729 9442cf26 7f14e986 7b94cc3e 3290e22b 891b42d3 5249417` |
+| $M$ | `58031f60 c3fc5364 4d982aab 20c7d784 a5cc4929 c7dd0318 999dd67a 350fa783 cf5400a7 b1c3d1e5 e2aa7cce 04354a77 d47856fe b660c692 2b8079d2 481969bf` |
+| $M'$ | `58031f60 c3fc5364 4d982aab 20c7d784 a5cc4929 c7dd0318 999dd67a 350fa783 3157c0a7 4fc011e5 e2aa7cce fc0d8ff7 d47856fe b660c692 2b8079d2 481969bf` |
+| $h_1$ | `7ac4891c 0e436f79 38abadae 8500ddc7 3525fbd2 fcfc0059 a47dc811 1b9a0e2b` |
+| $h'_1$ | `7ac4891c 0e436f79 38abadae 8500ddc7 3525fbd2 fcfc0059 a47dc811 1b9a0e2b` |
 
 # 26 steps with seed 0
 
-$h_0 = $  `9475710c 2e87b311 98bacee5 d0a2e90b 8a35cec4 d5fa498e bae025d4 a2705ba8`
-
-$h_0' = $ `9475710c 2e87b311 98bacee5 d0a2e90b 8a35cec4 d5fa498e bae025d4 a2705ba8`
-
-$M = $ `e2ed27c4 0477d652 0138714c c3bfbc3f dbb2e96f 24154d68 53acc7e6 929a9d83 d4289036 12d8b9ff ca8a1e9e 42471b3e c393d27b 9a8c69a7 47d9df5c b7fb0c15`
-
-$M' = $ `e2ed27c4 0477d652 0138714c c3bfbc3f dbb2e96f 24154d68 53acc7e6 929a9d83 6d4b7c36 a77b4dff ca8a1e9e 42471b3e c393d27b 48e2eadc 47d9df5c b7fb0c15`
-
-$h_1 = $  `56daec8c ba6ffcb9 a3eb1523 c699c81f fd40064d 7ebc3d9a 44db1e61 3e1b44ee`
-
-$h_1' = $ `56daec8c ba6ffcb9 a3eb1523 c699c81f fd40064d 7ebc3d9a 44db1e61 3e1b44ee`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `9475710c 2e87b311 98bacee5 d0a2e90b 8a35cec4 d5fa498e bae025d4 a2705ba8` |
+| $h'_0$ | `9475710c 2e87b311 98bacee5 d0a2e90b 8a35cec4 d5fa498e bae025d4 a2705ba8` |
+| $M$ | `e2ed27c4 0477d652 0138714c c3bfbc3f dbb2e96f 24154d68 53acc7e6 929a9d83 d4289036 12d8b9ff ca8a1e9e 42471b3e c393d27b 9a8c69a7 47d9df5c b7fb0c15` |
+| $M'$ | `e2ed27c4 0477d652 0138714c c3bfbc3f dbb2e96f 24154d68 53acc7e6 929a9d83 6d4b7c36 a77b4dff ca8a1e9e 42471b3e c393d27b 48e2eadc 47d9df5c b7fb0c15` |
+| $h_1$ | `56daec8c ba6ffcb9 a3eb1523 c699c81f fd40064d 7ebc3d9a 44db1e61 3e1b44ee` |
+| $h'_1$ | `56daec8c ba6ffcb9 a3eb1523 c699c81f fd40064d 7ebc3d9a 44db1e61 3e1b44ee` |
 
 # 26 steps with seed 1
 
-$h_0 = $  `201b2008 efa4946a 52fd9e9f bb84d666 6e94e464 1b776684 c436e3e4 06e21e`
-
-$h_0' = $ `201b2008 efa4946a 52fd9e9f bb84d666 6e94e464 1b776684 c436e3e4 06e21e`
-
-$M = $ `961be206 82a5251e debfb7fd ef9b4fa7 76eb23a1 a637c9aa e3e77d3b 4fedfac0 6c847920 0094b048 76d42f00 f6ed4c82 08cd3fd9 85b9183d cbb08f67 f4945173`
-
-$M' = $ `961be206 82a5251e debfb7fd ef9b4fa7 76eb23a1 a637c9aa e3e77d3b 4fedfac0 d5e79520 95374448 76d42f00 f6ed4c82 08cd3fd9 ba0d907d cbb08f67 f4945173`
-
-$h_1 = $  `347fe2fd 91e3f504 667451b9 0f5a22b6 f814d672 2e27f07c 4ce35bb1 c13d0c64`
-
-$h_1' = $ `347fe2fd 91e3f504 667451b9 0f5a22b6 f814d672 2e27f07c 4ce35bb1 c13d0c64`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `201b2008 efa4946a 52fd9e9f bb84d666 6e94e464 1b776684 c436e3e4 06e21e` |
+| $h'_0$ | `201b2008 efa4946a 52fd9e9f bb84d666 6e94e464 1b776684 c436e3e4 06e21e` |
+| $M$ | `961be206 82a5251e debfb7fd ef9b4fa7 76eb23a1 a637c9aa e3e77d3b 4fedfac0 6c847920 0094b048 76d42f00 f6ed4c82 08cd3fd9 85b9183d cbb08f67 f4945173` |
+| $M'$ | `961be206 82a5251e debfb7fd ef9b4fa7 76eb23a1 a637c9aa e3e77d3b 4fedfac0 d5e79520 95374448 76d42f00 f6ed4c82 08cd3fd9 ba0d907d cbb08f67 f4945173` |
+| $h_1$ | `347fe2fd 91e3f504 667451b9 0f5a22b6 f814d672 2e27f07c 4ce35bb1 c13d0c64` |
+| $h'_1$ | `347fe2fd 91e3f504 667451b9 0f5a22b6 f814d672 2e27f07c 4ce35bb1 c13d0c64` |
 
 # 26 steps with seed 2
 
-$h_0 = $  `86723fe7 68747b63 caf754fc af25b51f 709497b2 d3d3537d f61abbc4 14bcf2ce`
-
-$h_0' = $ `86723fe7 68747b63 caf754fc af25b51f 709497b2 d3d3537d f61abbc4 14bcf2ce`
-
-$M = $ `8146e38e ec477e43 0e6fe164 8e0dca80 856c34f4 721ef65f c498bfee ca59afcc f438833e 9088b8c7 d736a6bc 6b6a1080 76605f10 07f657fd 6e0196cd ceb31007`
-
-$M' = $ `8146e38e ec477e43 0e6fe164 8e0dca80 856c34f4 721ef65f c498bfee ca59afcc 4d5b6f3e 252b4cc7 d736a6bc 6b6a1080 76605f10 4eb19443 6e0196cd ceb31007`
-
-$h_1 = $  `5b48cbe5 811c4583 61486ae4 fe15de79 cc4c05d2 231971c9 ce54a625 9b90fec2`
-
-$h_1' = $ `5b48cbe5 811c4583 61486ae4 fe15de79 cc4c05d2 231971c9 ce54a625 9b90fec2`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `86723fe7 68747b63 caf754fc af25b51f 709497b2 d3d3537d f61abbc4 14bcf2ce` |
+| $h'_0$ | `86723fe7 68747b63 caf754fc af25b51f 709497b2 d3d3537d f61abbc4 14bcf2ce` |
+| $M$ | `8146e38e ec477e43 0e6fe164 8e0dca80 856c34f4 721ef65f c498bfee ca59afcc f438833e 9088b8c7 d736a6bc 6b6a1080 76605f10 07f657fd 6e0196cd ceb31007` |
+| $M'$ | `8146e38e ec477e43 0e6fe164 8e0dca80 856c34f4 721ef65f c498bfee ca59afcc 4d5b6f3e 252b4cc7 d736a6bc 6b6a1080 76605f10 4eb19443 6e0196cd ceb31007` |
+| $h_1$ | `5b48cbe5 811c4583 61486ae4 fe15de79 cc4c05d2 231971c9 ce54a625 9b90fec2` |
+| $h'_1$ | `5b48cbe5 811c4583 61486ae4 fe15de79 cc4c05d2 231971c9 ce54a625 9b90fec2` |
 
 # 26 steps with seed 3
 
-$h_0 = $  `e8df3699 7b6b6248 92380eb9 c3e7b44a 568bf9fe dba2b290 3e60c377 3fabd12c`
-
-$h_0' = $ `e8df3699 7b6b6248 92380eb9 c3e7b44a 568bf9fe dba2b290 3e60c377 3fabd12c`
-
-$M = $ `649d4f00 ac805000 640a0200 c329006d bd1de4e4 eb6f0e31 ddefffff f02d31f1 d4289236 92dcb1fc 65abef9a e6b407e4 793f0263 90b592f8 c52a2614 f69a040d`
-
-$M' = $ `649d4f00 ac805000 640a0200 c329006d bd1de4e4 eb6f0e31 ddefffff f02d31f1 6d4b7e36 277f45fc 65abef9a e6b407e4 793f0263 ae4103ef c52a2614 f69a040d`
-
-$h_1 = $  `2b8071db 9a93acbd d74e6ccc a97ead83 a29a6c95 f636d9ff 776644fd df196b77`
-
-$h_1' = $ `2b8071db 9a93acbd d74e6ccc a97ead83 a29a6c95 f636d9ff 776644fd df196b77`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `e8df3699 7b6b6248 92380eb9 c3e7b44a 568bf9fe dba2b290 3e60c377 3fabd12c` |
+| $h'_0$ | `e8df3699 7b6b6248 92380eb9 c3e7b44a 568bf9fe dba2b290 3e60c377 3fabd12c` |
+| $M$ | `649d4f00 ac805000 640a0200 c329006d bd1de4e4 eb6f0e31 ddefffff f02d31f1 d4289236 92dcb1fc 65abef9a e6b407e4 793f0263 90b592f8 c52a2614 f69a040d` |
+| $M'$ | `649d4f00 ac805000 640a0200 c329006d bd1de4e4 eb6f0e31 ddefffff f02d31f1 6d4b7e36 277f45fc 65abef9a e6b407e4 793f0263 ae4103ef c52a2614 f69a040d` |
+| $h_1$ | `2b8071db 9a93acbd d74e6ccc a97ead83 a29a6c95 f636d9ff 776644fd df196b77` |
+| $h'_1$ | `2b8071db 9a93acbd d74e6ccc a97ead83 a29a6c95 f636d9ff 776644fd df196b77` |
 
 # 26 steps with seed 4
 
-$h_0 = $  `769fc2b6 8d640884 8f0a0536 77fdcac9 a94071bc 528f0dd3 2e79432f 70f7f96f`
-
-$h_0' = $ `769fc2b6 8d640884 8f0a0536 77fdcac9 a94071bc 528f0dd3 2e79432f 70f7f96f`
-
-$M = $ `f6eebc3d e5f9f5cd 46441ff9 81364c21 b0b91d9b 380a7f05 da3d6e6e 6f59b45f b4b083fb 5094bacb 5ae0bf8b e93af7df e681d3e8 85e31b36 2dd4b10e c4e8fe72`
-
-$M' = $ `f6eebc3d e5f9f5cd 46441ff9 81364c21 b0b91d9b 380a7f05 da3d6e6e 6f59b45f 0dd36ffb e5374ecb 5ae0bf8b e93af7df e681d3e8 034eb002 2dd4b10e c4e8fe72`
-
-$h_1 = $  `0fb7d918 f959f9a5 ebe30841 a95969ff 9fecfcd8 f97c83b5 f2fe2a8a 968d505f`
-
-$h_1' = $ `0fb7d918 f959f9a5 ebe30841 a95969ff 9fecfcd8 f97c83b5 f2fe2a8a 968d505f`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `769fc2b6 8d640884 8f0a0536 77fdcac9 a94071bc 528f0dd3 2e79432f 70f7f96f` |
+| $h'_0$ | `769fc2b6 8d640884 8f0a0536 77fdcac9 a94071bc 528f0dd3 2e79432f 70f7f96f` |
+| $M$ | `f6eebc3d e5f9f5cd 46441ff9 81364c21 b0b91d9b 380a7f05 da3d6e6e 6f59b45f b4b083fb 5094bacb 5ae0bf8b e93af7df e681d3e8 85e31b36 2dd4b10e c4e8fe72` |
+| $M'$ | `f6eebc3d e5f9f5cd 46441ff9 81364c21 b0b91d9b 380a7f05 da3d6e6e 6f59b45f 0dd36ffb e5374ecb 5ae0bf8b e93af7df e681d3e8 034eb002 2dd4b10e c4e8fe72` |
+| $h_1$ | `0fb7d918 f959f9a5 ebe30841 a95969ff 9fecfcd8 f97c83b5 f2fe2a8a 968d505f` |
+| $h'_1$ | `0fb7d918 f959f9a5 ebe30841 a95969ff 9fecfcd8 f97c83b5 f2fe2a8a 968d505f` |
 
 # 26 steps with seed 5
 
-$h_0 = $  `7f1b9730 cad248c7 37198c76 96afa0c8 91063e10 2dff0ef5 8d8da08f 694865a`
-
-$h_0' = $ `7f1b9730 cad248c7 37198c76 96afa0c8 91063e10 2dff0ef5 8d8da08f 694865a`
-
-$M = $ `c5ff7c87 3ad4f741 6b40a051 b74c7315 d6430f6b be4343e2 25d690d1 8cece871 f438813f 9098b0ce 973dfa94 a3ef17e5 9effbb37 62fd875f 64480400 abf29981`
-
-$M' = $ `c5ff7c87 3ad4f741 6b40a051 b74c7315 d6430f6b be4343e2 25d690d1 8cece871 4d5b6d3f 253b44ce 973dfa94 a3ef17e5 9effbb37 9562eba3 64480400 abf29981`
-
-$h_1 = $  `3b0afbd3 e68dcb8d fe5c31b4 6c5f4cb4 450888ef 0aea0f52 f1cfb664 47fc1726`
-
-$h_1' = $ `3b0afbd3 e68dcb8d fe5c31b4 6c5f4cb4 450888ef 0aea0f52 f1cfb664 47fc1726`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `7f1b9730 cad248c7 37198c76 96afa0c8 91063e10 2dff0ef5 8d8da08f 694865a` |
+| $h'_0$ | `7f1b9730 cad248c7 37198c76 96afa0c8 91063e10 2dff0ef5 8d8da08f 694865a` |
+| $M$ | `c5ff7c87 3ad4f741 6b40a051 b74c7315 d6430f6b be4343e2 25d690d1 8cece871 f438813f 9098b0ce 973dfa94 a3ef17e5 9effbb37 62fd875f 64480400 abf29981` |
+| $M'$ | `c5ff7c87 3ad4f741 6b40a051 b74c7315 d6430f6b be4343e2 25d690d1 8cece871 4d5b6d3f 253b44ce 973dfa94 a3ef17e5 9effbb37 9562eba3 64480400 abf29981` |
+| $h_1$ | `3b0afbd3 e68dcb8d fe5c31b4 6c5f4cb4 450888ef 0aea0f52 f1cfb664 47fc1726` |
+| $h'_1$ | `3b0afbd3 e68dcb8d fe5c31b4 6c5f4cb4 450888ef 0aea0f52 f1cfb664 47fc1726` |
 
 # 26 steps with seed 6
 
-$h_0 = $  `a8343e42 1b1d3238 0784fbaf ff902bfa 99d2989c 7442a1e7 e5532616 c38f97b`
-
-$h_0' = $ `a8343e42 1b1d3238 0784fbaf ff902bfa 99d2989c 7442a1e7 e5532616 c38f97b`
-
-$M = $ `09777a0e 65391f53 6fd4799f 05d1d838 e85b4f9d 7fef7463 2d6832c8 1fb638d0 b42083b2 9898b80d 94e8177a 55fe49d3 d3954920 abe6ee05 611145e7 bf13252a`
-
-$M' = $ `09777a0e 65391f53 6fd4799f 05d1d838 e85b4f9d 7fef7463 2d6832c8 1fb638d0 0d436fb2 2d3b4c0d 94e8177a 55fe49d3 d3954920 ab7c6dfb 611145e7 bf13252a`
-
-$h_1 = $  `359ce98b 4e44512c 267cdf08 4a893e6a 3608fea4 7109a8f0 b7142646 830d7c4b`
-
-$h_1' = $ `359ce98b 4e44512c 267cdf08 4a893e6a 3608fea4 7109a8f0 b7142646 830d7c4b`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `a8343e42 1b1d3238 0784fbaf ff902bfa 99d2989c 7442a1e7 e5532616 c38f97b` |
+| $h'_0$ | `a8343e42 1b1d3238 0784fbaf ff902bfa 99d2989c 7442a1e7 e5532616 c38f97b` |
+| $M$ | `09777a0e 65391f53 6fd4799f 05d1d838 e85b4f9d 7fef7463 2d6832c8 1fb638d0 b42083b2 9898b80d 94e8177a 55fe49d3 d3954920 abe6ee05 611145e7 bf13252a` |
+| $M'$ | `09777a0e 65391f53 6fd4799f 05d1d838 e85b4f9d 7fef7463 2d6832c8 1fb638d0 0d436fb2 2d3b4c0d 94e8177a 55fe49d3 d3954920 ab7c6dfb 611145e7 bf13252a` |
+| $h_1$ | `359ce98b 4e44512c 267cdf08 4a893e6a 3608fea4 7109a8f0 b7142646 830d7c4b` |
+| $h'_1$ | `359ce98b 4e44512c 267cdf08 4a893e6a 3608fea4 7109a8f0 b7142646 830d7c4b` |
 
 # 26 steps with seed 7
 
-$h_0 = $  `bc8524cc 475bfa8d f1f6873f 9908207b 4d43072f 2ac01342 e9cb42ff 1b0dcc7d`
-
-$h_0' = $ `bc8524cc 475bfa8d f1f6873f 9908207b 4d43072f 2ac01342 e9cb42ff 1b0dcc7d`
-
-$M = $ `de33540e 2b1e4488 bf03b159 64428510 9601af05 7cbba9a7 895f2ebd 180d334d f4ac9375 1098b84d 03c95c51 d2484109 7bcbb086 4dbf527f 60690dcb 97c61a80`
-
-$M' = $ `de33540e 2b1e4488 bf03b159 64428510 9601af05 7cbba9a7 895f2ebd 180d334d 4dcf7f75 a53b4c4d 03c95c51 d2484109 7bcbb086 75449eb5 60690dcb 97c61a80`
-
-$h_1 = $  `b197c6aa ea0a7d37 cefd0396 f644e848 4a13740d 71ca54a5 746d7a8c 46c70d19`
-
-$h_1' = $ `b197c6aa ea0a7d37 cefd0396 f644e848 4a13740d 71ca54a5 746d7a8c 46c70d19`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `bc8524cc 475bfa8d f1f6873f 9908207b 4d43072f 2ac01342 e9cb42ff 1b0dcc7d` |
+| $h'_0$ | `bc8524cc 475bfa8d f1f6873f 9908207b 4d43072f 2ac01342 e9cb42ff 1b0dcc7d` |
+| $M$ | `de33540e 2b1e4488 bf03b159 64428510 9601af05 7cbba9a7 895f2ebd 180d334d f4ac9375 1098b84d 03c95c51 d2484109 7bcbb086 4dbf527f 60690dcb 97c61a80` |
+| $M'$ | `de33540e 2b1e4488 bf03b159 64428510 9601af05 7cbba9a7 895f2ebd 180d334d 4dcf7f75 a53b4c4d 03c95c51 d2484109 7bcbb086 75449eb5 60690dcb 97c61a80` |
+| $h_1$ | `b197c6aa ea0a7d37 cefd0396 f644e848 4a13740d 71ca54a5 746d7a8c 46c70d19` |
+| $h'_1$ | `b197c6aa ea0a7d37 cefd0396 f644e848 4a13740d 71ca54a5 746d7a8c 46c70d19` |
 
 # 26 steps with seed 8
 
-$h_0 = $  `310936d1 ee60a51e 4cb8008e 52295577 ea8f44fd ce7584b9 68ed7a57 82d7f79`
-
-$h_0' = $ `310936d1 ee60a51e 4cb8008e 52295577 ea8f44fd ce7584b9 68ed7a57 82d7f79`
-
-$M = $ `b1e4f56d c55a211e c623c642 4d42451e f65d9c9b 242615cc f7046a77 c59ae1e1 943092ba 92dcb17e cb594000 25302fbc 4d65de53 6bdaa0ab ba0af2e5 d831f7d0`
-
-$M' = $ `b1e4f56d c55a211e c623c642 4d42451e f65d9c9b 242615cc f7046a77 c59ae1e1 2d537eba 277f457e cb594000 25302fbc 4d65de53 3640f4dc ba0af2e5 d831f7d0`
-
-$h_1 = $  `bd749f1e e13b4f51 a3aee726 826150db 0f792742 c97f8f5d 73d49273 e1bd8091`
-
-$h_1' = $ `bd749f1e e13b4f51 a3aee726 826150db 0f792742 c97f8f5d 73d49273 e1bd8091`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `310936d1 ee60a51e 4cb8008e 52295577 ea8f44fd ce7584b9 68ed7a57 82d7f79` |
+| $h'_0$ | `310936d1 ee60a51e 4cb8008e 52295577 ea8f44fd ce7584b9 68ed7a57 82d7f79` |
+| $M$ | `b1e4f56d c55a211e c623c642 4d42451e f65d9c9b 242615cc f7046a77 c59ae1e1 943092ba 92dcb17e cb594000 25302fbc 4d65de53 6bdaa0ab ba0af2e5 d831f7d0` |
+| $M'$ | `b1e4f56d c55a211e c623c642 4d42451e f65d9c9b 242615cc f7046a77 c59ae1e1 2d537eba 277f457e cb594000 25302fbc 4d65de53 3640f4dc ba0af2e5 d831f7d0` |
+| $h_1$ | `bd749f1e e13b4f51 a3aee726 826150db 0f792742 c97f8f5d 73d49273 e1bd8091` |
+| $h'_1$ | `bd749f1e e13b4f51 a3aee726 826150db 0f792742 c97f8f5d 73d49273 e1bd8091` |
 
 # 26 steps with seed 9
 
-$h_0 = $  `be9f7b27 8b92a3ee 64246f3e 66d19ba3 47539f10 69c9b523 c43a0fba 777df4ea`
-
-$h_0' = $ `be9f7b27 8b92a3ee 64246f3e 66d19ba3 47539f10 69c9b523 c43a0fba 777df4ea`
-
-$M = $ `35d95d74 5c7ddc95 0d8c5e54 4b650034 90002132 1322050b 34230000 02030c04 2c886927 2880b102 39dfba6b c2bb9b3b e286ca8b 0ff95671 266a31fd 630a2719`
-
-$M' = $ `35d95d74 5c7ddc95 0d8c5e54 4b650034 90002132 1322050b 34230000 02030c04 95eb8527 bd234502 39dfba6b c2bb9b3b e286ca8b 7553f8af 266a31fd 630a2719`
-
-$h_1 = $  `ebe61537 8f7baeea f76f7071 9186c631 a75893c5 5837f426 2c599e62 2cb51be9`
-
-$h_1' = $ `ebe61537 8f7baeea f76f7071 9186c631 a75893c5 5837f426 2c599e62 2cb51be9`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `be9f7b27 8b92a3ee 64246f3e 66d19ba3 47539f10 69c9b523 c43a0fba 777df4ea` |
+| $h'_0$ | `be9f7b27 8b92a3ee 64246f3e 66d19ba3 47539f10 69c9b523 c43a0fba 777df4ea` |
+| $M$ | `35d95d74 5c7ddc95 0d8c5e54 4b650034 90002132 1322050b 34230000 02030c04 2c886927 2880b102 39dfba6b c2bb9b3b e286ca8b 0ff95671 266a31fd 630a2719` |
+| $M'$ | `35d95d74 5c7ddc95 0d8c5e54 4b650034 90002132 1322050b 34230000 02030c04 95eb8527 bd234502 39dfba6b c2bb9b3b e286ca8b 7553f8af 266a31fd 630a2719` |
+| $h_1$ | `ebe61537 8f7baeea f76f7071 9186c631 a75893c5 5837f426 2c599e62 2cb51be9` |
+| $h'_1$ | `ebe61537 8f7baeea f76f7071 9186c631 a75893c5 5837f426 2c599e62 2cb51be9` |
 
 # 27 steps with seed 0
 
-$h_0 = $  `ae97d38c fa63f24b 10afab54 e81806db 7ed28d73 51168699 1b029bb7 7f75e78`
-
-$h_0' = $ `ae97d38c fa63f24b 10afab54 e81806db 7ed28d73 51168699 1b029bb7 7f75e78`
-
-$M = $ `fff201ae 82c9b69b 63cdddef 8343abea 7296a7d0 c9ed3325 d662dc51 d780b729 f42c9334 5084b2c2 54f82c4f 211d043d 87969417 b1d8bcf4 349b9efb 94eefba2`
-
-$M' = $ `fff201ae 82c9b69b 63cdddef 8343abea 7296a7d0 c9ed3325 d662dc51 d780b729 4d4f7f34 e52746c2 54f82c4f 211d043d 87969417 ae6b1e29 349b9efb 94eefba2`
-
-$h_1 = $  `0f3b53b8 177df93a 8fd25b36 501bfd75 5e33e2ae df710a91 9945ea03 3ce38e06`
-
-$h_1' = $ `0f3b53b8 177df93a 8fd25b36 501bfd75 5e33e2ae df710a91 9945ea03 3ce38e06`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `ae97d38c fa63f24b 10afab54 e81806db 7ed28d73 51168699 1b029bb7 7f75e78` |
+| $h'_0$ | `ae97d38c fa63f24b 10afab54 e81806db 7ed28d73 51168699 1b029bb7 7f75e78` |
+| $M$ | `fff201ae 82c9b69b 63cdddef 8343abea 7296a7d0 c9ed3325 d662dc51 d780b729 f42c9334 5084b2c2 54f82c4f 211d043d 87969417 b1d8bcf4 349b9efb 94eefba2` |
+| $M'$ | `fff201ae 82c9b69b 63cdddef 8343abea 7296a7d0 c9ed3325 d662dc51 d780b729 4d4f7f34 e52746c2 54f82c4f 211d043d 87969417 ae6b1e29 349b9efb 94eefba2` |
+| $h_1$ | `0f3b53b8 177df93a 8fd25b36 501bfd75 5e33e2ae df710a91 9945ea03 3ce38e06` |
+| $h'_1$ | `0f3b53b8 177df93a 8fd25b36 501bfd75 5e33e2ae df710a91 9945ea03 3ce38e06` |
 
 # 27 steps with seed 1
 
-$h_0 = $  `cfc1804d 76a4e4fb 27ffe5b8 ce816bb4 5cb15acd bda3f372 261bea12 be88f`
-
-$h_0' = $ `cfc1804d 76a4e4fb 27ffe5b8 ce816bb4 5cb15acd bda3f372 261bea12 be88f`
-
-$M = $ `3c818129 1dd87daf 9e03dc63 3e37afdb 72831040 36b5a2e7 1772aac0 4d0209a0 6c806b23 e098bacf d2aeb020 df0b601d 00073858 22093dae 7cb33aa0 92b44605`
-
-$M' = $ `3c818129 1dd87daf 9e03dc63 3e37afdb 72831040 36b5a2e7 1772aac0 4d0209a0 d5e38723 753b4ecf d2aeb020 df0b601d 00073858 1e7795f8 7cb33aa0 92b44605`
-
-$h_1 = $  `6af4b84a 0bf4a628 29d95197 f3055665 5aac0447 b1a283be 124115b1 f914a439`
-
-$h_1' = $ `6af4b84a 0bf4a628 29d95197 f3055665 5aac0447 b1a283be 124115b1 f914a439`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `cfc1804d 76a4e4fb 27ffe5b8 ce816bb4 5cb15acd bda3f372 261bea12 be88f` |
+| $h'_0$ | `cfc1804d 76a4e4fb 27ffe5b8 ce816bb4 5cb15acd bda3f372 261bea12 be88f` |
+| $M$ | `3c818129 1dd87daf 9e03dc63 3e37afdb 72831040 36b5a2e7 1772aac0 4d0209a0 6c806b23 e098bacf d2aeb020 df0b601d 00073858 22093dae 7cb33aa0 92b44605` |
+| $M'$ | `3c818129 1dd87daf 9e03dc63 3e37afdb 72831040 36b5a2e7 1772aac0 4d0209a0 d5e38723 753b4ecf d2aeb020 df0b601d 00073858 1e7795f8 7cb33aa0 92b44605` |
+| $h_1$ | `6af4b84a 0bf4a628 29d95197 f3055665 5aac0447 b1a283be 124115b1 f914a439` |
+| $h'_1$ | `6af4b84a 0bf4a628 29d95197 f3055665 5aac0447 b1a283be 124115b1 f914a439` |
 
 # 27 steps with seed 2
 
-$h_0 = $  `1e45e29d bc8d6798 7a4ae792 ec4ceb9c 6e075293 ac357dbd 23b603be 33f76d41`
-
-$h_0' = $ `1e45e29d bc8d6798 7a4ae792 ec4ceb9c 6e075293 ac357dbd 23b603be 33f76d41`
-
-$M = $ `c88ec085 f922935b ad0fcec8 3e834062 60bb0f09 de32500d a0a72a93 a5ba7ddd f42881b7 9888b807 cb167b32 780a9446 d146e377 fdb14000 3ad6f04e f96c9bf0`
-
-$M' = $ `c88ec085 f922935b ad0fcec8 3e834062 60bb0f09 de32500d a0a72a93 a5ba7ddd 4d4b6db7 2d2b4c07 cb167b32 780a9446 d146e377 bc6061e4 3ad6f04e f96c9bf0`
-
-$h_1 = $  `03bc7d73 83efbe82 b03b1197 3779ceb0 1e17632e 1d420206 63be482c 08e9eca0`
-
-$h_1' = $ `03bc7d73 83efbe82 b03b1197 3779ceb0 1e17632e 1d420206 63be482c 08e9eca0`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `1e45e29d bc8d6798 7a4ae792 ec4ceb9c 6e075293 ac357dbd 23b603be 33f76d41` |
+| $h'_0$ | `1e45e29d bc8d6798 7a4ae792 ec4ceb9c 6e075293 ac357dbd 23b603be 33f76d41` |
+| $M$ | `c88ec085 f922935b ad0fcec8 3e834062 60bb0f09 de32500d a0a72a93 a5ba7ddd f42881b7 9888b807 cb167b32 780a9446 d146e377 fdb14000 3ad6f04e f96c9bf0` |
+| $M'$ | `c88ec085 f922935b ad0fcec8 3e834062 60bb0f09 de32500d a0a72a93 a5ba7ddd 4d4b6db7 2d2b4c07 cb167b32 780a9446 d146e377 bc6061e4 3ad6f04e f96c9bf0` |
+| $h_1$ | `03bc7d73 83efbe82 b03b1197 3779ceb0 1e17632e 1d420206 63be482c 08e9eca0` |
+| $h'_1$ | `03bc7d73 83efbe82 b03b1197 3779ceb0 1e17632e 1d420206 63be482c 08e9eca0` |
 
 # 27 steps with seed 3
 
-$h_0 = $  `6b6d42f7 1191239a 4fa458ec 7d46aa56 46674d4a fdc7d7f9 30bffe79 587c8dcf`
-
-$h_0' = $ `6b6d42f7 1191239a 4fa458ec 7d46aa56 46674d4a fdc7d7f9 30bffe79 587c8dcf`
-
-$M = $ `0642de63 d881b016 9fd1311c 711b4250 61958377 1e26c125 b8c4d9e2 b8ec61dd f4ac9175 108cb8c5 38ea2b59 320b4286 219cea71 91ad741e 1c5443b9 c6444276`
-
-$M' = $ `0642de63 d881b016 9fd1311c 711b4250 61958377 1e26c125 b8c4d9e2 b8ec61dd 4dcf7d75 a52f4cc5 38ea2b59 320b4286 219cea71 ca232060 1c5443b9 c6444276`
-
-$h_1 = $  `5273905d 10ee12a4 20c415fd 90ed2a1c c1e48201 af63d9e3 b36823f6 06a5009e`
-
-$h_1' = $ `5273905d 10ee12a4 20c415fd 90ed2a1c c1e48201 af63d9e3 b36823f6 06a5009e`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `6b6d42f7 1191239a 4fa458ec 7d46aa56 46674d4a fdc7d7f9 30bffe79 587c8dcf` |
+| $h'_0$ | `6b6d42f7 1191239a 4fa458ec 7d46aa56 46674d4a fdc7d7f9 30bffe79 587c8dcf` |
+| $M$ | `0642de63 d881b016 9fd1311c 711b4250 61958377 1e26c125 b8c4d9e2 b8ec61dd f4ac9175 108cb8c5 38ea2b59 320b4286 219cea71 91ad741e 1c5443b9 c6444276` |
+| $M'$ | `0642de63 d881b016 9fd1311c 711b4250 61958377 1e26c125 b8c4d9e2 b8ec61dd 4dcf7d75 a52f4cc5 38ea2b59 320b4286 219cea71 ca232060 1c5443b9 c6444276` |
+| $h_1$ | `5273905d 10ee12a4 20c415fd 90ed2a1c c1e48201 af63d9e3 b36823f6 06a5009e` |
+| $h'_1$ | `5273905d 10ee12a4 20c415fd 90ed2a1c c1e48201 af63d9e3 b36823f6 06a5009e` |
 
 # 27 steps with seed 4
 
-$h_0 = $  `211ce307 a12f5805 75a407b9 19f393e8 a14cd980 5de962d9 eb6b7082 96a65f23`
-
-$h_0' = $ `211ce307 a12f5805 75a407b9 19f393e8 a14cd980 5de962d9 eb6b7082 96a65f23`
-
-$M = $ `17e053f4 8733b856 b2f1ff41 bac481a3 47ff1f43 fdc133c9 7b6341a6 279b4f1f 4fcf939e d894b9f4 864703fc 35a85b25 fc39f361 8b390bfa d997e180 3b9039dc`
-
-$M' = $ `17e053f4 8733b856 b2f1ff41 bac481a3 47ff1f43 fdc133c9 7b6341a6 279b4f1f f6ac7f9e 6d374df4 864703fc 35a85b25 fc39f361 537a4680 d997e180 3b9039dc`
-
-$h_1 = $  `845199e2 838451b5 7364e8f5 641c0779 21877cb3 cc6ba911 e7cba9d2 d576a3cd`
-
-$h_1' = $ `845199e2 838451b5 7364e8f5 641c0779 21877cb3 cc6ba911 e7cba9d2 d576a3cd`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `211ce307 a12f5805 75a407b9 19f393e8 a14cd980 5de962d9 eb6b7082 96a65f23` |
+| $h'_0$ | `211ce307 a12f5805 75a407b9 19f393e8 a14cd980 5de962d9 eb6b7082 96a65f23` |
+| $M$ | `17e053f4 8733b856 b2f1ff41 bac481a3 47ff1f43 fdc133c9 7b6341a6 279b4f1f 4fcf939e d894b9f4 864703fc 35a85b25 fc39f361 8b390bfa d997e180 3b9039dc` |
+| $M'$ | `17e053f4 8733b856 b2f1ff41 bac481a3 47ff1f43 fdc133c9 7b6341a6 279b4f1f f6ac7f9e 6d374df4 864703fc 35a85b25 fc39f361 537a4680 d997e180 3b9039dc` |
+| $h_1$ | `845199e2 838451b5 7364e8f5 641c0779 21877cb3 cc6ba911 e7cba9d2 d576a3cd` |
+| $h'_1$ | `845199e2 838451b5 7364e8f5 641c0779 21877cb3 cc6ba911 e7cba9d2 d576a3cd` |
 
 # 27 steps with seed 5
 
-$h_0 = $  `332a9d54 dde7909f 185def34 d3ce9dfa 2f49063a fa0b7d85 8e065337 64535da0`
-
-$h_0' = $ `332a9d54 dde7909f 185def34 d3ce9dfa 2f49063a fa0b7d85 8e065337 64535da0`
-
-$M = $ `b0a64568 aca1164d e363eac3 7e4d7e2b 17c4f448 c102642a 76a0d142 9b1ee6b5 b4249131 909cb8cd a1999dbd 658f082c a14a16bf fc83cad1 93cab907 c572a2eb`
-
-$M' = $ `b0a64568 aca1164d e363eac3 7e4d7e2b 17c4f448 c102642a 76a0d142 9b1ee6b5 0d477d31 253f4ccd a1999dbd 658f082c a14a16bf db390cf5 93cab907 c572a2eb`
-
-$h_1 = $  `ec267b44 cd06ca44 c5cd1248 ab8998e6 37bd1646 c67c86fe 6f8b0530 466fd6ba`
-
-$h_1' = $ `ec267b44 cd06ca44 c5cd1248 ab8998e6 37bd1646 c67c86fe 6f8b0530 466fd6ba`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `332a9d54 dde7909f 185def34 d3ce9dfa 2f49063a fa0b7d85 8e065337 64535da0` |
+| $h'_0$ | `332a9d54 dde7909f 185def34 d3ce9dfa 2f49063a fa0b7d85 8e065337 64535da0` |
+| $M$ | `b0a64568 aca1164d e363eac3 7e4d7e2b 17c4f448 c102642a 76a0d142 9b1ee6b5 b4249131 909cb8cd a1999dbd 658f082c a14a16bf fc83cad1 93cab907 c572a2eb` |
+| $M'$ | `b0a64568 aca1164d e363eac3 7e4d7e2b 17c4f448 c102642a 76a0d142 9b1ee6b5 0d477d31 253f4ccd a1999dbd 658f082c a14a16bf db390cf5 93cab907 c572a2eb` |
+| $h_1$ | `ec267b44 cd06ca44 c5cd1248 ab8998e6 37bd1646 c67c86fe 6f8b0530 466fd6ba` |
+| $h'_1$ | `ec267b44 cd06ca44 c5cd1248 ab8998e6 37bd1646 c67c86fe 6f8b0530 466fd6ba` |
 
 # 27 steps with seed 6
 
-$h_0 = $  `22dbe5cd 13c1de82 995b130c e8bbebd2 27731b9b ffd2a56e 5e2e6026 974f58c1`
-
-$h_0' = $ `22dbe5cd 13c1de82 995b130c e8bbebd2 27731b9b ffd2a56e 5e2e6026 974f58c1`
-
-$M = $ `16cca32a c56e7f63 312b6bbc c625ac20 a0286697 082304f0 0fa45180 d046b9e5 f42c93b5 5884b282 b71eae3b 01287601 1e66a3d5 249eeeab 1bd6ee37 eaabae88`
-
-$M' = $ `16cca32a c56e7f63 312b6bbc c625ac20 a0286697 082304f0 0fa45180 d046b9e5 4d4f7fb5 ed274682 b71eae3b 01287601 1e66a3d5 dd3970a3 1bd6ee37 eaabae88`
-
-$h_1 = $  `c3b31fd5 5d600cfe 93607749 5b78ccc0 49d4fe75 5b41ad90 7c166c92 2e108e3b`
-
-$h_1' = $ `c3b31fd5 5d600cfe 93607749 5b78ccc0 49d4fe75 5b41ad90 7c166c92 2e108e3b`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `22dbe5cd 13c1de82 995b130c e8bbebd2 27731b9b ffd2a56e 5e2e6026 974f58c1` |
+| $h'_0$ | `22dbe5cd 13c1de82 995b130c e8bbebd2 27731b9b ffd2a56e 5e2e6026 974f58c1` |
+| $M$ | `16cca32a c56e7f63 312b6bbc c625ac20 a0286697 082304f0 0fa45180 d046b9e5 f42c93b5 5884b282 b71eae3b 01287601 1e66a3d5 249eeeab 1bd6ee37 eaabae88` |
+| $M'$ | `16cca32a c56e7f63 312b6bbc c625ac20 a0286697 082304f0 0fa45180 d046b9e5 4d4f7fb5 ed274682 b71eae3b 01287601 1e66a3d5 dd3970a3 1bd6ee37 eaabae88` |
+| $h_1$ | `c3b31fd5 5d600cfe 93607749 5b78ccc0 49d4fe75 5b41ad90 7c166c92 2e108e3b` |
+| $h'_1$ | `c3b31fd5 5d600cfe 93607749 5b78ccc0 49d4fe75 5b41ad90 7c166c92 2e108e3b` |
 
 # 27 steps with seed 7
 
-$h_0 = $  `77c297b6 fc4f27d9 7737b365 71b9b4fb fdcfb1c5 552d5941 bd4b4e76 a0962899`
-
-$h_0' = $ `77c297b6 fc4f27d9 7737b365 71b9b4fb fdcfb1c5 552d5941 bd4b4e76 a0962899`
-
-$M = $ `aa717d10 f9ef67f5 73198c51 2256864a d1f68f6c fd68076c 8ce9f90b 48844b00 b4a081f2 5094bacb e990edba b629d12d e8b3fffe e7e3c8bf 2cf9b31f 5c64e259`
-
-$M' = $ `aa717d10 f9ef67f5 73198c51 2256864a d1f68f6c fd68076c 8ce9f90b 48844b00 0dc36df2 e5374ecb e990edba b629d12d e8b3fffe f5990509 2cf9b31f 5c64e259`
-
-$h_1 = $  `a4dacf6b 33f8932c c965800b 5909d6d5 dbc93b79 f4708889 d36537b9 3dd72432`
-
-$h_1' = $ `a4dacf6b 33f8932c c965800b 5909d6d5 dbc93b79 f4708889 d36537b9 3dd72432`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `77c297b6 fc4f27d9 7737b365 71b9b4fb fdcfb1c5 552d5941 bd4b4e76 a0962899` |
+| $h'_0$ | `77c297b6 fc4f27d9 7737b365 71b9b4fb fdcfb1c5 552d5941 bd4b4e76 a0962899` |
+| $M$ | `aa717d10 f9ef67f5 73198c51 2256864a d1f68f6c fd68076c 8ce9f90b 48844b00 b4a081f2 5094bacb e990edba b629d12d e8b3fffe e7e3c8bf 2cf9b31f 5c64e259` |
+| $M'$ | `aa717d10 f9ef67f5 73198c51 2256864a d1f68f6c fd68076c 8ce9f90b 48844b00 0dc36df2 e5374ecb e990edba b629d12d e8b3fffe f5990509 2cf9b31f 5c64e259` |
+| $h_1$ | `a4dacf6b 33f8932c c965800b 5909d6d5 dbc93b79 f4708889 d36537b9 3dd72432` |
+| $h'_1$ | `a4dacf6b 33f8932c c965800b 5909d6d5 dbc93b79 f4708889 d36537b9 3dd72432` |
 
 # 27 steps with seed 8
 
-$h_0 = $  `b53f6d12 b71a7cfd abad4c5c 13704326 d9decb5b debe3d96 29c40ab1 2cd9f149`
-
-$h_0' = $ `b53f6d12 b71a7cfd abad4c5c 13704326 d9decb5b debe3d96 29c40ab1 2cd9f149`
-
-$M = $ `05250757 790fcccc 4bb15198 a20826f2 c73587d7 74518a3d cc6bfb1b 4728ad7e 94a482f0 d2d0b3fa 6450b8a2 ac5e7291 4547609d ec9f8a71 640488ad 49cdafba`
-
-$M' = $ `05250757 790fcccc 4bb15198 a20826f2 c73587d7 74518a3d cc6bfb1b 4728ad7e 2dc76ef0 677347fa 6450b8a2 ac5e7291 4547609d 384c235a 640488ad 49cdafba`
-
-$h_1 = $  `e758976f 81bdae31 d980e063 3c92b036 b9a8eee2 a560d034 a394c433 3eb0dad4`
-
-$h_1' = $ `e758976f 81bdae31 d980e063 3c92b036 b9a8eee2 a560d034 a394c433 3eb0dad4`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `b53f6d12 b71a7cfd abad4c5c 13704326 d9decb5b debe3d96 29c40ab1 2cd9f149` |
+| $h'_0$ | `b53f6d12 b71a7cfd abad4c5c 13704326 d9decb5b debe3d96 29c40ab1 2cd9f149` |
+| $M$ | `05250757 790fcccc 4bb15198 a20826f2 c73587d7 74518a3d cc6bfb1b 4728ad7e 94a482f0 d2d0b3fa 6450b8a2 ac5e7291 4547609d ec9f8a71 640488ad 49cdafba` |
+| $M'$ | `05250757 790fcccc 4bb15198 a20826f2 c73587d7 74518a3d cc6bfb1b 4728ad7e 2dc76ef0 677347fa 6450b8a2 ac5e7291 4547609d 384c235a 640488ad 49cdafba` |
+| $h_1$ | `e758976f 81bdae31 d980e063 3c92b036 b9a8eee2 a560d034 a394c433 3eb0dad4` |
+| $h'_1$ | `e758976f 81bdae31 d980e063 3c92b036 b9a8eee2 a560d034 a394c433 3eb0dad4` |
 
 # 27 steps with seed 9
 
-$h_0 = $  `9bb4c0f5 99f0c7bb 8b7846ab cfb8f696 62533ba3 a8db508b 795433e9 d49d6b`
-
-$h_0' = $ `9bb4c0f5 99f0c7bb 8b7846ab cfb8f696 62533ba3 a8db508b 795433e9 d49d6b`
-
-$M = $ `36c2ee83 a75c280b 766887e7 42e81366 f2fb6848 6d52d536 fa12b9f3 96119ea9 943480b8 52d4bbf9 941297d2 a15f41ec f82a80f9 f80e7e17 5956cb0d 8f0add5b`
-
-$M' = $ `36c2ee83 a75c280b 766887e7 42e81366 f2fb6848 6d52d536 fa12b9f3 96119ea9 2d576cb8 e7774ff9 941297d2 a15f41ec f82a80f9 12c1ee48 5956cb0d 8f0add5b`
-
-$h_1 = $  `c8f0f669 f47a009d 40f76153 140bcad9 c482a839 8d4dbf4c 4510cfd7 100bdb71`
-
-$h_1' = $ `c8f0f669 f47a009d 40f76153 140bcad9 c482a839 8d4dbf4c 4510cfd7 100bdb71`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `9bb4c0f5 99f0c7bb 8b7846ab cfb8f696 62533ba3 a8db508b 795433e9 d49d6b` |
+| $h'_0$ | `9bb4c0f5 99f0c7bb 8b7846ab cfb8f696 62533ba3 a8db508b 795433e9 d49d6b` |
+| $M$ | `36c2ee83 a75c280b 766887e7 42e81366 f2fb6848 6d52d536 fa12b9f3 96119ea9 943480b8 52d4bbf9 941297d2 a15f41ec f82a80f9 f80e7e17 5956cb0d 8f0add5b` |
+| $M'$ | `36c2ee83 a75c280b 766887e7 42e81366 f2fb6848 6d52d536 fa12b9f3 96119ea9 2d576cb8 e7774ff9 941297d2 a15f41ec f82a80f9 12c1ee48 5956cb0d 8f0add5b` |
+| $h_1$ | `c8f0f669 f47a009d 40f76153 140bcad9 c482a839 8d4dbf4c 4510cfd7 100bdb71` |
+| $h'_1$ | `c8f0f669 f47a009d 40f76153 140bcad9 c482a839 8d4dbf4c 4510cfd7 100bdb71` |
 
 # 28 steps with seed 0
 
-$h_0 = $  `1178bdfc bf3e07df f1c4abea 69a80bc7 e9d5ab86 9fef2b79 3858cfa5 32388b3`
-
-$h_0' = $ `1178bdfc bf3e07df f1c4abea 69a80bc7 e9d5ab86 9fef2b79 3858cfa5 32388b3`
-
-$M = $ `e897bc51 17a777f3 c7bf94a5 84e803db 98d42a27 1f43f003 e739bfbd 1394f5c0 ea946c1c 1cd4ba08 9422a303 71d8abfe d6e35f32 22991864 43da4c7f 2b6190c4`
-
-$M' = $ `e897bc51 17a777f3 c7bf94a5 84e803db 98d42a27 1f43f003 e739bfbd 1394f5c0 53f7801c 89774e08 9422a303 71d8abfe d6e35f32 282255df 43da4c7f 2b6190c4`
-
-$h_1 = $  `55ad4781 516ca6ce e2313d22 8ba3e295 7be1309a abae0cfe e8516c32 786bed15`
-
-$h_1' = $ `55ad4781 516ca6ce e2313d22 8ba3e295 7be1309a abae0cfe e8516c32 786bed15`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `1178bdfc bf3e07df f1c4abea 69a80bc7 e9d5ab86 9fef2b79 3858cfa5 32388b3` |
+| $h'_0$ | `1178bdfc bf3e07df f1c4abea 69a80bc7 e9d5ab86 9fef2b79 3858cfa5 32388b3` |
+| $M$ | `e897bc51 17a777f3 c7bf94a5 84e803db 98d42a27 1f43f003 e739bfbd 1394f5c0 ea946c1c 1cd4ba08 9422a303 71d8abfe d6e35f32 22991864 43da4c7f 2b6190c4` |
+| $M'$ | `e897bc51 17a777f3 c7bf94a5 84e803db 98d42a27 1f43f003 e739bfbd 1394f5c0 53f7801c 89774e08 9422a303 71d8abfe d6e35f32 282255df 43da4c7f 2b6190c4` |
+| $h_1$ | `55ad4781 516ca6ce e2313d22 8ba3e295 7be1309a abae0cfe e8516c32 786bed15` |
+| $h'_1$ | `55ad4781 516ca6ce e2313d22 8ba3e295 7be1309a abae0cfe e8516c32 786bed15` |
 
 # 28 steps with seed 1
 
-$h_0 = $  `6ca6c975 16bed7b2 eb7e3ad1 e7efb1e7 463c0e4f e12773cc c765f97c 624ee6`
-
-$h_0' = $ `6ca6c975 16bed7b2 eb7e3ad1 e7efb1e7 463c0e4f e12773cc c765f97c 624ee6`
-
-$M = $ `9cd9daf3 879dd64c 42ac11a9 a029a62e 91bf9a02 e93a1629 d19da2ae 1f13d2b8 f4288136 1898b80d e7cbf43a f1e35cff 438c8843 e6b6b177 8b2dbd60 575e4bdd`
-
-$M' = $ `9cd9daf3 879dd64c 42ac11a9 a029a62e 91bf9a02 e93a1629 d19da2ae 1f13d2b8 4d4b6d36 ad3b4c0d e7cbf43a f1e35cff 438c8843 a32bab69 8b2dbd60 575e4bdd`
-
-$h_1 = $  `d20602a2 79395e06 9232dfb5 a03037f5 8f6777ff 56e323f3 de583adc 954963cb`
-
-$h_1' = $ `d20602a2 79395e06 9232dfb5 a03037f5 8f6777ff 56e323f3 de583adc 954963cb`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `6ca6c975 16bed7b2 eb7e3ad1 e7efb1e7 463c0e4f e12773cc c765f97c 624ee6` |
+| $h'_0$ | `6ca6c975 16bed7b2 eb7e3ad1 e7efb1e7 463c0e4f e12773cc c765f97c 624ee6` |
+| $M$ | `9cd9daf3 879dd64c 42ac11a9 a029a62e 91bf9a02 e93a1629 d19da2ae 1f13d2b8 f4288136 1898b80d e7cbf43a f1e35cff 438c8843 e6b6b177 8b2dbd60 575e4bdd` |
+| $M'$ | `9cd9daf3 879dd64c 42ac11a9 a029a62e 91bf9a02 e93a1629 d19da2ae 1f13d2b8 4d4b6d36 ad3b4c0d e7cbf43a f1e35cff 438c8843 a32bab69 8b2dbd60 575e4bdd` |
+| $h_1$ | `d20602a2 79395e06 9232dfb5 a03037f5 8f6777ff 56e323f3 de583adc 954963cb` |
+| $h'_1$ | `d20602a2 79395e06 9232dfb5 a03037f5 8f6777ff 56e323f3 de583adc 954963cb` |
 
 # 28 steps with seed 2
 
-$h_0 = $  `2df9afc8 a3c8af8a 8b3f7e93 7dac1e74 e2c889f6 1e8c1aed dd027976 f95830`
-
-$h_0' = $ `2df9afc8 a3c8af8a 8b3f7e93 7dac1e74 e2c889f6 1e8c1aed dd027976 f95830`
-
-$M = $ `570ba7c9 5440613b a6ba4f85 151b74b0 cbd1d99f 05d2a553 64403413 cc7fadeb 4a0b93d6 9088b839 88324a2f 703beb8d 0b2bd86d 2f165e29 4144b78f 039b3ac2`
-
-$M' = $ `570ba7c9 5440613b a6ba4f85 151b74b0 cbd1d99f 05d2a553 64403413 cc7fadeb f3687fd6 252b4c39 88324a2f 703beb8d 0b2bd86d 4657f782 4144b78f 039b3ac2`
-
-$h_1 = $  `5f451ebb e11ccf52 858b0e9b 6cc4961a 3ab3026e ac439570 669b65f0 e230c06a`
-
-$h_1' = $ `5f451ebb e11ccf52 858b0e9b 6cc4961a 3ab3026e ac439570 669b65f0 e230c06a`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `2df9afc8 a3c8af8a 8b3f7e93 7dac1e74 e2c889f6 1e8c1aed dd027976 f95830` |
+| $h'_0$ | `2df9afc8 a3c8af8a 8b3f7e93 7dac1e74 e2c889f6 1e8c1aed dd027976 f95830` |
+| $M$ | `570ba7c9 5440613b a6ba4f85 151b74b0 cbd1d99f 05d2a553 64403413 cc7fadeb 4a0b93d6 9088b839 88324a2f 703beb8d 0b2bd86d 2f165e29 4144b78f 039b3ac2` |
+| $M'$ | `570ba7c9 5440613b a6ba4f85 151b74b0 cbd1d99f 05d2a553 64403413 cc7fadeb f3687fd6 252b4c39 88324a2f 703beb8d 0b2bd86d 4657f782 4144b78f 039b3ac2` |
+| $h_1$ | `5f451ebb e11ccf52 858b0e9b 6cc4961a 3ab3026e ac439570 669b65f0 e230c06a` |
+| $h'_1$ | `5f451ebb e11ccf52 858b0e9b 6cc4961a 3ab3026e ac439570 669b65f0 e230c06a` |
 
 # 28 steps with seed 3
 
-$h_0 = $  `203b20fa 14dd1c89 740a0dab 5a184440 6639d183 bf16e6b0 b9e44bc4 fe7bc397`
-
-$h_0' = $ `203b20fa 14dd1c89 740a0dab 5a184440 6639d183 bf16e6b0 b9e44bc4 fe7bc397`
-
-$M = $ `e5872ffa 9c015228 dfc851d0 7bbe7662 ce7f4f38 0573cdee 73fb7ea0 6d77fb00 942480b1 5ac4b3b2 999e5176 41cf7b7d 6165ce80 ddb4c30f 0174c384 2df63acd`
-
-$M' = $ `e5872ffa 9c015228 dfc851d0 7bbe7662 ce7f4f38 0573cdee 73fb7ea0 6d77fb00 2d476cb1 ef6747b2 999e5176 41cf7b7d 6165ce80 ee077443 0174c384 2df63acd`
-
-$h_1 = $  `e1d29c9d 4db5e99c 75ef271d 6bda1a02 2e63ea6d f35cd07d 1a1363df 8a77e4e8`
-
-$h_1' = $ `e1d29c9d 4db5e99c 75ef271d 6bda1a02 2e63ea6d f35cd07d 1a1363df 8a77e4e8`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `203b20fa 14dd1c89 740a0dab 5a184440 6639d183 bf16e6b0 b9e44bc4 fe7bc397` |
+| $h'_0$ | `203b20fa 14dd1c89 740a0dab 5a184440 6639d183 bf16e6b0 b9e44bc4 fe7bc397` |
+| $M$ | `e5872ffa 9c015228 dfc851d0 7bbe7662 ce7f4f38 0573cdee 73fb7ea0 6d77fb00 942480b1 5ac4b3b2 999e5176 41cf7b7d 6165ce80 ddb4c30f 0174c384 2df63acd` |
+| $M'$ | `e5872ffa 9c015228 dfc851d0 7bbe7662 ce7f4f38 0573cdee 73fb7ea0 6d77fb00 2d476cb1 ef6747b2 999e5176 41cf7b7d 6165ce80 ee077443 0174c384 2df63acd` |
+| $h_1$ | `e1d29c9d 4db5e99c 75ef271d 6bda1a02 2e63ea6d f35cd07d 1a1363df 8a77e4e8` |
+| $h'_1$ | `e1d29c9d 4db5e99c 75ef271d 6bda1a02 2e63ea6d f35cd07d 1a1363df 8a77e4e8` |
 
 # 28 steps with seed 4
 
-$h_0 = $  `77810896 d6d3aa83 d8182342 5a8903d1 6b1eec85 f8a55e2f dba6720c 763e6cca`
-
-$h_0' = $ `77810896 d6d3aa83 d8182342 5a8903d1 6b1eec85 f8a55e2f dba6720c 763e6cca`
-
-$M = $ `1720ad7d e972f651 bae8bd1c d316562a 2716637d f335b34d 95a7899b 5ea16bff d4a892f6 92ccb176 70fd5d7d 6bfd20ad a52fe1a5 b35486aa 96244b27 9d4239cb`
-
-$M' = $ `1720ad7d e972f651 bae8bd1c d316562a 2716637d f335b34d 95a7899b 5ea16bff 6dcb7ef6 276f4576 70fd5d7d 6bfd20ad a52fe1a5 6bfd0d33 96244b27 9d4239cb`
-
-$h_1 = $  `c8f48115 7d9f9d37 b4c11d6c ec7e7351 83d72fd6 1c0eadc9 ff6e91ff d2b506d8`
-
-$h_1' = $ `c8f48115 7d9f9d37 b4c11d6c ec7e7351 83d72fd6 1c0eadc9 ff6e91ff d2b506d8`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `77810896 d6d3aa83 d8182342 5a8903d1 6b1eec85 f8a55e2f dba6720c 763e6cca` |
+| $h'_0$ | `77810896 d6d3aa83 d8182342 5a8903d1 6b1eec85 f8a55e2f dba6720c 763e6cca` |
+| $M$ | `1720ad7d e972f651 bae8bd1c d316562a 2716637d f335b34d 95a7899b 5ea16bff d4a892f6 92ccb176 70fd5d7d 6bfd20ad a52fe1a5 b35486aa 96244b27 9d4239cb` |
+| $M'$ | `1720ad7d e972f651 bae8bd1c d316562a 2716637d f335b34d 95a7899b 5ea16bff 6dcb7ef6 276f4576 70fd5d7d 6bfd20ad a52fe1a5 6bfd0d33 96244b27 9d4239cb` |
+| $h_1$ | `c8f48115 7d9f9d37 b4c11d6c ec7e7351 83d72fd6 1c0eadc9 ff6e91ff d2b506d8` |
+| $h'_1$ | `c8f48115 7d9f9d37 b4c11d6c ec7e7351 83d72fd6 1c0eadc9 ff6e91ff d2b506d8` |
 
 # 28 steps with seed 5
 
-$h_0 = $  `13106572 6ecef2e2 6d84e3d7 a075f033 b6ddac48 a5417740 5c40e2d7 f7740799`
-
-$h_0' = $ `13106572 6ecef2e2 6d84e3d7 a075f033 b6ddac48 a5417740 5c40e2d7 f7740799`
-
-$M = $ `a2b52798 c4269fbb 8afbc230 f34e17af f2dcb925 3e350158 479fa410 179ed953 d42c8034 5ac4b3b2 61c097df c34dfafd eeda002b 46e68f68 2e53de38 6fb3fd94`
-
-$M' = $ `a2b52798 c4269fbb 8afbc230 f34e17af f2dcb925 3e350158 479fa410 179ed953 6d4f6c34 ef6747b2 61c097df c34dfafd eeda002b cb49df9d 2e53de38 6fb3fd94`
-
-$h_1 = $  `bf11c9e3 f8ff425b e511c7b9 83250dd0 940df58a f26fc0b5 0b3dcb81 5d5b825e`
-
-$h_1' = $ `bf11c9e3 f8ff425b e511c7b9 83250dd0 940df58a f26fc0b5 0b3dcb81 5d5b825e`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `13106572 6ecef2e2 6d84e3d7 a075f033 b6ddac48 a5417740 5c40e2d7 f7740799` |
+| $h'_0$ | `13106572 6ecef2e2 6d84e3d7 a075f033 b6ddac48 a5417740 5c40e2d7 f7740799` |
+| $M$ | `a2b52798 c4269fbb 8afbc230 f34e17af f2dcb925 3e350158 479fa410 179ed953 d42c8034 5ac4b3b2 61c097df c34dfafd eeda002b 46e68f68 2e53de38 6fb3fd94` |
+| $M'$ | `a2b52798 c4269fbb 8afbc230 f34e17af f2dcb925 3e350158 479fa410 179ed953 6d4f6c34 ef6747b2 61c097df c34dfafd eeda002b cb49df9d 2e53de38 6fb3fd94` |
+| $h_1$ | `bf11c9e3 f8ff425b e511c7b9 83250dd0 940df58a f26fc0b5 0b3dcb81 5d5b825e` |
+| $h'_1$ | `bf11c9e3 f8ff425b e511c7b9 83250dd0 940df58a f26fc0b5 0b3dcb81 5d5b825e` |
 
 # 28 steps with seed 6
 
-$h_0 = $  `69c20e3e 89f94e1d a71b2aa1 dc591df6 73a381a3 eee81340 250a31d4 b5ebe108`
-
-$h_0' = $ `69c20e3e 89f94e1d a71b2aa1 dc591df6 73a381a3 eee81340 250a31d4 b5ebe108`
-
-$M = $ `5326975c 77991710 accd49ad 63ba641b 673e7257 851b0b61 7469dd8a a876baf1 f4a881f7 5080b242 a7469d13 058a1f5b fe44fa27 d260d3d9 4b58bb8c 8b2e3059`
-
-$M' = $ `5326975c 77991710 accd49ad 63ba641b 673e7257 851b0b61 7469dd8a a876baf1 4dcb6df7 e5234642 a7469d13 058a1f5b fe44fa27 2009abc2 4b58bb8c 8b2e3059`
-
-$h_1 = $  `ae35ce28 b27dfb30 053a3212 bd65a594 2c7fddd2 ddac2c9a 75e3ce6d 2fc79e79`
-
-$h_1' = $ `ae35ce28 b27dfb30 053a3212 bd65a594 2c7fddd2 ddac2c9a 75e3ce6d 2fc79e79`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `69c20e3e 89f94e1d a71b2aa1 dc591df6 73a381a3 eee81340 250a31d4 b5ebe108` |
+| $h'_0$ | `69c20e3e 89f94e1d a71b2aa1 dc591df6 73a381a3 eee81340 250a31d4 b5ebe108` |
+| $M$ | `5326975c 77991710 accd49ad 63ba641b 673e7257 851b0b61 7469dd8a a876baf1 f4a881f7 5080b242 a7469d13 058a1f5b fe44fa27 d260d3d9 4b58bb8c 8b2e3059` |
+| $M'$ | `5326975c 77991710 accd49ad 63ba641b 673e7257 851b0b61 7469dd8a a876baf1 4dcb6df7 e5234642 a7469d13 058a1f5b fe44fa27 2009abc2 4b58bb8c 8b2e3059` |
+| $h_1$ | `ae35ce28 b27dfb30 053a3212 bd65a594 2c7fddd2 ddac2c9a 75e3ce6d 2fc79e79` |
+| $h'_1$ | `ae35ce28 b27dfb30 053a3212 bd65a594 2c7fddd2 ddac2c9a 75e3ce6d 2fc79e79` |
 
 # 28 steps with seed 7
 
-$h_0 = $  `527d3976 89e58208 fafc19f7 6d0d2009 b47f6727 c72e6387 0512390c 7961b6c`
-
-$h_0' = $ `527d3976 89e58208 fafc19f7 6d0d2009 b47f6727 c72e6387 0512390c 7961b6c`
-
-$M = $ `8e6b552c 83b6cd20 9bdb9723 d3963c96 d3ed950d 1e8f9205 d8e1fbbf 83ad023c d42892b6 92c8b1f6 dfd3563d e9f28eff c611fa3d 08d16fe7 1b65e343 f7ccc15d`
-
-$M' = $ `8e6b552c 83b6cd20 9bdb9723 d3963c96 d3ed950d 1e8f9205 d8e1fbbf 83ad023c 6d4b7eb6 276b45f6 dfd3563d e9f28eff c611fa3d c3290860 1b65e343 f7ccc15d`
-
-$h_1 = $  `02b85801 d0933862 6f9ad79c 6e258313 31c73162 623438bf ede91ca6 12b7f2c6`
-
-$h_1' = $ `02b85801 d0933862 6f9ad79c 6e258313 31c73162 623438bf ede91ca6 12b7f2c6`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `527d3976 89e58208 fafc19f7 6d0d2009 b47f6727 c72e6387 0512390c 7961b6c` |
+| $h'_0$ | `527d3976 89e58208 fafc19f7 6d0d2009 b47f6727 c72e6387 0512390c 7961b6c` |
+| $M$ | `8e6b552c 83b6cd20 9bdb9723 d3963c96 d3ed950d 1e8f9205 d8e1fbbf 83ad023c d42892b6 92c8b1f6 dfd3563d e9f28eff c611fa3d 08d16fe7 1b65e343 f7ccc15d` |
+| $M'$ | `8e6b552c 83b6cd20 9bdb9723 d3963c96 d3ed950d 1e8f9205 d8e1fbbf 83ad023c 6d4b7eb6 276b45f6 dfd3563d e9f28eff c611fa3d c3290860 1b65e343 f7ccc15d` |
+| $h_1$ | `02b85801 d0933862 6f9ad79c 6e258313 31c73162 623438bf ede91ca6 12b7f2c6` |
+| $h'_1$ | `02b85801 d0933862 6f9ad79c 6e258313 31c73162 623438bf ede91ca6 12b7f2c6` |
 
 # 28 steps with seed 8
 
-$h_0 = $  `c9393485 106266ce 52848b61 116c347d 36ff001b bb00ec6a 52195aa8 c9330a4e`
-
-$h_0' = $ `c9393485 106266ce 52848b61 116c347d 36ff001b bb00ec6a 52195aa8 c9330a4e`
-
-$M = $ `5f35fea9 b559d5ba 3e09f30c 29eef323 1cf2c6c3 504e73cc 311005f6 9747f805 d4ac80f5 d2c4bbf1 39d50844 fdfc9b72 0f19e2b3 280e9304 18f57f3e 8afdd8f4`
-
-$M' = $ `5f35fea9 b559d5ba 3e09f30c 29eef323 1cf2c6c3 504e73cc 311005f6 9747f805 6dcf6cf5 67674ff1 39d50844 fdfc9b72 0f19e2b3 93b0ef3c 18f57f3e 8afdd8f4`
-
-$h_1 = $  `b718bdc6 a780a014 6deb9654 150e1957 31f88d4f 00e7a4a4 b2a7626c 847c5152`
-
-$h_1' = $ `b718bdc6 a780a014 6deb9654 150e1957 31f88d4f 00e7a4a4 b2a7626c 847c5152`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `c9393485 106266ce 52848b61 116c347d 36ff001b bb00ec6a 52195aa8 c9330a4e` |
+| $h'_0$ | `c9393485 106266ce 52848b61 116c347d 36ff001b bb00ec6a 52195aa8 c9330a4e` |
+| $M$ | `5f35fea9 b559d5ba 3e09f30c 29eef323 1cf2c6c3 504e73cc 311005f6 9747f805 d4ac80f5 d2c4bbf1 39d50844 fdfc9b72 0f19e2b3 280e9304 18f57f3e 8afdd8f4` |
+| $M'$ | `5f35fea9 b559d5ba 3e09f30c 29eef323 1cf2c6c3 504e73cc 311005f6 9747f805 6dcf6cf5 67674ff1 39d50844 fdfc9b72 0f19e2b3 93b0ef3c 18f57f3e 8afdd8f4` |
+| $h_1$ | `b718bdc6 a780a014 6deb9654 150e1957 31f88d4f 00e7a4a4 b2a7626c 847c5152` |
+| $h'_1$ | `b718bdc6 a780a014 6deb9654 150e1957 31f88d4f 00e7a4a4 b2a7626c 847c5152` |
 
 # 28 steps with seed 9
 
-$h_0 = $  `aa4ce451 f4475fb9 897c4738 57a8ce77 b2ebcbb9 7a8eea6f ea9ef3d1 a989ccd7`
-
-$h_0' = $ `aa4ce451 f4475fb9 897c4738 57a8ce77 b2ebcbb9 7a8eea6f ea9ef3d1 a989ccd7`
-
-$M = $ `38a80d38 8d23cd98 1b2115e0 6f70e491 680e3900 a38f7c83 d2a8d157 ce506d2b b42083b2 d094b248 31902d49 abcc1f82 23a5e13f e92072a4 f7c5384f 4a15affc`
-
-$M' = $ `38a80d38 8d23cd98 1b2115e0 6f70e491 680e3900 a38f7c83 d2a8d157 ce506d2b 0d436fb2 65374648 31902d49 abcc1f82 23a5e13f c6cd2739 f7c5384f 4a15affc`
-
-$h_1 = $  `45ded508 afb4382f 97880104 13eef39f 4faac16d 191fa4b5 4e2ed809 91a5e250`
-
-$h_1' = $ `45ded508 afb4382f 97880104 13eef39f 4faac16d 191fa4b5 4e2ed809 91a5e250`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `aa4ce451 f4475fb9 897c4738 57a8ce77 b2ebcbb9 7a8eea6f ea9ef3d1 a989ccd7` |
+| $h'_0$ | `aa4ce451 f4475fb9 897c4738 57a8ce77 b2ebcbb9 7a8eea6f ea9ef3d1 a989ccd7` |
+| $M$ | `38a80d38 8d23cd98 1b2115e0 6f70e491 680e3900 a38f7c83 d2a8d157 ce506d2b b42083b2 d094b248 31902d49 abcc1f82 23a5e13f e92072a4 f7c5384f 4a15affc` |
+| $M'$ | `38a80d38 8d23cd98 1b2115e0 6f70e491 680e3900 a38f7c83 d2a8d157 ce506d2b 0d436fb2 65374648 31902d49 abcc1f82 23a5e13f c6cd2739 f7c5384f 4a15affc` |
+| $h_1$ | `45ded508 afb4382f 97880104 13eef39f 4faac16d 191fa4b5 4e2ed809 91a5e250` |
+| $h'_1$ | `45ded508 afb4382f 97880104 13eef39f 4faac16d 191fa4b5 4e2ed809 91a5e250` |
 
 # 29 steps with seed 0
 
@@ -1268,31 +998,25 @@ Timed out
 
 # 29 steps with seed 2
 
-$h_0 = $  `d2e64966 94b6e6b2 edc58ef4 7b7d956d 8a7c1495 50c73f5b 9e82a069 cb15b31f`
-
-$h_0' = $ `d2e64966 94b6e6b2 edc58ef4 7b7d956d 8a7c1495 50c73f5b 9e82a069 cb15b31f`
-
-$M = $ `7b5dbe42 3dc20701 83a8298b 10187d61 9d8ae86d ab5e556a 0d67af8c 87f3ceff b255effc 140031e1 c8812c38 da9f4a87 a1fc9f7c cdc5a84a 4887784d dd2547a5`
-
-$M' = $ `7b5dbe42 3dc20701 83a8298b 10187d61 9d8ae86d ab5e556a 0d67af8c b995d03f b255f000 140031e1 c87eac38 da9f4a87 a1fc9f7c cdc5a84a 4887784d dd2547a1`
-
-$h_1 = $  `5103de49 eff760a6 8e07b972 7159fc53 07ca04ef 242d42ea 72dd19e8 b4e14a1f`
-
-$h_1' = $ `5103de49 eff760a6 8e07b972 7159fc53 07ca04ef 242d42ea 72dd19e8 b4e14a1f`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `d2e64966 94b6e6b2 edc58ef4 7b7d956d 8a7c1495 50c73f5b 9e82a069 cb15b31f` |
+| $h'_0$ | `d2e64966 94b6e6b2 edc58ef4 7b7d956d 8a7c1495 50c73f5b 9e82a069 cb15b31f` |
+| $M$ | `7b5dbe42 3dc20701 83a8298b 10187d61 9d8ae86d ab5e556a 0d67af8c 87f3ceff b255effc 140031e1 c8812c38 da9f4a87 a1fc9f7c cdc5a84a 4887784d dd2547a5` |
+| $M'$ | `7b5dbe42 3dc20701 83a8298b 10187d61 9d8ae86d ab5e556a 0d67af8c b995d03f b255f000 140031e1 c87eac38 da9f4a87 a1fc9f7c cdc5a84a 4887784d dd2547a1` |
+| $h_1$ | `5103de49 eff760a6 8e07b972 7159fc53 07ca04ef 242d42ea 72dd19e8 b4e14a1f` |
+| $h'_1$ | `5103de49 eff760a6 8e07b972 7159fc53 07ca04ef 242d42ea 72dd19e8 b4e14a1f` |
 
 # 29 steps with seed 3
 
-$h_0 = $  `2dadd43a b5d9d89a 9a71a2a2 e7111ada 754bd41e 2b7c25bb 06b34d13 6a686a`
-
-$h_0' = $ `2dadd43a b5d9d89a 9a71a2a2 e7111ada 754bd41e 2b7c25bb 06b34d13 6a686a`
-
-$M = $ `05261669 ce96ddf7 5f10e329 bba2f467 1151c58e 667eb3a2 fa452391 c7ea0ed0 b251effc fcc9f840 fe813f0d 9edf2427 58da632c d753ad16 f4f114db e7a30436`
-
-$M' = $ `05261669 ce96ddf7 5f10e329 bba2f467 1151c58e 667eb3a2 fa452391 f98c1010 b251f000 fcc9f840 fe7ebf0d 9edf2427 58da632c d753ad16 f4f114db e7a30432`
-
-$h_1 = $  `1f65dd6b b499f57e 7bf0d689 1cf17215 8307a03f 18eb342b e873a6d4 9673a8d6`
-
-$h_1' = $ `1f65dd6b b499f57e 7bf0d689 1cf17215 8307a03f 18eb342b e873a6d4 9673a8d6`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `2dadd43a b5d9d89a 9a71a2a2 e7111ada 754bd41e 2b7c25bb 06b34d13 6a686a` |
+| $h'_0$ | `2dadd43a b5d9d89a 9a71a2a2 e7111ada 754bd41e 2b7c25bb 06b34d13 6a686a` |
+| $M$ | `05261669 ce96ddf7 5f10e329 bba2f467 1151c58e 667eb3a2 fa452391 c7ea0ed0 b251effc fcc9f840 fe813f0d 9edf2427 58da632c d753ad16 f4f114db e7a30436` |
+| $M'$ | `05261669 ce96ddf7 5f10e329 bba2f467 1151c58e 667eb3a2 fa452391 f98c1010 b251f000 fcc9f840 fe7ebf0d 9edf2427 58da632c d753ad16 f4f114db e7a30432` |
+| $h_1$ | `1f65dd6b b499f57e 7bf0d689 1cf17215 8307a03f 18eb342b e873a6d4 9673a8d6` |
+| $h'_1$ | `1f65dd6b b499f57e 7bf0d689 1cf17215 8307a03f 18eb342b e873a6d4 9673a8d6` |
 
 # 29 steps with seed 4
 
@@ -1304,17 +1028,14 @@ Timed out
 
 # 29 steps with seed 6
 
-$h_0 = $  `40f74581 9552a3f0 1314ef56 3b3e6412 225db8c3 f6340f6a 3b6bc2ac 273363a`
-
-$h_0' = $ `40f74581 9552a3f0 1314ef56 3b3e6412 225db8c3 f6340f6a 3b6bc2ac 273363a`
-
-$M = $ `04221084 e7595c15 2d071005 725f96c5 7b705c9e c9395b36 5dbacd45 86f2aeef b255effc 6f539390 01813f0d 1bb1bbca 49a15bf1 decbd7fe 43831ff5 1f1a7ae4`
-
-$M' = $ `04221084 e7595c15 2d071005 725f96c5 7b705c9e c9395b36 5dbacd45 b894b02f b255f000 6f539390 017ebf0d 1bb1bbca 49a15bf1 decbd7fe 43831ff5 1f1a7ae0`
-
-$h_1 = $  `be5e8a57 8d309315 bb05fc73 42eb182e d4a6c809 08195ccb 7471893c 6c64e48c`
-
-$h_1' = $ `be5e8a57 8d309315 bb05fc73 42eb182e d4a6c809 08195ccb 7471893c 6c64e48c`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `40f74581 9552a3f0 1314ef56 3b3e6412 225db8c3 f6340f6a 3b6bc2ac 273363a` |
+| $h'_0$ | `40f74581 9552a3f0 1314ef56 3b3e6412 225db8c3 f6340f6a 3b6bc2ac 273363a` |
+| $M$ | `04221084 e7595c15 2d071005 725f96c5 7b705c9e c9395b36 5dbacd45 86f2aeef b255effc 6f539390 01813f0d 1bb1bbca 49a15bf1 decbd7fe 43831ff5 1f1a7ae4` |
+| $M'$ | `04221084 e7595c15 2d071005 725f96c5 7b705c9e c9395b36 5dbacd45 b894b02f b255f000 6f539390 017ebf0d 1bb1bbca 49a15bf1 decbd7fe 43831ff5 1f1a7ae0` |
+| $h_1$ | `be5e8a57 8d309315 bb05fc73 42eb182e d4a6c809 08195ccb 7471893c 6c64e48c` |
+| $h'_1$ | `be5e8a57 8d309315 bb05fc73 42eb182e d4a6c809 08195ccb 7471893c 6c64e48c` |
 
 # 29 steps with seed 7
 
@@ -1322,31 +1043,25 @@ Timed out
 
 # 29 steps with seed 8
 
-$h_0 = $  `724d5eea b043d925 e04d1106 8cf4af98 e7938fb7 8dae82ad d1b32a8e a10974a`
-
-$h_0' = $ `724d5eea b043d925 e04d1106 8cf4af98 e7938fb7 8dae82ad d1b32a8e a10974a`
-
-$M = $ `b4447d8b 31004059 58c9c021 405e02c9 c3a8eca5 3c862b35 4d5f2ff9 c6736ffe b251effc 97a601ba 0b812ddb 9ea6a44b 90ed26fb f5300d6b 13623941 6387f376`
-
-$M' = $ `b4447d8b 31004059 58c9c021 405e02c9 c3a8eca5 3c862b35 4d5f2ff9 f815713e b251f000 97a601ba 0b7eaddb 9ea6a44b 90ed26fb f5300d6b 13623941 6387f372`
-
-$h_1 = $  `a0a957a4 1a1a528d f97574fe ab3fa8b7 d05d3894 54ccdab3 cd35c88d d110e305`
-
-$h_1' = $ `a0a957a4 1a1a528d f97574fe ab3fa8b7 d05d3894 54ccdab3 cd35c88d d110e305`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `724d5eea b043d925 e04d1106 8cf4af98 e7938fb7 8dae82ad d1b32a8e a10974a` |
+| $h'_0$ | `724d5eea b043d925 e04d1106 8cf4af98 e7938fb7 8dae82ad d1b32a8e a10974a` |
+| $M$ | `b4447d8b 31004059 58c9c021 405e02c9 c3a8eca5 3c862b35 4d5f2ff9 c6736ffe b251effc 97a601ba 0b812ddb 9ea6a44b 90ed26fb f5300d6b 13623941 6387f376` |
+| $M'$ | `b4447d8b 31004059 58c9c021 405e02c9 c3a8eca5 3c862b35 4d5f2ff9 f815713e b251f000 97a601ba 0b7eaddb 9ea6a44b 90ed26fb f5300d6b 13623941 6387f372` |
+| $h_1$ | `a0a957a4 1a1a528d f97574fe ab3fa8b7 d05d3894 54ccdab3 cd35c88d d110e305` |
+| $h'_1$ | `a0a957a4 1a1a528d f97574fe ab3fa8b7 d05d3894 54ccdab3 cd35c88d d110e305` |
 
 # 29 steps with seed 9
 
-$h_0 = $  `c9e17188 520219e5 dfa588f7 24ded455 980bf4e8 e35293d8 df5847c3 b645975`
-
-$h_0' = $ `c9e17188 520219e5 dfa588f7 24ded455 980bf4e8 e35293d8 df5847c3 b645975`
-
-$M = $ `bc6ccbd2 d06bf756 47ec0cbe 04fece1f 6c54a2ab a069021e 4f90bdfc 8773cfef b255effc 7916c16f 0d813969 b91ea1a9 9b93ea86 43bfc38b 67e3454a 07d22e16`
-
-$M' = $ `bc6ccbd2 d06bf756 47ec0cbe 04fece1f 6c54a2ab a069021e 4f90bdfc b915d12f b255f000 7916c16f 0d7eb969 b91ea1a9 9b93ea86 43bfc38b 67e3454a 07d22e12`
-
-$h_1 = $  `a2272858 3c99603e e079e6fe 5a9c7a3b 43c38400 4013c6cc 316ad2fb bc530d03`
-
-$h_1' = $ `a2272858 3c99603e e079e6fe 5a9c7a3b 43c38400 4013c6cc 316ad2fb bc530d03`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `c9e17188 520219e5 dfa588f7 24ded455 980bf4e8 e35293d8 df5847c3 b645975` |
+| $h'_0$ | `c9e17188 520219e5 dfa588f7 24ded455 980bf4e8 e35293d8 df5847c3 b645975` |
+| $M$ | `bc6ccbd2 d06bf756 47ec0cbe 04fece1f 6c54a2ab a069021e 4f90bdfc 8773cfef b255effc 7916c16f 0d813969 b91ea1a9 9b93ea86 43bfc38b 67e3454a 07d22e16` |
+| $M'$ | `bc6ccbd2 d06bf756 47ec0cbe 04fece1f 6c54a2ab a069021e 4f90bdfc b915d12f b255f000 7916c16f 0d7eb969 b91ea1a9 9b93ea86 43bfc38b 67e3454a 07d22e12` |
+| $h_1$ | `a2272858 3c99603e e079e6fe 5a9c7a3b 43c38400 4013c6cc 316ad2fb bc530d03` |
+| $h'_1$ | `a2272858 3c99603e e079e6fe 5a9c7a3b 43c38400 4013c6cc 316ad2fb bc530d03` |
 
 # 30 steps with seed 0
 
@@ -1354,45 +1069,36 @@ Timed out
 
 # 30 steps with seed 1
 
-$h_0 = $  `ca8e0ec1 525ab8c0 99e06f74 bbf258b5 3dd362af 33ba8128 8dd72451 5cb4f7e`
-
-$h_0' = $ `ca8e0ec1 525ab8c0 99e06f74 bbf258b5 3dd362af 33ba8128 8dd72451 5cb4f7e`
-
-$M = $ `8cfb6e2a 4899d3a3 2aff9eb4 74a3295c e94ce16f 03e85070 827cd0d0 467aeff9 b255effc 730fdb85 bb813226 23d749ea c2c08ad8 a44ac314 0eaabc2d 31e8e61d`
-
-$M' = $ `8cfb6e2a 4899d3a3 2aff9eb4 74a3295c e94ce16f 03e85070 827cd0d0 781cf139 b255f000 730fdb85 bb7eb226 23d749ea c2c08ad8 a44ac314 0eaabc2d 31e8e619`
-
-$h_1 = $  `a05cb502 7e1b4c78 5ac58065 77040f1e 1bd27ab0 e98a3263 4975193f ef3d18dc`
-
-$h_1' = $ `a05cb502 7e1b4c78 5ac58065 77040f1e 1bd27ab0 e98a3263 4975193f ef3d18dc`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `ca8e0ec1 525ab8c0 99e06f74 bbf258b5 3dd362af 33ba8128 8dd72451 5cb4f7e` |
+| $h'_0$ | `ca8e0ec1 525ab8c0 99e06f74 bbf258b5 3dd362af 33ba8128 8dd72451 5cb4f7e` |
+| $M$ | `8cfb6e2a 4899d3a3 2aff9eb4 74a3295c e94ce16f 03e85070 827cd0d0 467aeff9 b255effc 730fdb85 bb813226 23d749ea c2c08ad8 a44ac314 0eaabc2d 31e8e61d` |
+| $M'$ | `8cfb6e2a 4899d3a3 2aff9eb4 74a3295c e94ce16f 03e85070 827cd0d0 781cf139 b255f000 730fdb85 bb7eb226 23d749ea c2c08ad8 a44ac314 0eaabc2d 31e8e619` |
+| $h_1$ | `a05cb502 7e1b4c78 5ac58065 77040f1e 1bd27ab0 e98a3263 4975193f ef3d18dc` |
+| $h'_1$ | `a05cb502 7e1b4c78 5ac58065 77040f1e 1bd27ab0 e98a3263 4975193f ef3d18dc` |
 
 # 30 steps with seed 2
 
-$h_0 = $  `d8960c88 dbc57705 99e93386 78ee4659 c2603159 4b2c624c 833e6893 5e78061c`
-
-$h_0' = $ `d8960c88 dbc57705 99e93386 78ee4659 c2603159 4b2c624c 833e6893 5e78061c`
-
-$M = $ `cd791104 307fd1bc 5fbd5c14 e6c85701 857ee0ab 77ee79c9 74d563af 07724fe0 b253effc a32dd068 3b814a58 5fb4cf09 b48b15f2 0136e3e1 0bffaa98 ff0e10ec`
-
-$M' = $ `cd791104 307fd1bc 5fbd5c14 e6c85701 857ee0ab 77ee79c9 74d563af 39145120 b253f000 a32dd068 3b7eca58 5fb4cf09 b48b15f2 0136e3e1 0bffaa98 ff0e10e8`
-
-$h_1 = $  `afc0ba0b 7d878dd8 cc3cd983 ac8e7d48 71331bf2 53b933f4 fab493aa de5ec688`
-
-$h_1' = $ `afc0ba0b 7d878dd8 cc3cd983 ac8e7d48 71331bf2 53b933f4 fab493aa de5ec688`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `d8960c88 dbc57705 99e93386 78ee4659 c2603159 4b2c624c 833e6893 5e78061c` |
+| $h'_0$ | `d8960c88 dbc57705 99e93386 78ee4659 c2603159 4b2c624c 833e6893 5e78061c` |
+| $M$ | `cd791104 307fd1bc 5fbd5c14 e6c85701 857ee0ab 77ee79c9 74d563af 07724fe0 b253effc a32dd068 3b814a58 5fb4cf09 b48b15f2 0136e3e1 0bffaa98 ff0e10ec` |
+| $M'$ | `cd791104 307fd1bc 5fbd5c14 e6c85701 857ee0ab 77ee79c9 74d563af 39145120 b253f000 a32dd068 3b7eca58 5fb4cf09 b48b15f2 0136e3e1 0bffaa98 ff0e10e8` |
+| $h_1$ | `afc0ba0b 7d878dd8 cc3cd983 ac8e7d48 71331bf2 53b933f4 fab493aa de5ec688` |
+| $h'_1$ | `afc0ba0b 7d878dd8 cc3cd983 ac8e7d48 71331bf2 53b933f4 fab493aa de5ec688` |
 
 # 30 steps with seed 3
 
-$h_0 = $  `6fa6c6ba 2c00ad45 bea0c54f 757faf64 2eba0232 388e105c 3b0802a9 8ddfabe8`
-
-$h_0' = $ `6fa6c6ba 2c00ad45 bea0c54f 757faf64 2eba0232 388e105c 3b0802a9 8ddfabe8`
-
-$M = $ `3e847613 d2b9418b 617debc6 bdbe5a1a 78017ae9 9044b127 884513d4 47e38edd b257effc 01715542 7d812114 08407e15 64c4bed0 220340f7 1446912f 341b47b7`
-
-$M' = $ `3e847613 d2b9418b 617debc6 bdbe5a1a 78017ae9 9044b127 884513d4 7985901d b257f000 01715542 7d7ea114 08407e15 64c4bed0 220340f7 1446912f 341b47b3`
-
-$h_1 = $  `63f626c7 9355d034 74d4bf29 c8d20f0a 6e899d8c b24fbf0a 8b24a876 44620aa6`
-
-$h_1' = $ `63f626c7 9355d034 74d4bf29 c8d20f0a 6e899d8c b24fbf0a 8b24a876 44620aa6`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `6fa6c6ba 2c00ad45 bea0c54f 757faf64 2eba0232 388e105c 3b0802a9 8ddfabe8` |
+| $h'_0$ | `6fa6c6ba 2c00ad45 bea0c54f 757faf64 2eba0232 388e105c 3b0802a9 8ddfabe8` |
+| $M$ | `3e847613 d2b9418b 617debc6 bdbe5a1a 78017ae9 9044b127 884513d4 47e38edd b257effc 01715542 7d812114 08407e15 64c4bed0 220340f7 1446912f 341b47b7` |
+| $M'$ | `3e847613 d2b9418b 617debc6 bdbe5a1a 78017ae9 9044b127 884513d4 7985901d b257f000 01715542 7d7ea114 08407e15 64c4bed0 220340f7 1446912f 341b47b3` |
+| $h_1$ | `63f626c7 9355d034 74d4bf29 c8d20f0a 6e899d8c b24fbf0a 8b24a876 44620aa6` |
+| $h'_1$ | `63f626c7 9355d034 74d4bf29 c8d20f0a 6e899d8c b24fbf0a 8b24a876 44620aa6` |
 
 # 30 steps with seed 4
 
@@ -1400,31 +1106,25 @@ Timed out
 
 # 30 steps with seed 5
 
-$h_0 = $  `700beec4 b19c711d 83719b52 6beff201 e77fa289 b85f8104 4158ef34 62b53de`
-
-$h_0' = $ `700beec4 b19c711d 83719b52 6beff201 e77fa289 b85f8104 4158ef34 62b53de`
-
-$M = $ `9058bb61 cdf27721 504c1fe8 e6f6d083 9579841c 520a2372 aafd9cd4 076bcfc9 b253effc 3cb0d42f de816775 b1b76e8f a3028f31 bdc216c4 55bf38d3 91e4adb7`
-
-$M' = $ `9058bb61 cdf27721 504c1fe8 e6f6d083 9579841c 520a2372 aafd9cd4 390dd109 b253f000 3cb0d42f de7ee775 b1b76e8f a3028f31 bdc216c4 55bf38d3 91e4adb3`
-
-$h_1 = $  `6c153074 4606ab71 e2a3ad2a 4a2581cb 8d334724 9230fb6f a529bb75 801e31cb`
-
-$h_1' = $ `6c153074 4606ab71 e2a3ad2a 4a2581cb 8d334724 9230fb6f a529bb75 801e31cb`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `700beec4 b19c711d 83719b52 6beff201 e77fa289 b85f8104 4158ef34 62b53de` |
+| $h'_0$ | `700beec4 b19c711d 83719b52 6beff201 e77fa289 b85f8104 4158ef34 62b53de` |
+| $M$ | `9058bb61 cdf27721 504c1fe8 e6f6d083 9579841c 520a2372 aafd9cd4 076bcfc9 b253effc 3cb0d42f de816775 b1b76e8f a3028f31 bdc216c4 55bf38d3 91e4adb7` |
+| $M'$ | `9058bb61 cdf27721 504c1fe8 e6f6d083 9579841c 520a2372 aafd9cd4 390dd109 b253f000 3cb0d42f de7ee775 b1b76e8f a3028f31 bdc216c4 55bf38d3 91e4adb3` |
+| $h_1$ | `6c153074 4606ab71 e2a3ad2a 4a2581cb 8d334724 9230fb6f a529bb75 801e31cb` |
+| $h'_1$ | `6c153074 4606ab71 e2a3ad2a 4a2581cb 8d334724 9230fb6f a529bb75 801e31cb` |
 
 # 30 steps with seed 6
 
-$h_0 = $  `1dbc5b42 b59f971a d287d12c 52b6d71d e92b243f 7389cafd daf62ee5 1046c8a1`
-
-$h_0' = $ `1dbc5b42 b59f971a d287d12c 52b6d71d e92b243f 7389cafd daf62ee5 1046c8a1`
-
-$M = $ `1bc61f17 8b828a46 872209f7 2634a0fb 2dcb4bb0 dfb1e0b8 391bfa89 c66bafc9 b255effc 88a42203 a2810117 53a27f3d eebec003 a977176e 6346f1b0 d29348f6`
-
-$M' = $ `1bc61f17 8b828a46 872209f7 2634a0fb 2dcb4bb0 dfb1e0b8 391bfa89 f80db109 b255f000 88a42203 a27e8117 53a27f3d eebec003 a977176e 6346f1b0 d29348f2`
-
-$h_1 = $  `ac581b28 260b96be 785da352 a251e944 e48aa97a dc0f2fc6 eb801bc0 045a2baf`
-
-$h_1' = $ `ac581b28 260b96be 785da352 a251e944 e48aa97a dc0f2fc6 eb801bc0 045a2baf`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `1dbc5b42 b59f971a d287d12c 52b6d71d e92b243f 7389cafd daf62ee5 1046c8a1` |
+| $h'_0$ | `1dbc5b42 b59f971a d287d12c 52b6d71d e92b243f 7389cafd daf62ee5 1046c8a1` |
+| $M$ | `1bc61f17 8b828a46 872209f7 2634a0fb 2dcb4bb0 dfb1e0b8 391bfa89 c66bafc9 b255effc 88a42203 a2810117 53a27f3d eebec003 a977176e 6346f1b0 d29348f6` |
+| $M'$ | `1bc61f17 8b828a46 872209f7 2634a0fb 2dcb4bb0 dfb1e0b8 391bfa89 f80db109 b255f000 88a42203 a27e8117 53a27f3d eebec003 a977176e 6346f1b0 d29348f2` |
+| $h_1$ | `ac581b28 260b96be 785da352 a251e944 e48aa97a dc0f2fc6 eb801bc0 045a2baf` |
+| $h'_1$ | `ac581b28 260b96be 785da352 a251e944 e48aa97a dc0f2fc6 eb801bc0 045a2baf` |
 
 # 30 steps with seed 7
 
@@ -1436,17 +1136,14 @@ Timed out
 
 # 30 steps with seed 9
 
-$h_0 = $  `5f299e0d ac5cfed4 f1907f91 be792806 55c1ecba bf3d22a5 4a626678 fb107979`
-
-$h_0' = $ `5f299e0d ac5cfed4 f1907f91 be792806 55c1ecba bf3d22a5 4a626678 fb107979`
-
-$M = $ `d1419990 aa043c7d 13ae3000 736c1cfd 3803effc db9ad7ef 42b720a0 466befc6 b251effc c80f35e8 72812116 f5898f6c e5a5f4bd 6418ee34 17d59b94 e416d0ff`
-
-$M' = $ `d1419990 aa043c7d 13ae3000 736c1cfd 3803effc db9ad7ef 42b720a0 780df106 b251f000 c80f35e8 727ea116 f5898f6c e5a5f4bd 6418ee34 17d59b94 e416d0fb`
-
-$h_1 = $  `6219d896 3ee5cd1f 807d2ccb 351b6b2d 51513165 0365ce98 8b8124b8 2d560be2`
-
-$h_1' = $ `6219d896 3ee5cd1f 807d2ccb 351b6b2d 51513165 0365ce98 8b8124b8 2d560be2`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `5f299e0d ac5cfed4 f1907f91 be792806 55c1ecba bf3d22a5 4a626678 fb107979` |
+| $h'_0$ | `5f299e0d ac5cfed4 f1907f91 be792806 55c1ecba bf3d22a5 4a626678 fb107979` |
+| $M$ | `d1419990 aa043c7d 13ae3000 736c1cfd 3803effc db9ad7ef 42b720a0 466befc6 b251effc c80f35e8 72812116 f5898f6c e5a5f4bd 6418ee34 17d59b94 e416d0ff` |
+| $M'$ | `d1419990 aa043c7d 13ae3000 736c1cfd 3803effc db9ad7ef 42b720a0 780df106 b251f000 c80f35e8 727ea116 f5898f6c e5a5f4bd 6418ee34 17d59b94 e416d0fb` |
+| $h_1$ | `6219d896 3ee5cd1f 807d2ccb 351b6b2d 51513165 0365ce98 8b8124b8 2d560be2` |
+| $h'_1$ | `6219d896 3ee5cd1f 807d2ccb 351b6b2d 51513165 0365ce98 8b8124b8 2d560be2` |
 
 # 31 steps with seed 0
 
@@ -1462,31 +1159,25 @@ Timed out
 
 # 31 steps with seed 3
 
-$h_0 = $  `a7fc78c7 6d81098e f5684f97 4ff33992 12c65c72 226d224f b097b6c2 ee4512`
-
-$h_0' = $ `a7fc78c7 6d81098e f5684f97 4ff33992 12c65c72 226d224f b097b6c2 ee4512`
-
-$M = $ `1d780c08 a6138147 529a78dc 6ad62b69 4067edc6 c3b37141 13aef9ab 476a4fc0 b255effc 9faee5b3 ae8160f2 a777ede4 f3a2464c 2374c5cb d31278c7 c75c6496`
-
-$M' = $ `1d780c08 a6138147 529a78dc 6ad62b69 4067edc6 c3b37141 13aef9ab 790c5100 b255f000 9faee5b3 ae7ee0f2 a777ede4 f3a2464c 2374c5cb d31278c7 c75c6492`
-
-$h_1 = $  `a282607f d3023eb6 bd201d01 d147449e 344b99b4 782e8d5d 97af119f 2e76ce32`
-
-$h_1' = $ `a282607f d3023eb6 bd201d01 d147449e 344b99b4 782e8d5d 97af119f 2e76ce32`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `a7fc78c7 6d81098e f5684f97 4ff33992 12c65c72 226d224f b097b6c2 ee4512` |
+| $h'_0$ | `a7fc78c7 6d81098e f5684f97 4ff33992 12c65c72 226d224f b097b6c2 ee4512` |
+| $M$ | `1d780c08 a6138147 529a78dc 6ad62b69 4067edc6 c3b37141 13aef9ab 476a4fc0 b255effc 9faee5b3 ae8160f2 a777ede4 f3a2464c 2374c5cb d31278c7 c75c6496` |
+| $M'$ | `1d780c08 a6138147 529a78dc 6ad62b69 4067edc6 c3b37141 13aef9ab 790c5100 b255f000 9faee5b3 ae7ee0f2 a777ede4 f3a2464c 2374c5cb d31278c7 c75c6492` |
+| $h_1$ | `a282607f d3023eb6 bd201d01 d147449e 344b99b4 782e8d5d 97af119f 2e76ce32` |
+| $h'_1$ | `a282607f d3023eb6 bd201d01 d147449e 344b99b4 782e8d5d 97af119f 2e76ce32` |
 
 # 31 steps with seed 4
 
-$h_0 = $  `3d55531d 48c8727f 162f1620 64c8d1ad bcdc4195 19f1aab8 980396d6 27709831`
-
-$h_0' = $ `3d55531d 48c8727f 162f1620 64c8d1ad bcdc4195 19f1aab8 980396d6 27709831`
-
-$M = $ `37871bbd 965769a9 2f331194 5bef0b83 29f49140 38ec8ef5 30fdaed3 867b2feb b253effc 1312c099 1e816771 a540fc8b 5a0078c8 09666ca6 da266f00 2d92068d`
-
-$M' = $ `37871bbd 965769a9 2f331194 5bef0b83 29f49140 38ec8ef5 30fdaed3 b81d312b b253f000 1312c099 1e7ee771 a540fc8b 5a0078c8 09666ca6 da266f00 2d920689`
-
-$h_1 = $  `646d3498 cc91d46e f5a3ea2d 9eaf0515 40844603 7ff0174b d8e15fc6 498e329f`
-
-$h_1' = $ `646d3498 cc91d46e f5a3ea2d 9eaf0515 40844603 7ff0174b d8e15fc6 498e329f`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `3d55531d 48c8727f 162f1620 64c8d1ad bcdc4195 19f1aab8 980396d6 27709831` |
+| $h'_0$ | `3d55531d 48c8727f 162f1620 64c8d1ad bcdc4195 19f1aab8 980396d6 27709831` |
+| $M$ | `37871bbd 965769a9 2f331194 5bef0b83 29f49140 38ec8ef5 30fdaed3 867b2feb b253effc 1312c099 1e816771 a540fc8b 5a0078c8 09666ca6 da266f00 2d92068d` |
+| $M'$ | `37871bbd 965769a9 2f331194 5bef0b83 29f49140 38ec8ef5 30fdaed3 b81d312b b253f000 1312c099 1e7ee771 a540fc8b 5a0078c8 09666ca6 da266f00 2d920689` |
+| $h_1$ | `646d3498 cc91d46e f5a3ea2d 9eaf0515 40844603 7ff0174b d8e15fc6 498e329f` |
+| $h'_1$ | `646d3498 cc91d46e f5a3ea2d 9eaf0515 40844603 7ff0174b d8e15fc6 498e329f` |
 
 # 31 steps with seed 5
 
@@ -1498,17 +1189,14 @@ Timed out
 
 # 31 steps with seed 7
 
-$h_0 = $  `f722c44f cbd205f7 3f71544b 1b923931 a50db225 78f869a1 f66c61c9 f2956a4c`
-
-$h_0' = $ `f722c44f cbd205f7 3f71544b 1b923931 a50db225 78f869a1 f66c61c9 f2956a4c`
-
-$M = $ `ddce938f 9e7da606 215021b6 57a70c52 ee604452 17f48f11 1b01c403 06f2eee2 b255effc 6c98a266 088133c1 8d1e00e9 37c5be11 5df177e4 24365df9 e34f39d4`
-
-$M' = $ `ddce938f 9e7da606 215021b6 57a70c52 ee604452 17f48f11 1b01c403 3894f022 b255f000 6c98a266 087eb3c1 8d1e00e9 37c5be11 5df177e4 24365df9 e34f39d0`
-
-$h_1 = $  `9cfaa8e9 92ab4218 18dd388b 3df1f28d 828380f2 7b55ff6d 55c79f43 e083743d`
-
-$h_1' = $ `9cfaa8e9 92ab4218 18dd388b 3df1f28d 828380f2 7b55ff6d 55c79f43 e083743d`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `f722c44f cbd205f7 3f71544b 1b923931 a50db225 78f869a1 f66c61c9 f2956a4c` |
+| $h'_0$ | `f722c44f cbd205f7 3f71544b 1b923931 a50db225 78f869a1 f66c61c9 f2956a4c` |
+| $M$ | `ddce938f 9e7da606 215021b6 57a70c52 ee604452 17f48f11 1b01c403 06f2eee2 b255effc 6c98a266 088133c1 8d1e00e9 37c5be11 5df177e4 24365df9 e34f39d4` |
+| $M'$ | `ddce938f 9e7da606 215021b6 57a70c52 ee604452 17f48f11 1b01c403 3894f022 b255f000 6c98a266 087eb3c1 8d1e00e9 37c5be11 5df177e4 24365df9 e34f39d0` |
+| $h_1$ | `9cfaa8e9 92ab4218 18dd388b 3df1f28d 828380f2 7b55ff6d 55c79f43 e083743d` |
+| $h'_1$ | `9cfaa8e9 92ab4218 18dd388b 3df1f28d 828380f2 7b55ff6d 55c79f43 e083743d` |
 
 # 31 steps with seed 8
 
@@ -1516,17 +1204,14 @@ Timed out
 
 # 31 steps with seed 9
 
-$h_0 = $  `8225c858 7b4132eb 2d07603f 8391866b b0e114ff 9a049a8f 845c7b41 40a4cafc`
-
-$h_0' = $ `8225c858 7b4132eb 2d07603f 8391866b b0e114ff 9a049a8f 845c7b41 40a4cafc`
-
-$M = $ `1890eb07 12ed6032 6d887faf 41bd4844 88feb3a1 45f96b56 43b0d716 066aefde b251effc 1e62bff0 28811443 19e1391e 95aabb41 d141d1d7 c8ba029e 06f71e9e`
-
-$M' = $ `1890eb07 12ed6032 6d887faf 41bd4844 88feb3a1 45f96b56 43b0d716 380cf11e b251f000 1e62bff0 287e9443 19e1391e 95aabb41 d141d1d7 c8ba029e 06f71e9a`
-
-$h_1 = $  `41ac6ca0 2de96d95 d9cadad8 938004ad bd9713d7 d9de50c6 617e9b41 dd52783e`
-
-$h_1' = $ `41ac6ca0 2de96d95 d9cadad8 938004ad bd9713d7 d9de50c6 617e9b41 dd52783e`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `8225c858 7b4132eb 2d07603f 8391866b b0e114ff 9a049a8f 845c7b41 40a4cafc` |
+| $h'_0$ | `8225c858 7b4132eb 2d07603f 8391866b b0e114ff 9a049a8f 845c7b41 40a4cafc` |
+| $M$ | `1890eb07 12ed6032 6d887faf 41bd4844 88feb3a1 45f96b56 43b0d716 066aefde b251effc 1e62bff0 28811443 19e1391e 95aabb41 d141d1d7 c8ba029e 06f71e9e` |
+| $M'$ | `1890eb07 12ed6032 6d887faf 41bd4844 88feb3a1 45f96b56 43b0d716 380cf11e b251f000 1e62bff0 287e9443 19e1391e 95aabb41 d141d1d7 c8ba029e 06f71e9a` |
+| $h_1$ | `41ac6ca0 2de96d95 d9cadad8 938004ad bd9713d7 d9de50c6 617e9b41 dd52783e` |
+| $h'_1$ | `41ac6ca0 2de96d95 d9cadad8 938004ad bd9713d7 d9de50c6 617e9b41 dd52783e` |
 
 # 32 steps with seed 0
 
@@ -1534,17 +1219,14 @@ Timed out
 
 # 32 steps with seed 1
 
-$h_0 = $  `182ceae6 abfc9201 8fda1621 1b7c2a88 0e355ad8 ceb1ba08 d2adbb0e 4893cf7`
-
-$h_0' = $ `182ceae6 abfc9201 8fda1621 1b7c2a88 0e355ad8 ceb1ba08 d2adbb0e 4893cf7`
-
-$M = $ `fb4bedfa 6a1656c3 103b8533 43efcc83 02dd4e0b 00d97e72 8cec8032 62c1ee87 5db82ffc 12b8327b 2180f88f d5b69bf9 55be5649 c9a889b0 53b9a687 41d6b6be`
-
-$M' = $ `fb4bedfa 6a1656c3 103b8533 43efcc83 02dd4e0b 00d97e72 8cec8032 5ca7f047 5db83000 12b8327b 217f788f d5b69bf9 55be5649 c9a889b0 53b9a687 41d6b6ba`
-
-$h_1 = $  `1d231b30 61bc24f0 2abcd912 479e3f23 df457515 48c2e826 b20bf557 1aa310be`
-
-$h_1' = $ `1d231b30 61bc24f0 2abcd912 479e3f23 df457515 48c2e826 b20bf557 1aa310be`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `182ceae6 abfc9201 8fda1621 1b7c2a88 0e355ad8 ceb1ba08 d2adbb0e 4893cf7` |
+| $h'_0$ | `182ceae6 abfc9201 8fda1621 1b7c2a88 0e355ad8 ceb1ba08 d2adbb0e 4893cf7` |
+| $M$ | `fb4bedfa 6a1656c3 103b8533 43efcc83 02dd4e0b 00d97e72 8cec8032 62c1ee87 5db82ffc 12b8327b 2180f88f d5b69bf9 55be5649 c9a889b0 53b9a687 41d6b6be` |
+| $M'$ | `fb4bedfa 6a1656c3 103b8533 43efcc83 02dd4e0b 00d97e72 8cec8032 5ca7f047 5db83000 12b8327b 217f788f d5b69bf9 55be5649 c9a889b0 53b9a687 41d6b6ba` |
+| $h_1$ | `1d231b30 61bc24f0 2abcd912 479e3f23 df457515 48c2e826 b20bf557 1aa310be` |
+| $h'_1$ | `1d231b30 61bc24f0 2abcd912 479e3f23 df457515 48c2e826 b20bf557 1aa310be` |
 
 # 32 steps with seed 2
 
@@ -1556,45 +1238,36 @@ Timed out
 
 # 32 steps with seed 4
 
-$h_0 = $  `7ca41ec1 92f02c84 1a1e90e6 a59c8c73 ea430d99 8430811d 4d115201 b640429`
-
-$h_0' = $ `7ca41ec1 92f02c84 1a1e90e6 a59c8c73 ea430d99 8430811d 4d115201 b640429`
-
-$M = $ `f924ae61 4489b28b 3b7132aa c0e490de 013ba7ba 3e884f32 be8c032e c6e22ec7 b255effc 0c68cd0f 51817889 1a2ac0f5 33c6bf7c 84aa94d9 e58cddcf e3a37a14`
-
-$M' = $ `f924ae61 4489b28b 3b7132aa c0e490de 013ba7ba 3e884f32 be8c032e f8843007 b255f000 0c68cd0f 517ef889 1a2ac0f5 33c6bf7c 84aa94d9 e58cddcf e3a37a10`
-
-$h_1 = $  `021e2e26 848c212a 5ee1fc76 e7414b14 a0e3c8fc 4098a38f 2f82cd5f bfbf4c87`
-
-$h_1' = $ `021e2e26 848c212a 5ee1fc76 e7414b14 a0e3c8fc 4098a38f 2f82cd5f bfbf4c87`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `7ca41ec1 92f02c84 1a1e90e6 a59c8c73 ea430d99 8430811d 4d115201 b640429` |
+| $h'_0$ | `7ca41ec1 92f02c84 1a1e90e6 a59c8c73 ea430d99 8430811d 4d115201 b640429` |
+| $M$ | `f924ae61 4489b28b 3b7132aa c0e490de 013ba7ba 3e884f32 be8c032e c6e22ec7 b255effc 0c68cd0f 51817889 1a2ac0f5 33c6bf7c 84aa94d9 e58cddcf e3a37a14` |
+| $M'$ | `f924ae61 4489b28b 3b7132aa c0e490de 013ba7ba 3e884f32 be8c032e f8843007 b255f000 0c68cd0f 517ef889 1a2ac0f5 33c6bf7c 84aa94d9 e58cddcf e3a37a10` |
+| $h_1$ | `021e2e26 848c212a 5ee1fc76 e7414b14 a0e3c8fc 4098a38f 2f82cd5f bfbf4c87` |
+| $h'_1$ | `021e2e26 848c212a 5ee1fc76 e7414b14 a0e3c8fc 4098a38f 2f82cd5f bfbf4c87` |
 
 # 32 steps with seed 5
 
-$h_0 = $  `afc71c29 906ea6ce 0a094f6e 7f578c47 d6545d82 9c4dba6f 3e8c022b f154e6`
-
-$h_0' = $ `afc71c29 906ea6ce 0a094f6e 7f578c47 d6545d82 9c4dba6f 3e8c022b f154e6`
-
-$M = $ `725da437 a090783a 5fefb6e1 9c7582b3 e45d51ed e0018caf 200311bd 46f3aef3 b253effc 8e200299 72812117 811efbf8 9886bc11 3270bf5f 5d4bd1b2 413ee37f`
-
-$M' = $ `725da437 a090783a 5fefb6e1 9c7582b3 e45d51ed e0018caf 200311bd 7895b033 b253f000 8e200299 727ea117 811efbf8 9886bc11 3270bf5f 5d4bd1b2 413ee37b`
-
-$h_1 = $  `52b89194 effa4a2a 552ceff1 cd5bb090 4ff5a8e6 e7036b9f 957963c9 c9ca8cf5`
-
-$h_1' = $ `52b89194 effa4a2a 552ceff1 cd5bb090 4ff5a8e6 e7036b9f 957963c9 c9ca8cf5`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `afc71c29 906ea6ce 0a094f6e 7f578c47 d6545d82 9c4dba6f 3e8c022b f154e6` |
+| $h'_0$ | `afc71c29 906ea6ce 0a094f6e 7f578c47 d6545d82 9c4dba6f 3e8c022b f154e6` |
+| $M$ | `725da437 a090783a 5fefb6e1 9c7582b3 e45d51ed e0018caf 200311bd 46f3aef3 b253effc 8e200299 72812117 811efbf8 9886bc11 3270bf5f 5d4bd1b2 413ee37f` |
+| $M'$ | `725da437 a090783a 5fefb6e1 9c7582b3 e45d51ed e0018caf 200311bd 7895b033 b253f000 8e200299 727ea117 811efbf8 9886bc11 3270bf5f 5d4bd1b2 413ee37b` |
+| $h_1$ | `52b89194 effa4a2a 552ceff1 cd5bb090 4ff5a8e6 e7036b9f 957963c9 c9ca8cf5` |
+| $h'_1$ | `52b89194 effa4a2a 552ceff1 cd5bb090 4ff5a8e6 e7036b9f 957963c9 c9ca8cf5` |
 
 # 32 steps with seed 6
 
-$h_0 = $  `c57916e4 772fda7e 4d34640e 88d43c09 a2678b18 87f18675 f7405b97 10714b5`
-
-$h_0' = $ `c57916e4 772fda7e 4d34640e 88d43c09 a2678b18 87f18675 f7405b97 10714b5`
-
-$M = $ `45f17a6b 28f9ec89 6293afaf 2b93ebc7 b061ebb7 9fd512ea a985c705 47f3cef5 b253effc faa22e0b 08812bb8 be7c65c8 4dbfe8ad dea1118a 698e7a4a 080b4e07`
-
-$M' = $ `45f17a6b 28f9ec89 6293afaf 2b93ebc7 b061ebb7 9fd512ea a985c705 7995d035 b253f000 faa22e0b 087eabb8 be7c65c8 4dbfe8ad dea1118a 698e7a4a 080b4e03`
-
-$h_1 = $  `e09e77e8 395d19ae 1fd161d2 3042fe0e dacc9d81 4a8fb1f7 0495c146 546c0677`
-
-$h_1' = $ `e09e77e8 395d19ae 1fd161d2 3042fe0e dacc9d81 4a8fb1f7 0495c146 546c0677`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `c57916e4 772fda7e 4d34640e 88d43c09 a2678b18 87f18675 f7405b97 10714b5` |
+| $h'_0$ | `c57916e4 772fda7e 4d34640e 88d43c09 a2678b18 87f18675 f7405b97 10714b5` |
+| $M$ | `45f17a6b 28f9ec89 6293afaf 2b93ebc7 b061ebb7 9fd512ea a985c705 47f3cef5 b253effc faa22e0b 08812bb8 be7c65c8 4dbfe8ad dea1118a 698e7a4a 080b4e07` |
+| $M'$ | `45f17a6b 28f9ec89 6293afaf 2b93ebc7 b061ebb7 9fd512ea a985c705 7995d035 b253f000 faa22e0b 087eabb8 be7c65c8 4dbfe8ad dea1118a 698e7a4a 080b4e03` |
+| $h_1$ | `e09e77e8 395d19ae 1fd161d2 3042fe0e dacc9d81 4a8fb1f7 0495c146 546c0677` |
+| $h'_1$ | `e09e77e8 395d19ae 1fd161d2 3042fe0e dacc9d81 4a8fb1f7 0495c146 546c0677` |
 
 # 32 steps with seed 7
 
@@ -1610,17 +1283,14 @@ Timed out
 
 # 33 steps with seed 0
 
-$h_0 = $  `bae17e00 ff033d31 d5d28eaa 7803da0d 3ca61653 f37beb78 7d662963 b095394f`
-
-$h_0' = $ `bae17e00 ff033d31 d5d28eaa 7803da0d 3ca61653 f37beb78 7d662963 b095394f`
-
-$M = $ `9a0116a8 c88be404 da5ec9d6 8ed47468 a02b3285 ef4c8e3a e8279f2c 07ea0ec9 b257effc 143b8ce1 fe81388f 227a8967 9adf6bd4 0f660588 a68fd9e4 e3a1f394`
-
-$M' = $ `9a0116a8 c88be404 da5ec9d6 8ed47468 a02b3285 ef4c8e3a e8279f2c 398c1009 b257f000 143b8ce1 fe7eb88f 227a8967 9adf6bd4 0f660588 a68fd9e4 e3a1f390`
-
-$h_1 = $  `d5e1a8e2 0d3ba225 e8fd0608 f6a3f595 3365d177 07d8cb16 32d99af3 243b385b`
-
-$h_1' = $ `d5e1a8e2 0d3ba225 e8fd0608 f6a3f595 3365d177 07d8cb16 32d99af3 243b385b`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `bae17e00 ff033d31 d5d28eaa 7803da0d 3ca61653 f37beb78 7d662963 b095394f` |
+| $h'_0$ | `bae17e00 ff033d31 d5d28eaa 7803da0d 3ca61653 f37beb78 7d662963 b095394f` |
+| $M$ | `9a0116a8 c88be404 da5ec9d6 8ed47468 a02b3285 ef4c8e3a e8279f2c 07ea0ec9 b257effc 143b8ce1 fe81388f 227a8967 9adf6bd4 0f660588 a68fd9e4 e3a1f394` |
+| $M'$ | `9a0116a8 c88be404 da5ec9d6 8ed47468 a02b3285 ef4c8e3a e8279f2c 398c1009 b257f000 143b8ce1 fe7eb88f 227a8967 9adf6bd4 0f660588 a68fd9e4 e3a1f390` |
+| $h_1$ | `d5e1a8e2 0d3ba225 e8fd0608 f6a3f595 3365d177 07d8cb16 32d99af3 243b385b` |
+| $h'_1$ | `d5e1a8e2 0d3ba225 e8fd0608 f6a3f595 3365d177 07d8cb16 32d99af3 243b385b` |
 
 # 33 steps with seed 1
 
@@ -1628,17 +1298,14 @@ Timed out
 
 # 33 steps with seed 2
 
-$h_0 = $  `cb311449 abb5c6de 7e35f0e2 71cd5422 e269a87a 8df5e9eb 50b9cef4 d273dbb1`
-
-$h_0' = $ `cb311449 abb5c6de 7e35f0e2 71cd5422 e269a87a 8df5e9eb 50b9cef4 d273dbb1`
-
-$M = $ `8cae1703 61077e4b 2fd3ddc1 4a815772 878aa47d 295e9c90 9377d8f4 077acfeb b257effc 9a5b971a 62816110 55316478 5bde6f32 b329cfb3 efb4d3be 024c8dbc`
-
-$M' = $ `8cae1703 61077e4b 2fd3ddc1 4a815772 878aa47d 295e9c90 9377d8f4 391cd12b b257f000 9a5b971a 627ee110 55316478 5bde6f32 b329cfb3 efb4d3be 024c8db8`
-
-$h_1 = $  `1db7e0f8 5333dcad 07768782 81fce97e 9e83b684 406ac775 d72cb665 f2bf69fc`
-
-$h_1' = $ `1db7e0f8 5333dcad 07768782 81fce97e 9e83b684 406ac775 d72cb665 f2bf69fc`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `cb311449 abb5c6de 7e35f0e2 71cd5422 e269a87a 8df5e9eb 50b9cef4 d273dbb1` |
+| $h'_0$ | `cb311449 abb5c6de 7e35f0e2 71cd5422 e269a87a 8df5e9eb 50b9cef4 d273dbb1` |
+| $M$ | `8cae1703 61077e4b 2fd3ddc1 4a815772 878aa47d 295e9c90 9377d8f4 077acfeb b257effc 9a5b971a 62816110 55316478 5bde6f32 b329cfb3 efb4d3be 024c8dbc` |
+| $M'$ | `8cae1703 61077e4b 2fd3ddc1 4a815772 878aa47d 295e9c90 9377d8f4 391cd12b b257f000 9a5b971a 627ee110 55316478 5bde6f32 b329cfb3 efb4d3be 024c8db8` |
+| $h_1$ | `1db7e0f8 5333dcad 07768782 81fce97e 9e83b684 406ac775 d72cb665 f2bf69fc` |
+| $h'_1$ | `1db7e0f8 5333dcad 07768782 81fce97e 9e83b684 406ac775 d72cb665 f2bf69fc` |
 
 # 33 steps with seed 3
 
@@ -1674,17 +1341,14 @@ Timed out
 
 # 34 steps with seed 1
 
-$h_0 = $  `9db33f1c f0a5ce6d b34e1a54 3cf29400 4224eb2d 5b263744 a8259962 da3598f2`
-
-$h_0' = $ `9db33f1c f0a5ce6d b34e1a54 3cf29400 4224eb2d 5b263744 a8259962 da3598f2`
-
-$M = $ `0e207d66 64cce36a 1d8ad2f2 b9c51591 51244d8a fe2a2c41 875b2888 46fa6ee3 b255effc 7d30a5b6 92810697 92d489d8 5fd20ac0 61687c8c 56b03b51 8ef61b2c`
-
-$M' = $ `0e207d66 64cce36a 1d8ad2f2 b9c51591 51244d8a fe2a2c41 875b2888 789c7023 b255f000 7d30a5b6 927e8697 92d489d8 5fd20ac0 61687c8c 56b03b51 8ef61b28`
-
-$h_1 = $  `16867e9a 6591fb9f d44df701 fe349d05 0fbb2030 3e30e510 f33ae48e d10296f1`
-
-$h_1' = $ `16867e9a 6591fb9f d44df701 fe349d05 0fbb2030 3e30e510 f33ae48e d10296f1`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `9db33f1c f0a5ce6d b34e1a54 3cf29400 4224eb2d 5b263744 a8259962 da3598f2` |
+| $h'_0$ | `9db33f1c f0a5ce6d b34e1a54 3cf29400 4224eb2d 5b263744 a8259962 da3598f2` |
+| $M$ | `0e207d66 64cce36a 1d8ad2f2 b9c51591 51244d8a fe2a2c41 875b2888 46fa6ee3 b255effc 7d30a5b6 92810697 92d489d8 5fd20ac0 61687c8c 56b03b51 8ef61b2c` |
+| $M'$ | `0e207d66 64cce36a 1d8ad2f2 b9c51591 51244d8a fe2a2c41 875b2888 789c7023 b255f000 7d30a5b6 927e8697 92d489d8 5fd20ac0 61687c8c 56b03b51 8ef61b28` |
+| $h_1$ | `16867e9a 6591fb9f d44df701 fe349d05 0fbb2030 3e30e510 f33ae48e d10296f1` |
+| $h'_1$ | `16867e9a 6591fb9f d44df701 fe349d05 0fbb2030 3e30e510 f33ae48e d10296f1` |
 
 # 34 steps with seed 2
 
@@ -1708,31 +1372,25 @@ Timed out
 
 # 34 steps with seed 7
 
-$h_0 = $  `c7215969 2e1be80f 6cead5aa 6fab3184 5f45ec2b 7fbe6d29 b9846dd8 e89b5f30`
-
-$h_0' = $ `c7215969 2e1be80f 6cead5aa 6fab3184 5f45ec2b 7fbe6d29 b9846dd8 e89b5f30`
-
-$M = $ `12fe7b38 cb9b22f3 71639807 17d32ad3 644dffa4 661105dd 6e867cc0 c6fb6efb b251effc 28095665 de81788e 0292bed5 63a32027 9c137d96 77eaf57c 7fd5b604`
-
-$M' = $ `12fe7b38 cb9b22f3 71639807 17d32ad3 644dffa4 661105dd 6e867cc0 f89d703b b251f000 28095665 de7ef88e 0292bed5 63a32027 9c137d96 77eaf57c 7fd5b600`
-
-$h_1 = $  `ad2b0acf ec6b12aa 4546463e ce523105 c6a7b32e 64d19754 1c168483 21c5c2d4`
-
-$h_1' = $ `ad2b0acf ec6b12aa 4546463e ce523105 c6a7b32e 64d19754 1c168483 21c5c2d4`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `c7215969 2e1be80f 6cead5aa 6fab3184 5f45ec2b 7fbe6d29 b9846dd8 e89b5f30` |
+| $h'_0$ | `c7215969 2e1be80f 6cead5aa 6fab3184 5f45ec2b 7fbe6d29 b9846dd8 e89b5f30` |
+| $M$ | `12fe7b38 cb9b22f3 71639807 17d32ad3 644dffa4 661105dd 6e867cc0 c6fb6efb b251effc 28095665 de81788e 0292bed5 63a32027 9c137d96 77eaf57c 7fd5b604` |
+| $M'$ | `12fe7b38 cb9b22f3 71639807 17d32ad3 644dffa4 661105dd 6e867cc0 f89d703b b251f000 28095665 de7ef88e 0292bed5 63a32027 9c137d96 77eaf57c 7fd5b600` |
+| $h_1$ | `ad2b0acf ec6b12aa 4546463e ce523105 c6a7b32e 64d19754 1c168483 21c5c2d4` |
+| $h'_1$ | `ad2b0acf ec6b12aa 4546463e ce523105 c6a7b32e 64d19754 1c168483 21c5c2d4` |
 
 # 34 steps with seed 8
 
-$h_0 = $  `9093bf95 d98a457b 8cab4f3d fdb9ec57 b33f3c1a b6c8ab08 73b17399 16342c9`
-
-$h_0' = $ `9093bf95 d98a457b 8cab4f3d fdb9ec57 b33f3c1a b6c8ab08 73b17399 16342c9`
-
-$M = $ `2c011103 67d76395 da76505e bff5b6f7 c0d0552a 3670b4b1 0d3426f0 466b2fc3 b257effc c96c4122 d1810771 5ff04897 04e5be2e 061cb21d 4b52b323 824b43fe`
-
-$M' = $ `2c011103 67d76395 da76505e bff5b6f7 c0d0552a 3670b4b1 0d3426f0 780d3103 b257f000 c96c4122 d17e8771 5ff04897 04e5be2e 061cb21d 4b52b323 824b43fa`
-
-$h_1 = $  `5dd286ae 8dba7998 0fa519f0 5a5e33ed 7c301ae2 d2606679 b36fcf17 f16a9d4a`
-
-$h_1' = $ `5dd286ae 8dba7998 0fa519f0 5a5e33ed 7c301ae2 d2606679 b36fcf17 f16a9d4a`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `9093bf95 d98a457b 8cab4f3d fdb9ec57 b33f3c1a b6c8ab08 73b17399 16342c9` |
+| $h'_0$ | `9093bf95 d98a457b 8cab4f3d fdb9ec57 b33f3c1a b6c8ab08 73b17399 16342c9` |
+| $M$ | `2c011103 67d76395 da76505e bff5b6f7 c0d0552a 3670b4b1 0d3426f0 466b2fc3 b257effc c96c4122 d1810771 5ff04897 04e5be2e 061cb21d 4b52b323 824b43fe` |
+| $M'$ | `2c011103 67d76395 da76505e bff5b6f7 c0d0552a 3670b4b1 0d3426f0 780d3103 b257f000 c96c4122 d17e8771 5ff04897 04e5be2e 061cb21d 4b52b323 824b43fa` |
+| $h_1$ | `5dd286ae 8dba7998 0fa519f0 5a5e33ed 7c301ae2 d2606679 b36fcf17 f16a9d4a` |
+| $h'_1$ | `5dd286ae 8dba7998 0fa519f0 5a5e33ed 7c301ae2 d2606679 b36fcf17 f16a9d4a` |
 
 # 34 steps with seed 9
 
@@ -1744,45 +1402,36 @@ Timed out
 
 # 35 steps with seed 1
 
-$h_0 = $  `e3d4c436 b8b93f85 216c12b0 80171788 a2d3381f a9f48602 080dda26 91ba4b5`
-
-$h_0' = $ `e3d4c436 b8b93f85 216c12b0 80171788 a2d3381f a9f48602 080dda26 91ba4b5`
-
-$M = $ `3e002e81 b481e632 acbb3070 ac12edfd 3b615852 eb911c49 1970ac1a 06722ff4 b251effc 2883f7c7 6b816dde 29689fa9 70e9c202 b9503d58 79d6ce6b 8bc01c4e`
-
-$M' = $ `3e002e81 b481e632 acbb3070 ac12edfd 3b615852 eb911c49 1970ac1a 38143134 b251f000 2883f7c7 6b7eedde 29689fa9 70e9c202 b9503d58 79d6ce6b 8bc01c4a`
-
-$h_1 = $  `ed2897ea db74e57c 8c4b35bb 8a7201a8 1e1b26ff afc85e6b 6b83960a 579fbad2`
-
-$h_1' = $ `ed2897ea db74e57c 8c4b35bb 8a7201a8 1e1b26ff afc85e6b 6b83960a 579fbad2`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `e3d4c436 b8b93f85 216c12b0 80171788 a2d3381f a9f48602 080dda26 91ba4b5` |
+| $h'_0$ | `e3d4c436 b8b93f85 216c12b0 80171788 a2d3381f a9f48602 080dda26 91ba4b5` |
+| $M$ | `3e002e81 b481e632 acbb3070 ac12edfd 3b615852 eb911c49 1970ac1a 06722ff4 b251effc 2883f7c7 6b816dde 29689fa9 70e9c202 b9503d58 79d6ce6b 8bc01c4e` |
+| $M'$ | `3e002e81 b481e632 acbb3070 ac12edfd 3b615852 eb911c49 1970ac1a 38143134 b251f000 2883f7c7 6b7eedde 29689fa9 70e9c202 b9503d58 79d6ce6b 8bc01c4a` |
+| $h_1$ | `ed2897ea db74e57c 8c4b35bb 8a7201a8 1e1b26ff afc85e6b 6b83960a 579fbad2` |
+| $h'_1$ | `ed2897ea db74e57c 8c4b35bb 8a7201a8 1e1b26ff afc85e6b 6b83960a 579fbad2` |
 
 # 35 steps with seed 2
 
-$h_0 = $  `5115a12f 13b45610 1086d8ef 987110ec df0aadcd 3a9c016f d0f069e2 3698a556`
-
-$h_0' = $ `5115a12f 13b45610 1086d8ef 987110ec df0aadcd 3a9c016f d0f069e2 3698a556`
-
-$M = $ `a55398c6 fc45a75b 910b7ea7 b86d8cc1 3b3cfee4 add091cc 83fff008 46ea6ec0 b251effc 1a373963 578173c5 8616227a f2b3f4a7 82484170 e5d53dce 72a6799e`
-
-$M' = $ `a55398c6 fc45a75b 910b7ea7 b86d8cc1 3b3cfee4 add091cc 83fff008 788c7000 b251f000 1a373963 577ef3c5 8616227a f2b3f4a7 82484170 e5d53dce 72a6799a`
-
-$h_1 = $  `ace1d32e df45db3d 1c4b2acc ac58c411 785601d1 b2a9bb6b 325a9ae0 7340c1a1`
-
-$h_1' = $ `ace1d32e df45db3d 1c4b2acc ac58c411 785601d1 b2a9bb6b 325a9ae0 7340c1a1`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `5115a12f 13b45610 1086d8ef 987110ec df0aadcd 3a9c016f d0f069e2 3698a556` |
+| $h'_0$ | `5115a12f 13b45610 1086d8ef 987110ec df0aadcd 3a9c016f d0f069e2 3698a556` |
+| $M$ | `a55398c6 fc45a75b 910b7ea7 b86d8cc1 3b3cfee4 add091cc 83fff008 46ea6ec0 b251effc 1a373963 578173c5 8616227a f2b3f4a7 82484170 e5d53dce 72a6799e` |
+| $M'$ | `a55398c6 fc45a75b 910b7ea7 b86d8cc1 3b3cfee4 add091cc 83fff008 788c7000 b251f000 1a373963 577ef3c5 8616227a f2b3f4a7 82484170 e5d53dce 72a6799a` |
+| $h_1$ | `ace1d32e df45db3d 1c4b2acc ac58c411 785601d1 b2a9bb6b 325a9ae0 7340c1a1` |
+| $h'_1$ | `ace1d32e df45db3d 1c4b2acc ac58c411 785601d1 b2a9bb6b 325a9ae0 7340c1a1` |
 
 # 35 steps with seed 3
 
-$h_0 = $  `af788d45 b7d24b94 fdd92e12 7b2e8b3b f6eede89 99235976 b5bfc70b 6de62`
-
-$h_0' = $ `af788d45 b7d24b94 fdd92e12 7b2e8b3b f6eede89 99235976 b5bfc70b 6de62`
-
-$M = $ `b0c42500 0a9f3efa 78b0b493 0237f53f 9b3f15c2 f3b4ca70 6e696102 86f2aeff b257effc 91aa8a9e d88173c0 adff5443 22c96b41 ea990830 69a56263 b9e19485`
-
-$M' = $ `b0c42500 0a9f3efa 78b0b493 0237f53f 9b3f15c2 f3b4ca70 6e696102 b894b03f b257f000 91aa8a9e d87ef3c0 adff5443 22c96b41 ea990830 69a56263 b9e19481`
-
-$h_1 = $  `75f5305a 444b6db0 c73e98d6 eae876d3 01603922 687e4d40 2a7de5e8 46ff37a1`
-
-$h_1' = $ `75f5305a 444b6db0 c73e98d6 eae876d3 01603922 687e4d40 2a7de5e8 46ff37a1`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `af788d45 b7d24b94 fdd92e12 7b2e8b3b f6eede89 99235976 b5bfc70b 6de62` |
+| $h'_0$ | `af788d45 b7d24b94 fdd92e12 7b2e8b3b f6eede89 99235976 b5bfc70b 6de62` |
+| $M$ | `b0c42500 0a9f3efa 78b0b493 0237f53f 9b3f15c2 f3b4ca70 6e696102 86f2aeff b257effc 91aa8a9e d88173c0 adff5443 22c96b41 ea990830 69a56263 b9e19485` |
+| $M'$ | `b0c42500 0a9f3efa 78b0b493 0237f53f 9b3f15c2 f3b4ca70 6e696102 b894b03f b257f000 91aa8a9e d87ef3c0 adff5443 22c96b41 ea990830 69a56263 b9e19481` |
+| $h_1$ | `75f5305a 444b6db0 c73e98d6 eae876d3 01603922 687e4d40 2a7de5e8 46ff37a1` |
+| $h'_1$ | `75f5305a 444b6db0 c73e98d6 eae876d3 01603922 687e4d40 2a7de5e8 46ff37a1` |
 
 # 35 steps with seed 4
 
@@ -1798,17 +1447,14 @@ Timed out
 
 # 35 steps with seed 7
 
-$h_0 = $  `9db81924 c1fbac74 206a4327 4f28a115 300a9f52 f2c434de 7047d2c3 583a72d7`
-
-$h_0' = $ `9db81924 c1fbac74 206a4327 4f28a115 300a9f52 f2c434de 7047d2c3 583a72d7`
-
-$M = $ `3344ad79 a4eab62d d106d623 6edb0277 933c9b99 10668c9c f3f4a813 47e28ed9 b253effc 18bf851f 6181788e f9396d1a afb6eeb8 c786d437 ccb4279c 74b4b6bf`
-
-$M' = $ `3344ad79 a4eab62d d106d623 6edb0277 933c9b99 10668c9c f3f4a813 79849019 b253f000 18bf851f 617ef88e f9396d1a afb6eeb8 c786d437 ccb4279c 74b4b6bb`
-
-$h_1 = $  `a55af026 9cdd24f9 4b460cbf d9ef6c35 98e630ab 678053c0 983b4def a584f627`
-
-$h_1' = $ `a55af026 9cdd24f9 4b460cbf d9ef6c35 98e630ab 678053c0 983b4def a584f627`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `9db81924 c1fbac74 206a4327 4f28a115 300a9f52 f2c434de 7047d2c3 583a72d7` |
+| $h'_0$ | `9db81924 c1fbac74 206a4327 4f28a115 300a9f52 f2c434de 7047d2c3 583a72d7` |
+| $M$ | `3344ad79 a4eab62d d106d623 6edb0277 933c9b99 10668c9c f3f4a813 47e28ed9 b253effc 18bf851f 6181788e f9396d1a afb6eeb8 c786d437 ccb4279c 74b4b6bf` |
+| $M'$ | `3344ad79 a4eab62d d106d623 6edb0277 933c9b99 10668c9c f3f4a813 79849019 b253f000 18bf851f 617ef88e f9396d1a afb6eeb8 c786d437 ccb4279c 74b4b6bb` |
+| $h_1$ | `a55af026 9cdd24f9 4b460cbf d9ef6c35 98e630ab 678053c0 983b4def a584f627` |
+| $h'_1$ | `a55af026 9cdd24f9 4b460cbf d9ef6c35 98e630ab 678053c0 983b4def a584f627` |
 
 # 35 steps with seed 8
 
@@ -1828,17 +1474,14 @@ Timed out
 
 # 36 steps with seed 2
 
-$h_0 = $  `a04b0e10 a1291f9e a503942e 74e88622 709be581 140824d2 d61357d1 e992f0ac`
-
-$h_0' = $ `a04b0e10 a1291f9e a503942e 74e88622 709be581 140824d2 d61357d1 e992f0ac`
-
-$M = $ `67b9a305 c6699516 7f7d9ff7 ffff6abf b6be2adc f7df820c 3ea82ddb 212c0f41 f8006fff 1af46464 41815f0e f088cf73 a2bcae74 837a89e8 d6195ab5 f5d0e8dd`
-
-$M' = $ `67b9a305 c6699516 7f7d9ff7 ffff6abf b6be2adc f7df820c 3ea82ddb 1f4a1181 f8007003 1af46464 417edf0e f088cf73 a2bcae74 837a89e8 d6195ab5 f5d0e8d9`
-
-$h_1 = $  `16b2b688 4b07b4d5 aecd5d0c ca08521f b6a7796c 2fd3418a d03cca53 25a773c7`
-
-$h_1' = $ `16b2b688 4b07b4d5 aecd5d0c ca08521f b6a7796c 2fd3418a d03cca53 25a773c7`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `a04b0e10 a1291f9e a503942e 74e88622 709be581 140824d2 d61357d1 e992f0ac` |
+| $h'_0$ | `a04b0e10 a1291f9e a503942e 74e88622 709be581 140824d2 d61357d1 e992f0ac` |
+| $M$ | `67b9a305 c6699516 7f7d9ff7 ffff6abf b6be2adc f7df820c 3ea82ddb 212c0f41 f8006fff 1af46464 41815f0e f088cf73 a2bcae74 837a89e8 d6195ab5 f5d0e8dd` |
+| $M'$ | `67b9a305 c6699516 7f7d9ff7 ffff6abf b6be2adc f7df820c 3ea82ddb 1f4a1181 f8007003 1af46464 417edf0e f088cf73 a2bcae74 837a89e8 d6195ab5 f5d0e8d9` |
+| $h_1$ | `16b2b688 4b07b4d5 aecd5d0c ca08521f b6a7796c 2fd3418a d03cca53 25a773c7` |
+| $h'_1$ | `16b2b688 4b07b4d5 aecd5d0c ca08521f b6a7796c 2fd3418a d03cca53 25a773c7` |
 
 # 36 steps with seed 3
 
@@ -1882,17 +1525,14 @@ Timed out
 
 # 37 steps with seed 3
 
-$h_0 = $  `62445961 7fdf32c1 6621536e ff06b488 a54eb70f 3d16a7f9 38012a26 c4c7cca`
-
-$h_0' = $ `62445961 7fdf32c1 6621536e ff06b488 a54eb70f 3d16a7f9 38012a26 c4c7cca`
-
-$M = $ `f11943a6 4870074f 400ac092 28de816b 2062deca 73b23492 a6edbc79 ec2f2f46 da362fff 5617c8bf b7812bb8 966e34ec beb407c3 f2d14c59 66f7cd4e 3c188dcf`
-
-$M' = $ `f11943a6 4870074f 400ac092 28de816b 2062deca 73b23492 a6edbc79 d2493186 da363003 5617c8bf b77eabb8 966e34ec beb407c3 f2d14c59 66f7cd4e 3c188dcb`
-
-$h_1 = $  `b90bb0a1 6850ea0d 23c4a0b0 d780346d bb1d419a 8bad8c98 c918bb7e 86793930`
-
-$h_1' = $ `b90bb0a1 6850ea0d 23c4a0b0 d780346d bb1d419a 8bad8c98 c918bb7e 86793930`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `62445961 7fdf32c1 6621536e ff06b488 a54eb70f 3d16a7f9 38012a26 c4c7cca` |
+| $h'_0$ | `62445961 7fdf32c1 6621536e ff06b488 a54eb70f 3d16a7f9 38012a26 c4c7cca` |
+| $M$ | `f11943a6 4870074f 400ac092 28de816b 2062deca 73b23492 a6edbc79 ec2f2f46 da362fff 5617c8bf b7812bb8 966e34ec beb407c3 f2d14c59 66f7cd4e 3c188dcf` |
+| $M'$ | `f11943a6 4870074f 400ac092 28de816b 2062deca 73b23492 a6edbc79 d2493186 da363003 5617c8bf b77eabb8 966e34ec beb407c3 f2d14c59 66f7cd4e 3c188dcb` |
+| $h_1$ | `b90bb0a1 6850ea0d 23c4a0b0 d780346d bb1d419a 8bad8c98 c918bb7e 86793930` |
+| $h'_1$ | `b90bb0a1 6850ea0d 23c4a0b0 d780346d bb1d419a 8bad8c98 c918bb7e 86793930` |
 
 # 37 steps with seed 4
 
@@ -1924,45 +1564,36 @@ Timed out
 
 # 38 steps with seed 1
 
-$h_0 = $  `f5937fb0 be6e3de3 182ee95b 681daf50 779b0e42 44259bcb 887856d1 5d353339`
-
-$h_0' = $ `f5937fb0 be6e3de3 182ee95b 681daf50 779b0e42 44259bcb 887856d1 5d353339`
-
-$M = $ `71a494e0 6b545018 1b6b5a2e 83230113 000a42b1 209e0704 1acc755d 2ca22e58 dad82fff ea71ec53 a181788a fb6b283f 2271f628 32fc2110 69bd88b9 7618e974`
-
-$M' = $ `71a494e0 6b545018 1b6b5a2e 83230113 000a42b1 209e0704 1acc755d 12c43098 dad83003 ea71ec53 a17ef88a fb6b283f 2271f628 32fc2110 69bd88b9 7618e970`
-
-$h_1 = $  `9ab07e8c ff9c3403 819b100d a2b0616b eb8fd314 971db82a b9dffef8 b58579bc`
-
-$h_1' = $ `9ab07e8c ff9c3403 819b100d a2b0616b eb8fd314 971db82a b9dffef8 b58579bc`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `f5937fb0 be6e3de3 182ee95b 681daf50 779b0e42 44259bcb 887856d1 5d353339` |
+| $h'_0$ | `f5937fb0 be6e3de3 182ee95b 681daf50 779b0e42 44259bcb 887856d1 5d353339` |
+| $M$ | `71a494e0 6b545018 1b6b5a2e 83230113 000a42b1 209e0704 1acc755d 2ca22e58 dad82fff ea71ec53 a181788a fb6b283f 2271f628 32fc2110 69bd88b9 7618e974` |
+| $M'$ | `71a494e0 6b545018 1b6b5a2e 83230113 000a42b1 209e0704 1acc755d 12c43098 dad83003 ea71ec53 a17ef88a fb6b283f 2271f628 32fc2110 69bd88b9 7618e970` |
+| $h_1$ | `9ab07e8c ff9c3403 819b100d a2b0616b eb8fd314 971db82a b9dffef8 b58579bc` |
+| $h'_1$ | `9ab07e8c ff9c3403 819b100d a2b0616b eb8fd314 971db82a b9dffef8 b58579bc` |
 
 # 38 steps with seed 2
 
-$h_0 = $  `574f2e8f a47ad254 ec215192 e1b8a02a ba74d9fd f5434074 8f0eb85f 996df4b0`
-
-$h_0' = $ `574f2e8f a47ad254 ec215192 e1b8a02a ba74d9fd f5434074 8f0eb85f 996df4b0`
-
-$M = $ `4fd0fe5d 48a63207 49f0eddc 7c9222fa 516de8f8 7158c238 66dd033a c7738fe4 b253effc 5ebb0725 2281796f 0fa02f94 bb04224f 24c08acf 102a8061 926e0fd4`
-
-$M' = $ `4fd0fe5d 48a63207 49f0eddc 7c9222fa 516de8f8 7158c238 66dd033a f9159124 b253f000 5ebb0725 227ef96f 0fa02f94 bb04224f 24c08acf 102a8061 926e0fd0`
-
-$h_1 = $  `406f9434 36573b8c edc65238 0a58def1 d622a871 aa778d58 fbcf2991 a586e1e0`
-
-$h_1' = $ `406f9434 36573b8c edc65238 0a58def1 d622a871 aa778d58 fbcf2991 a586e1e0`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `574f2e8f a47ad254 ec215192 e1b8a02a ba74d9fd f5434074 8f0eb85f 996df4b0` |
+| $h'_0$ | `574f2e8f a47ad254 ec215192 e1b8a02a ba74d9fd f5434074 8f0eb85f 996df4b0` |
+| $M$ | `4fd0fe5d 48a63207 49f0eddc 7c9222fa 516de8f8 7158c238 66dd033a c7738fe4 b253effc 5ebb0725 2281796f 0fa02f94 bb04224f 24c08acf 102a8061 926e0fd4` |
+| $M'$ | `4fd0fe5d 48a63207 49f0eddc 7c9222fa 516de8f8 7158c238 66dd033a f9159124 b253f000 5ebb0725 227ef96f 0fa02f94 bb04224f 24c08acf 102a8061 926e0fd0` |
+| $h_1$ | `406f9434 36573b8c edc65238 0a58def1 d622a871 aa778d58 fbcf2991 a586e1e0` |
+| $h'_1$ | `406f9434 36573b8c edc65238 0a58def1 d622a871 aa778d58 fbcf2991 a586e1e0` |
 
 # 38 steps with seed 3
 
-$h_0 = $  `a04ae2f7 59bc1352 aa9edda0 75af0ec0 7483c945 cc01c98a 9718cd73 66a3add9`
-
-$h_0' = $ `a04ae2f7 59bc1352 aa9edda0 75af0ec0 7483c945 cc01c98a 9718cd73 66a3add9`
-
-$M = $ `fdfba4a1 57dc81a3 262b1333 0af6f80e 85ed06f2 671b7ea7 fa39979b 866aefdf b251effc d676f98c 1e810772 d54baca4 effe0013 cb039a28 4ba7da40 12849b96`
-
-$M' = $ `fdfba4a1 57dc81a3 262b1333 0af6f80e 85ed06f2 671b7ea7 fa39979b b80cf11f b251f000 d676f98c 1e7e8772 d54baca4 effe0013 cb039a28 4ba7da40 12849b92`
-
-$h_1 = $  `965d7e41 882e4ec0 0c673486 d7b950c0 ca79325d c786f905 f789241b b196ff6e`
-
-$h_1' = $ `965d7e41 882e4ec0 0c673486 d7b950c0 ca79325d c786f905 f789241b b196ff6e`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `a04ae2f7 59bc1352 aa9edda0 75af0ec0 7483c945 cc01c98a 9718cd73 66a3add9` |
+| $h'_0$ | `a04ae2f7 59bc1352 aa9edda0 75af0ec0 7483c945 cc01c98a 9718cd73 66a3add9` |
+| $M$ | `fdfba4a1 57dc81a3 262b1333 0af6f80e 85ed06f2 671b7ea7 fa39979b 866aefdf b251effc d676f98c 1e810772 d54baca4 effe0013 cb039a28 4ba7da40 12849b96` |
+| $M'$ | `fdfba4a1 57dc81a3 262b1333 0af6f80e 85ed06f2 671b7ea7 fa39979b b80cf11f b251f000 d676f98c 1e7e8772 d54baca4 effe0013 cb039a28 4ba7da40 12849b92` |
+| $h_1$ | `965d7e41 882e4ec0 0c673486 d7b950c0 ca79325d c786f905 f789241b b196ff6e` |
+| $h'_1$ | `965d7e41 882e4ec0 0c673486 d7b950c0 ca79325d c786f905 f789241b b196ff6e` |
 
 # 38 steps with seed 4
 
@@ -1970,17 +1601,14 @@ Timed out
 
 # 38 steps with seed 5
 
-$h_0 = $  `94c19ad6 bcac75f7 cade3f35 48b2236a 62c265c8 d6f7cab8 4f21d8cd 4015435`
-
-$h_0' = $ `94c19ad6 bcac75f7 cade3f35 48b2236a 62c265c8 d6f7cab8 4f21d8cd 4015435`
-
-$M = $ `7f9d437d 59d953ac fc7ebef3 dbfd57f8 7dc2bbaf 786c270d fc57e8af c77b0ff9 b251effc ecb57ff9 1b811223 0af18d72 b0aa8f44 1ed1c4e7 b13d85fe 51d0fbdf`
-
-$M' = $ `7f9d437d 59d953ac fc7ebef3 dbfd57f8 7dc2bbaf 786c270d fc57e8af f91d1139 b251f000 ecb57ff9 1b7e9223 0af18d72 b0aa8f44 1ed1c4e7 b13d85fe 51d0fbdb`
-
-$h_1 = $  `f55db78b 4b73550c 01074a8d 772d4dfd dc5eacf7 9fdd14e6 cc678178 ad53d0db`
-
-$h_1' = $ `f55db78b 4b73550c 01074a8d 772d4dfd dc5eacf7 9fdd14e6 cc678178 ad53d0db`
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `94c19ad6 bcac75f7 cade3f35 48b2236a 62c265c8 d6f7cab8 4f21d8cd 4015435` |
+| $h'_0$ | `94c19ad6 bcac75f7 cade3f35 48b2236a 62c265c8 d6f7cab8 4f21d8cd 4015435` |
+| $M$ | `7f9d437d 59d953ac fc7ebef3 dbfd57f8 7dc2bbaf 786c270d fc57e8af c77b0ff9 b251effc ecb57ff9 1b811223 0af18d72 b0aa8f44 1ed1c4e7 b13d85fe 51d0fbdf` |
+| $M'$ | `7f9d437d 59d953ac fc7ebef3 dbfd57f8 7dc2bbaf 786c270d fc57e8af f91d1139 b251f000 ecb57ff9 1b7e9223 0af18d72 b0aa8f44 1ed1c4e7 b13d85fe 51d0fbdb` |
+| $h_1$ | `f55db78b 4b73550c 01074a8d 772d4dfd dc5eacf7 9fdd14e6 cc678178 ad53d0db` |
+| $h'_1$ | `f55db78b 4b73550c 01074a8d 772d4dfd dc5eacf7 9fdd14e6 cc678178 ad53d0db` |
 
 # 38 steps with seed 6
 
