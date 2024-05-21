@@ -1175,7 +1175,14 @@ Timed out
 
 # 31 steps with seed 7
 
-Timed out
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `1bb1f896 6ed83382 813ce2aa 1ef19fb7 7058d941 753b6173 fab27d36 f281c362` |
+| $h'_0$ | `1bb1f896 6ed83382 813ce2aa 1ef19fb7 7058d941 753b6173 fab27d36 f281c362` |
+| $M$ | `39cd4de5 da330564 7e16572f 77662c4a e4b33de9 c76e31dd d0792d85 06f3eeec b251effc d7dc6418 c7814c39 5b600e98 bbe452ce a3f9ef02 29c649f6 d44b7795` |
+| $M'$ | `39cd4de5 da330564 7e16572f 77662c4a e4b33de9 c76e31dd d0792d85 3895f02c b251f000 d7dc6418 c77ecc39 5b600e98 bbe452ce a3f9ef02 29c649f6 d44b7791` |
+| $h_1$ | `f8fe4c0e 70a2eec6 f56076be 90a60a64 b1d992a8 6e617596 aee89953 d73202af` |
+| $h'_1$ | `f8fe4c0e 70a2eec6 f56076be 90a60a64 b1d992a8 6e617596 aee89953 d73202af` |
 
 # 31 steps with seed 8
 
@@ -1435,7 +1442,14 @@ Timed out
 
 # 36 steps with seed 1
 
-Timed out
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `ed70731a 91df3c28 94b23556 320d2103 9d476986 cea592f1 c6401a68 c3bd5d9b` |
+| $h'_0$ | `ed70731a 91df3c28 94b23556 320d2103 9d476986 cea592f1 c6401a68 c3bd5d9b` |
+| $M$ | `d9a1ce14 eb2dfd8f 0360b4c0 3e2b62d7 e829bfc2 6ac71986 108476af c7eb0ec2 b255effc ec023ea7 d78173c7 71026537 8d9dd11e e135841f e39abe35 d0e02435` |
+| $M'$ | `d9a1ce14 eb2dfd8f 0360b4c0 3e2b62d7 e829bfc2 6ac71986 108476af f98d1002 b255f000 ec023ea7 d77ef3c7 71026537 8d9dd11e e135841f e39abe35 d0e02431` |
+| $h_1$ | `40e6da6b 2485eb57 3f8023bc c7657008 a904d530 54248efa 9309fa52 001fc28e` |
+| $h'_1$ | `40e6da6b 2485eb57 3f8023bc c7657008 a904d530 54248efa 9309fa52 001fc28e` |
 
 # 36 steps with seed 2
 
@@ -1473,7 +1487,14 @@ Timed out
 
 # 36 steps with seed 7
 
-Timed out
+| Variable | Value                                                                     |
+|--------|---------------------------------------------------------------------------|
+| $h_0$  | `6a004f2f 9918fdc2 467c8022 34f24ea8 4fec3f26 92f54b17 ddb32d32 fc334c5f` |
+| $h'_0$ | `6a004f2f 9918fdc2 467c8022 34f24ea8 4fec3f26 92f54b17 ddb32d32 fc334c5f` |
+| $M$ | `1a4a1ff8 62cac121 187879d4 c6b0dfbd d54dd114 9afd32f0 70fe54a0 ed2f8f48 da302fff c45f8a54 848155a0 8c5c36de c0c409a6 f2d14c59 66f7cd4e 3c188dcf` |
+| $M'$ | `1a4a1ff8 62cac121 187879d4 c6b0dfbd d54dd114 9afd32f0 70fe54a0 d3499188 da303003 c45f8a54 847ed5a0 8c5c36de c0c409a6 f2d14c59 66f7cd4e 3c188dcb` |
+| $h_1$ | `dcf6dc1b 895306f7 f1558782 32a98d85 3b56371e 1c96b7f1 65b86740 2d5d0fac` |
+| $h'_1$ | `dcf6dc1b 895306f7 f1558782 32a98d85 3b56371e 1c96b7f1 65b86740 2d5d0fac` |
 
 # 36 steps with seed 8
 
