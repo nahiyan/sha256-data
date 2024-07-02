@@ -73,11 +73,17 @@ def parse_log(order, msg_start, cv_start):
         assert len(cvs[1]) == 8
         hashes = [_hash(order, msgs[0], cvs[0]), _hash(order, msgs[1], cvs[1])]
 
+        assert len(hashes[0]) == 64
+        assert len(hashes[1]) == 64
+
         h_0, h_0_prime = "", ""
         for value in cvs[0]:
-            h_0 += "{:x}".format(value)
+            h_0 += "{:08x}".format(value)
         for value in cvs[1]:
-            h_0_prime += "{:x}".format(value)
+            h_0_prime += "{:08x}".format(value)
+
+        assert len(h_0) == 64
+        assert len(h_0_prime) == 64
 
         print(
             f"""| Variable | Value                                                                     |
